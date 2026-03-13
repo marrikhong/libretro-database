@@ -11171,7 +11171,7 @@ game (
 
 game (
 	comment "Sonic & Knuckles (World)"
-	genre "Shoot'em Up"
+	genre "Platform"
 	rom ( crc 0658F691 )
 )
 

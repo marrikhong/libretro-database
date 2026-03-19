@@ -3406,7 +3406,7 @@ game (
 game (
 	name "All About PlayStation Game Hits Vol. 1"
 	serial "BCAS20226"
-	publisher "Sony Computer Entertainment Inc."
+	publisher "Sony Computer Entertainment"
 	users 1
 	rom (
 		name "All About PlayStation Game Hits Vol. 1.iso"
@@ -46215,7 +46215,7 @@ game (
 	name "Gran Turismo 6 (USA)"
 	serial "BCUS99247"
 	developer "Poliphony Digital"
-	publisher "Sony Computer Entertainment Inc."
+	publisher "Sony Computer Entertainment"
 	releaseyear 2013
 	releasemonth 12
 	releaseday 6
@@ -71522,7 +71522,7 @@ game (
 	name "Move Fitness"
 	serial "BCAS20219"
 	developer "Coldwood Interactive"
-	publisher "Sony Computer Entertainment Inc."
+	publisher "Sony Computer Entertainment"
 	releaseyear 2011
 	releasemonth 11
 	releaseday 23
@@ -105900,7 +105900,7 @@ game (
 	name "Start the Party 2! Save the World"
 	serial "BCAS20213"
 	developer "Supermassive Games Ltd."
-	publisher "Sony Computer Entertainment Inc."
+	publisher "Sony Computer Entertainment"
 	releaseyear 2011
 	releasemonth 11
 	releaseday 23
@@ -106020,7 +106020,7 @@ game (
 	name "Start the Party! Save the World (Europe)"
 	serial "BCES01273"
 	developer "Supermassive Games Ltd."
-	publisher "Sony Computer Entertainment Inc."
+	publisher "Sony Computer Entertainment"
 	releaseyear 2011
 	releasemonth 11
 	releaseday 23

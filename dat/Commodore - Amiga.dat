@@ -1,6 +1,6 @@
 clrmamepro (
 	name "Commodore - Amiga - WHDLoad"
-	date "2026-01-31"
+	date "2026-03-25"
 	author "libretro"
 	comment "Retroplay's WHDLoad Games & Beta/Unofficial, full sets"
 )
@@ -2007,7 +2007,12 @@ game (
 
 game (
 	name "Black Dawn II (Europe) (Licenceware)"
-	rom ( name "BlackDawn2_v1.1.lha" size 498130 crc 2BC9F286 sha1 10c743553afc51d135fc01f79636cb2ac26ab652 )
+	rom ( name "BlackDawn2_v1.2.lha" size 498278 crc 9D5188A3 sha1 86eeda82f367e55f9fcd6311c1b291041af181e9 )
+)
+
+game (
+	name "Black Dawn II (Europe) (Shareware)"
+	rom ( name "BlackDawn2_v1.2_Shareware.lha" size 443912 crc 8F481D48 sha1 8ee6a80fff5e1ff3beed9ec2ffedb7683f2787c0 )
 )
 
 game (
@@ -2803,17 +2808,22 @@ game (
 
 game (
 	name "Cannon Fodder 2 (Europe)"
-	rom ( name "CannonFodder2_v1.12_0104.lha" size 1435113 crc E8D4EB6A sha1 df3a165742f851b79185e23ac4f7131894eb86d1 )
+	rom ( name "CannonFodder2_v1.15_0104.lha" size 1462816 crc EB32E307 sha1 38cb0268095129c02535d18bc1f59b3a64b25141 )
 )
 
 game (
 	name "Cannon Fodder 2 (Germany)"
-	rom ( name "CannonFodder2_v1.12_De_0241.lha" size 1412741 crc 5A24722E sha1 13f27f63af5c048b33f43876c0bd51b27c477691 )
+	rom ( name "CannonFodder2_v1.15_De_0241.lha" size 1440435 crc E0F6B90C sha1 74ed4af4c89c646b4ccaa69134849dca07587a12 )
 )
 
 game (
 	name "Cannon Fodder 2 (France)"
-	rom ( name "CannonFodder2_v1.12_Fr_2578.lha" size 1411954 crc 762BBC6F sha1 31113209f318207d5f757c32226661c340dc47d9 )
+	rom ( name "CannonFodder2_v1.15_Fr_2578.lha" size 1439627 crc 3E99057C sha1 79837cb488f78fe5361bb3f81bd2d3fa7f984d8a )
+)
+
+game (
+	name "Cannon Fodder 2 (Italy)"
+	rom ( name "CannonFodder2_v1.15_It.lha" size 1437076 crc 7207BE1D sha1 7336811e5652f7bf71ea77799dd009dbf591137f )
 )
 
 game (
@@ -2828,22 +2838,22 @@ game (
 
 game (
 	name "Cannon Fodder (Europe)"
-	rom ( name "CannonFodder_v2.0_0860.lha" size 1553045 crc 40DA8F0E sha1 ddcda9b51e132bfee68e35816a7664dcdfa402c2 )
+	rom ( name "CannonFodder_v2.1_0860.lha" size 1552065 crc 05390AB2 sha1 17426fdf03384a303de26660b8f5239c1fc1db6b )
 )
 
 game (
 	name "Cannon Fodder (Germany)"
-	rom ( name "CannonFodder_v2.0_De.lha" size 1551535 crc DF7E8773 sha1 4f81e2af03ac6487d83442f64f1529396f33b63b )
+	rom ( name "CannonFodder_v2.1_De.lha" size 1549912 crc C11FEFA2 sha1 43bff0918807604e69f38a395950418728625abb )
 )
 
 game (
 	name "Cannon Fodder (France)"
-	rom ( name "CannonFodder_v2.0_Fr_2332.lha" size 1555008 crc 00DF7039 sha1 7f943ad7a80134d4bd2b15362f692761821d8081 )
+	rom ( name "CannonFodder_v2.1_Fr_2332.lha" size 1553377 crc FD04D225 sha1 41857e04b5712e64b8c325092f9eb312af733e38 )
 )
 
 game (
 	name "Cannon Fodder (Italy)"
-	rom ( name "CannonFodder_v2.0_It.lha" size 1550997 crc 2B3B6374 sha1 6f396602ebbbb829695fd31f49d110e5e343d1b7 )
+	rom ( name "CannonFodder_v2.1_It.lha" size 1549517 crc CA46E752 sha1 b0c4f55b89641bc3e91295ef934bc706c136239c )
 )
 
 game (
@@ -5104,6 +5114,11 @@ game (
 game (
 	name "DragonScape (Europe)"
 	rom ( name "DragonScape_v1.1.lha" size 304815 crc 868D899C sha1 19ae4f2d3964eb621b46fc95a1fb47a26f13e784 )
+)
+
+game (
+	name "DragonScape (USA)"
+	rom ( name "DragonScape_v1.1_NTSC.lha" size 305184 crc 958AD08C sha1 e52da2aa3ce95a1dfedfb4b621f5784989d11a53 )
 )
 
 game (
@@ -7956,7 +7971,7 @@ game (
 )
 
 game (
-	name "Heimdall 2 (Europe)"
+	name "Heimdall 2 (Europe) (En,Fr,De,It)"
 	rom ( name "Heimdall2_v1.6_1165.lha" size 2631496 crc 98A7C29D sha1 fc150be00e17a305494661a26671fc1cc2d3c6b5 )
 )
 
@@ -8001,7 +8016,7 @@ game (
 )
 
 game (
-	name "Hellowoon - Das Geheimnis Des Zauberstabs (Germany)"
+	name "Hellowoon - Das Geheimnis des Zauberstabs (Germany)"
 	rom ( name "Hellowoon_v1.0_De.lha" size 411278 crc 2D4240A8 sha1 f4c87abd6709edfef67f527819d98bc8facb8b3e )
 )
 
@@ -8016,7 +8031,7 @@ game (
 )
 
 game (
-	name "Hellrun Machine, The (Europe)"
+	name "Hellrun Machine, The (Europe) (Coverdisk - Amiga Fun DE #11/92, Amiga Mania #8)"
 	rom ( name "HellrunMachine_v2.0_2035.lha" size 371139 crc 4BEF21D4 sha1 3fa175fda3b375ddc24741bb4fb715d67b975123 )
 )
 
@@ -8026,12 +8041,17 @@ game (
 )
 
 game (
-	name "Heroes of the Lance (Europe)"
+	name "Advanced Dungeons & Dragons - Heroes of the Lance - A DragonLance Action Game (Europe)"
 	rom ( name "HeroesOfTheLance_v1.01_0778.lha" size 508207 crc 31E100F6 sha1 62c870f938ef8a00f32548f596cce0fbcd559750 )
 )
 
 game (
-	name "HeroQuest - Return of the Witch Lord (Europe)"
+	name "HeroQuest (Europe) (En,Fr,De,Es,It)"
+	rom ( name "HeroQuest_v1.3a_0127.lha" size 482684 crc 986807A7 sha1 2a10b8d9c8253a5b35a1f8ae76046fad4ca2cf23 )
+)
+
+game (
+	name "HeroQuest - Return of the Witch Lord (Europe) (En,Fr,De,Es,It)"
 	rom ( name "HeroQuest&ReturnOfTheWitchLord_v1.3a_0127&0508.lha" size 766513 crc EC9F12B5 sha1 de1025cb4acba530ba4d88702decebb90af55834 )
 )
 
@@ -8041,12 +8061,7 @@ game (
 )
 
 game (
-	name "HeroQuest (Europe)"
-	rom ( name "HeroQuest_v1.3a_0127.lha" size 482684 crc 986807A7 sha1 2a10b8d9c8253a5b35a1f8ae76046fad4ca2cf23 )
-)
-
-game (
-	name "Hero's Quest - So You Want To Be A Hero (Europe)"
+	name "Hero's Quest - So You Want to Be a Hero (Europe)"
 	rom ( name "HerosQuest_v1.4b_0795.lha" size 3025122 crc FD404A45 sha1 4b927e83dfc32d415d4c78821c3f069248183c39 )
 )
 
@@ -8063,7 +8078,6 @@ game (
 game (
 	name "High Steel (Europe)"
 	rom ( name "HighSteel_v1.1_1397.lha" size 216567 crc 1337D50C sha1 504095b998fdef126592e427fa269748166c041a )
-
 )
 
 game (
@@ -8097,17 +8111,17 @@ game (
 )
 
 game (
-	name "Hilt II (Europe)"
+	name "Hilt II (Europe) (Licenceware)"
 	rom ( name "Hilt2_v1.0.lha" size 815841 crc 15BB4283 sha1 f5ee7e4f93071538cdb27004f1e095abf27a2bc8 )
 )
 
 game (
-	name "Hilt II (Germany)"
+	name "Hilt II (Germany) (Licenceware)"
 	rom ( name "Hilt2_v1.0_De.lha" size 816036 crc CB025791 sha1 aa7236408b36600c75eecb5a54655b7394c44c81 )
 )
 
 game (
-	name "Hilt - Against the Hoardes (Europe)"
+	name "Hilt - Against the Hoardes (Europe) (Licenceware)"
 	rom ( name "Hilt_v1.0.lha" size 458223 crc 4372F678 sha1 11b2b48eea9912c8301fd3d8cbd50b10a96866c9 )
 )
 
@@ -8213,7 +8227,7 @@ game (
 )
 
 game (
-	name "Hostages (USA)"
+	name "Hostage - Rescue Mission (USA)"
 	rom ( name "Hostage_v1.2_NTSC_1173.lha" size 446139 crc 596B60E4 sha1 f2b39394e39e70331c554a4b012dfb908711283f )
 )
 
@@ -8223,7 +8237,7 @@ game (
 )
 
 game (
-	name "Hostile Breed (Europe)"
+	name "Hostile Breed (Europe) (Proto)"
 	rom ( name "HostileBreed_v1.0.lha" size 1829084 crc 2EEA1E02 sha1 84f6177b40ced27eacdc6eacef07e5fe192678b6 )
 )
 
@@ -8238,7 +8252,7 @@ game (
 )
 
 game (
-	name "Hotshot (Europe)"
+	name "HotShot (Europe)"
 	rom ( name "Hotshot_v1.0_2083.lha" size 252214 crc 725933B7 sha1 5e0e99493c17e2a52eaffd5aa25f2536f8ffc42a )
 )
 
@@ -8258,7 +8272,7 @@ game (
 )
 
 game (
-	name "Hoyle Volume III (Europe)"
+	name "Hoyle Official Book of Games - Volume 3 - Great Board Games (Europe)"
 	rom ( name "HoyleVolume3_v1.2.lha" size 1232126 crc 9B528F33 sha1 f50629fe027dbbc7be411878456324abc4ad9c86 )
 )
 
@@ -16935,13 +16949,23 @@ game (
 )
 
 game (
-	name "Super Tennis Champs & Data Disks (Europe)"
+	name "Super Tennis Champs & Data Disks (Europe) (older ver)"
 	rom ( name "SuperTennisChamps&DataDisks_v1.2_1153.lha" size 1434269 crc 8E4945EE sha1 f23ed95255c82389a9f7254db3c6fdd8799a92dc )
 )
 
 game (
-	name "Super Tennis Champs (Europe)"
+	name "Super Tennis Champs (Europe) (older ver)"
 	rom ( name "SuperTennisChamps_v1.2_1153.lha" size 670180 crc 7A167E88 sha1 caf502806db1673a5b2dbd1d3e6a1c5e70874709 )
+)
+
+game (
+	name "Super Tennis Champs & Data Disks (Europe)"
+	rom ( name "SuperTennisChamps&DataDisks_v1.3_1153.lha" size 1434654 crc 05B7C1DF sha1 ab32d19b90b23356bcd4c556d1e0c655f40c77ef )
+)
+
+game (
+	name "Super Tennis Champs (Europe)"
+	rom ( name "SuperTennisChamps_v1.3_1153.lha" size 670565 crc 84CC88B5 sha1 6da06b297419509c72575886749a80f8ec9ea9c6 )
 )
 
 game (
@@ -19536,7 +19560,7 @@ game (
 
 game (
 	name "W Potrzasku (Poland)"
-	rom ( name "WPotrzasku_v1.0_Pl.lha" size 2562036 crc 74E81AD0 sha1 1c64f404887e1d02adef4f6e5d219fc58a728ac7 )
+	rom ( name "WPotrzasku_v1.1_Pl.lha" size 2562092 crc 48287203 sha1 705d4a9a0c2536d2f7997cf9d59fe998f47cea6d )
 )
 
 game (
@@ -20121,6 +20145,16 @@ game (
 )
 
 game (
+	name "Kaboomania (Europe) (Demo)"
+	rom ( name "KaboomaniaDemo_v1.2.lha" size 650071 crc 9941EDE8 sha1 e7590d65457302072146d7caa60b1dacc15cb09d )
+)
+
+game (
+	name "Kaboomania (Europe) (AGA) (Demo)"
+	rom ( name "KaboomaniaDemo_v1.2_AGA.lha" size 793384 crc 47B1B350 sha1 76843eba9e45c2276689d25d1395109b3e615602 )
+)
+
+game (
 	name "Karate Champ (Europe) (Data East)"
 	rom ( name "KarateChamp_v1.01.lha" size 253377 crc 4104B146 sha1 cc7873cfc7e56ce81bf7c8564fbe3947123203eb )
 )
@@ -20193,6 +20227,11 @@ game (
 game (
 	name "Lost Treasures of Infocom, The (Europe)"
 	rom ( name "LostTreasuresOfInfocom_v1.0.lha" size 2829855 crc E70DD022 sha1 6a99e94597722062f066562b23f6ac9fbb65075a )
+)
+
+game (
+	name "Mappy (Europe) (AGA)"
+	rom ( name "Mappy_v1.0_AGA.lha" size 231948 crc 0B57B294 sha1 ef2938db9486914f39245359456cf71423c58108 )
 )
 
 game (

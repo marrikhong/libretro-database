@@ -1,6 +1,6 @@
 clrmamepro (
 	name "Commodore - Amiga - WHDLoad"
-	date "2026-03-25"
+	date "2026-04-12"
 	author "libretro"
 	comment "Retroplay's WHDLoad Games & Beta/Unofficial, full sets"
 )
@@ -3393,12 +3393,12 @@ game (
 
 game (
 	name "Chrono Quest (Europe)"
-	rom ( name "ChronoQuest_v1.4_1016.lha" size 1026552 crc 6654B764 sha1 2d40a9061cfa211be55c17dd00ce92a6231a4abf )
+	rom ( name "ChronoQuest_v1.5_1016.lha" size 1030279 crc 12E127A3 sha1 4d3cea72e8e43fdccdae6aa8ee6e9f89d82c5350 )
 )
 
 game (
 	name "Chrono Quest (Germany)"
-	rom ( name "ChronoQuest_v1.4_De_0792.lha" size 1026951 crc 278A4627 sha1 e8c7b13a561ee198c55c99b694e3ce42f7d419ef )
+	rom ( name "ChronoQuest_v1.5_De_0792.lha" size 1030678 crc E0EB44A4 sha1 6ed62996a29ec9581139697c7d955adf6af088ba )
 )
 
 game (
@@ -6043,7 +6043,7 @@ game (
 
 game (
 	name "Explora (France)"
-	rom ( name "Explora_v1.4_Fr.lha" size 1227689 crc 4273123E sha1 e7fffe3b2342dcaf6cb837597d35369dc08540c6 )
+	rom ( name "Explora_v1.5_Fr.lha" size 1231412 crc 55907615 sha1 7d6ceca44170890d67dd5d51a953c52c2b00abcf )
 )
 
 game (
@@ -8237,7 +8237,7 @@ game (
 )
 
 game (
-	name "Hostile Breed (Europe) (Proto)"
+	name "Hostile Breed (Europe) (En,Fr,De) (Proto)"
 	rom ( name "HostileBreed_v1.0.lha" size 1829084 crc 2EEA1E02 sha1 84f6177b40ced27eacdc6eacef07e5fe192678b6 )
 )
 
@@ -8342,7 +8342,7 @@ game (
 )
 
 game (
-	name "Humans, The (Europe) (CD32)"
+	name "Humans, The (Europe) (En,Fr,De,Es,It) (CD32)"
 	rom ( name "Humans_v1.5_CD32.lha" size 2868810 crc A306A387 sha1 ef0ccb82f8a1c67b3de4773808427c93a084ffd8 )
 )
 
@@ -19809,6 +19809,11 @@ game (
 )
 
 game (
+	name "Zippy Race (Europe) (PD/Freeware)"
+	rom ( name "ZippyRace_v1.1.lha" size 289007 crc B41C8303 sha1 29a62516835ba265430fc22fe4d42dc52d60bb2e )
+)
+
+game (
 	name "Ziriax (Europe)"
 	rom ( name "Ziriax_v1.2_3001.lha" size 700587 crc 6A569BE8 sha1 7b47263afdd4884419ea4c27f5085d6b6e17d5a4 )
 )
@@ -19976,7 +19981,7 @@ game (
 
 game (
 	name "Castlevania (Europe) (AGA)"
-	rom ( name "Castlevania_v1.2_AGA_November2025.lha" size 2075820 crc 566385C8 sha1 ec8f000b5790a1feeefbc14815162074174fb42b )
+	rom ( name "Castlevania_v1.2_AGA_November2025.lha" size 2053527 crc FA5EBB68 sha1 e26901a357c553f4496458255777943f6945af78 )
 )
 
 game (
@@ -20146,12 +20151,12 @@ game (
 
 game (
 	name "Kaboomania (Europe) (Demo)"
-	rom ( name "KaboomaniaDemo_v1.2.lha" size 650071 crc 9941EDE8 sha1 e7590d65457302072146d7caa60b1dacc15cb09d )
+	rom ( name "KaboomaniaDemo_v1.3.lha" size 695558 crc 9154440F sha1 4edf0098db41aaacd2e9ad57af9d104142dbbb3e )
 )
 
 game (
 	name "Kaboomania (Europe) (AGA) (Demo)"
-	rom ( name "KaboomaniaDemo_v1.2_AGA.lha" size 793384 crc 47B1B350 sha1 76843eba9e45c2276689d25d1395109b3e615602 )
+	rom ( name "KaboomaniaDemo_v1.3_AGA.lha" size 840208 crc ABF32C77 sha1 6b63bd9b685d5ec68a9b69e32968a2e866768630 )
 )
 
 game (
@@ -20230,8 +20235,13 @@ game (
 )
 
 game (
+	name "Mappy (Europe)"
+	rom ( name "Mappy_v1.0.lha" size 255768 crc 0ECBEEA7 sha1 d2565059b382d45d1f9fc10ce3c719c4b0a941bb )
+)
+
+game (
 	name "Mappy (Europe) (AGA)"
-	rom ( name "Mappy_v1.0_AGA.lha" size 231948 crc 0B57B294 sha1 ef2938db9486914f39245359456cf71423c58108 )
+	rom ( name "Mappy_v1.0_AGA.lha" size 249075 crc 91345BD5 sha1 93a5f9ff21db885a7ced7fd80bdc8febf05ff962 )
 )
 
 game (

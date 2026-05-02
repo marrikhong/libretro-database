@@ -1,7 +1,7 @@
 clrmamepro (
 	name "Atari - 8-bit Family"
 	description "Atari - 8-bit Family"
-	version "2026.03.30"
+	version "2026.05.02"
 	homepage "http://github.com/robloach/libretro-dats"
 )
 
@@ -44,6 +44,11 @@ game (
 	name "Basketball (USA)"
 	region "USA"
 	rom ( name "Basketball (USA).bin" size 8192 crc 79934851 md5 DDD9F7E02145CA65B6CC2C5308D366F0 sha1 639E8F9BF907ED2C46D183F2CDBE33783F6DA2FA )
+)
+game (
+	name "Boulders and Bombs (USA)"
+	region "USA"
+	rom ( name "Boulders and Bombs (USA).bin" size 8192 crc D6D51D3E md5 24EDB74C29E76171A29D6944D464359B sha1 90901CD874F4ECE8E18D9FFF63E2368B4A315624 )
 )
 game (
 	name "Caverns of Mars (USA)"
@@ -94,6 +99,11 @@ game (
 	name "Gato (USA, Europe)"
 	region "USA"
 	rom ( name "Gato (USA, Europe).bin" size 131072 crc AB06A3F5 md5 A14BC5FC0BF309C1BFC51EFDC495814B sha1 CABB1EFFA554D915521B2A49961D8E61B67EC9B3 )
+)
+game (
+	name "HardBall! (USA)"
+	region "USA"
+	rom ( name "HardBall! (USA).bin" size 65536 crc BF0C6DF2 md5 B6C4DE367B60EF35A7A778421C990E5D sha1 8A8556B2398168A557BC04E37F1F3A26BC066147 )
 )
 game (
 	name "Joust (USA)"

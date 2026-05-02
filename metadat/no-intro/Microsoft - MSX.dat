@@ -1,7 +1,7 @@
 clrmamepro (
 	name "Microsoft - MSX"
 	description "Microsoft - MSX"
-	version "2026.03.30"
+	version "2026.05.02"
 	homepage "http://github.com/robloach/libretro-dats"
 )
 
@@ -1066,6 +1066,11 @@ game (
 	rom ( name "Crusader (Japan) (Alt).rom" size 32768 crc E167FEDE md5 73D601525EFB66DDBD3F0EF46E133A07 sha1 3D2D0A2EB3D12FA67ECBBB90B7AC1BDC76AD8412 )
 )
 game (
+	name "Custar (Japan)"
+	region "Japan"
+	rom ( name "Custar (Japan).rom" size 8192 crc 1E4E5DA0 md5 84A583043446AD3550F9090C9E5F7397 sha1 F864F825B2270C3B98B3C04671A3AC5F2D95AFFA )
+)
+game (
 	name "D-Day (Japan)"
 	region "Japan"
 	rom ( name "D-Day (Japan).rom" size 16384 crc 5D284EA6 md5 F791FDD30DFD64019281AE53E4343BD4 sha1 18E87E15B09EC2FDDC52FAD10EDC57918FADEC34 )
@@ -1878,7 +1883,7 @@ game (
 game (
 	name "H.E.R.O. (Japan)"
 	region "Japan"
-	rom ( name "H.E.R.O. (Japan).rom" size 32768 crc 8FDAD3AF md5 2BA6F43DA5D2F31C3AAB9F8B0A29317B sha1 EBB70722F75279911CCE79E6BD78B8F514561B0F )
+	rom ( name "H.E.R.O. (Japan).rom" size 16384 crc 97AB0D70 md5 6B6D173CC0B3CCDC067606FEF1BFBFF5 sha1 6FBB385147A939A7E6B47F5945D8E3B671A8C065 )
 )
 game (
 	name "Hades no Monsho (Japan)"

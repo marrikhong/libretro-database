@@ -1,7 +1,7 @@
 clrmamepro (
 	name "Nintendo - Family Computer Disk System"
 	description "Nintendo - Family Computer Disk System"
-	version "2026.03.30"
+	version "2026.05.02"
 	homepage "http://github.com/robloach/libretro-dats"
 )
 
@@ -128,16 +128,16 @@ game (
 	rom ( name "Aliens - Alien 2 (Japan) (Proto) (1986-12-15).fds" size 131000 crc 2B779EE3 md5 296BC8EC6482E70E5D098BB90343A2F8 sha1 E80992B0E3E2EC05DBD34B3D97AE39EE59244CA4 )
 )
 game (
-	name "All Night Nippon Super Mario Bros. (Japan) (Promo)"
+	name "All Night Nippon Super Mario Bros. (Japan) (En) (Promo)"
 	region "Japan"
 	serial "NSM"
-	rom ( name "All Night Nippon Super Mario Bros. (Japan) (Promo).fds" size 65500 crc 43E7FE95 md5 C8719692D0B9D9649492FFB1C2D26AA3 sha1 F30BDD3C556604D7EAA6D0F4864D5566E519B5D4 serial "NSM" )
+	rom ( name "All Night Nippon Super Mario Bros. (Japan) (En) (Promo).fds" size 65500 crc 43E7FE95 md5 C8719692D0B9D9649492FFB1C2D26AA3 sha1 F30BDD3C556604D7EAA6D0F4864D5566E519B5D4 serial "NSM" )
 )
 game (
-	name "All Night Nippon Super Mario Bros. (Japan) (Promo)"
+	name "All Night Nippon Super Mario Bros. (Japan) (En) (Promo)"
 	region "Japan"
 	serial "NSM"
-	rom ( name "All Night Nippon Super Mario Bros. (Japan) (Promo).qd" size 65536 crc CA2DD5C5 md5 535D05395E6772285F2E186524E9CD7E sha1 8B19934F93417FE63F7EEAB79D101294FB1CDB45 serial "NSM" )
+	rom ( name "All Night Nippon Super Mario Bros. (Japan) (En) (Promo).qd" size 65536 crc CA2DD5C5 md5 535D05395E6772285F2E186524E9CD7E sha1 8B19934F93417FE63F7EEAB79D101294FB1CDB45 serial "NSM" )
 )
 game (
 	name "Apple Town Monogatari - Little Computer People (Japan)"
@@ -226,7 +226,14 @@ game (
 game (
 	name "Battle Battle League (Japan) (Proto) (Disk 1)"
 	region "Japan"
-	rom ( name "Battle Battle League (Japan) (Proto) (Disk 1).fds" size 131000 crc D578702F md5 62854CAC6163B2FA5E2E7F091D31DBEB sha1 E951C85962E7499E0BCAFAE82774E489C1CA9942 )
+	serial "Q.D."
+	rom ( name "Battle Battle League (Japan) (Proto) (Disk 1).fds" size 131000 crc D578702F md5 62854CAC6163B2FA5E2E7F091D31DBEB sha1 E951C85962E7499E0BCAFAE82774E489C1CA9942 serial "Q.D." )
+)
+game (
+	name "Battle Battle League (Japan) (Proto) (Disk 1)"
+	region "Japan"
+	serial "Q.D.-0"
+	rom ( name "Battle Battle League (Japan) (Proto) (Disk 1).fds" size 131000 crc D578702F md5 62854CAC6163B2FA5E2E7F091D31DBEB sha1 E951C85962E7499E0BCAFAE82774E489C1CA9942 serial "Q.D.-0" )
 )
 game (
 	name "Battle Battle League (Japan) (Proto) (Disk 1)"
@@ -2982,7 +2989,7 @@ game (
 game (
 	name "Quick Hunter (Japan)"
 	region "Japan"
-	rom ( name "Quick Hunter (Japan) (Unl).fds" size 65500 crc C6BAA8E6 md5 8645EE00B6F907313E24AC1ED243A7BD sha1 D7FB89995E8BA11B77AD5F5F60A014EEF5C91C1C )
+	rom ( name "Quick Hunter (Japan) (Unl).fds" size 65500 crc 3056129D md5 5828236B703B1139CBA73D3CD99E4D4D sha1 D637D958F185C40B2746EF1968449C85EAB08A68 )
 )
 game (
 	name "Quick Hunter - Parameter Disk Vol.1 (Japan)"
@@ -3267,16 +3274,16 @@ game (
 	rom ( name "Smash Ping Pong (Japan).qd" size 65536 crc 48096702 md5 68B4B5D0F65548551AA790F1E04F7D81 sha1 5E8BA28594D5983F781AD588C1CEC2C932F20493 serial "PPN" )
 )
 game (
-	name "Soccer (Japan)"
+	name "Soccer (Japan) (En)"
 	region "Japan"
 	serial "SCC"
-	rom ( name "Soccer (Japan).fds" size 65500 crc 638B6903 md5 2BE4505173DF2936B7992030EC4A38E5 sha1 CCA20A3A0FEC86B9295D61AEF093741F3E248839 serial "SCC" )
+	rom ( name "Soccer (Japan) (En).fds" size 65500 crc 638B6903 md5 2BE4505173DF2936B7992030EC4A38E5 sha1 CCA20A3A0FEC86B9295D61AEF093741F3E248839 serial "SCC" )
 )
 game (
-	name "Soccer (Japan)"
+	name "Soccer (Japan) (En)"
 	region "Japan"
 	serial "SCC"
-	rom ( name "Soccer (Japan).qd" size 65536 crc 325F38E3 md5 D04BC38FB45CAAE440069E09CA971046 sha1 F9D4D060CC274296FD22E8AC446333179F0AD733 serial "SCC" )
+	rom ( name "Soccer (Japan) (En).qd" size 65536 crc 325F38E3 md5 D04BC38FB45CAAE440069E09CA971046 sha1 F9D4D060CC274296FD22E8AC446333179F0AD733 serial "SCC" )
 )
 game (
 	name "Solomon no Kagi (Japan) (Disk Writer)"
@@ -3429,16 +3436,16 @@ game (
 	rom ( name "Super Lode Runner II (Japan) (Disk Writer).qd" size 131072 crc EEF4D7B4 md5 91CC88C80B4904964DCE5B7408A0AFAA sha1 CDE15C01960C7CB8E80AB4C50C1F4C68F812FE30 serial "SL2" )
 )
 game (
-	name "Super Mario Bros. (Japan)"
+	name "Super Mario Bros. (Japan) (En)"
 	region "Japan"
 	serial "SMA"
-	rom ( name "Super Mario Bros. (Japan).fds" size 65500 crc E0890CF2 md5 293303FE565DE2333BC1E4115D38FA3F sha1 383AD8E3890A95DE9595F0A6087648F51177DA13 serial "SMA" )
+	rom ( name "Super Mario Bros. (Japan) (En).fds" size 65500 crc E0890CF2 md5 293303FE565DE2333BC1E4115D38FA3F sha1 383AD8E3890A95DE9595F0A6087648F51177DA13 serial "SMA" )
 )
 game (
-	name "Super Mario Bros. (Japan)"
+	name "Super Mario Bros. (Japan) (En)"
 	region "Japan"
 	serial "SMA"
-	rom ( name "Super Mario Bros. (Japan).qd" size 65536 crc 39F4FA48 md5 1FA8712598DA89C7647BC91AAB023D98 sha1 6E3C157A3997462CAC006D353D5D267895B11E3E serial "SMA" )
+	rom ( name "Super Mario Bros. (Japan) (En).qd" size 65536 crc 39F4FA48 md5 1FA8712598DA89C7647BC91AAB023D98 sha1 6E3C157A3997462CAC006D353D5D267895B11E3E serial "SMA" )
 )
 game (
 	name "Super Mario Bros. 2 (Japan) (En)"

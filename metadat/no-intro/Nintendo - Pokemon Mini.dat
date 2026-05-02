@@ -1,7 +1,7 @@
 clrmamepro (
 	name "Nintendo - Pokemon Mini"
 	description "Nintendo - Pokemon Mini"
-	version "2026.03.30"
+	version "2026.05.02"
 	homepage "http://github.com/robloach/libretro-dats"
 )
 

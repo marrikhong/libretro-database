@@ -1,7 +1,7 @@
 clrmamepro (
 	name "Sega - Master System - Mark III"
 	description "Sega - Master System - Mark III"
-	version "2026.03.30"
+	version "2026.05.02"
 	homepage "http://github.com/robloach/libretro-dats"
 )
 
@@ -116,11 +116,8 @@ game (
 )
 game (
 	name "A-Team Music, The (Europe) (Proto) (Sound Data)"
-	releaseyear "1992"
-	releasemonth "11"
-	releaseday "09"
 	region "Europe"
-	rom ( name "A-Team Music, The (Europe) (Proto) (1992-11-09) (Sound Data).sms" size 32768 crc 0EB430FF md5 55632E40576AF1D12FD8F8764C6E9FC3 sha1 830506C001CE0D9B320B4A4CE5A580CE9C31E147 )
+	rom ( name "A-Team Music, The (Europe) (Proto) (Sound Data).sms" size 32768 crc 0EB430FF md5 55632E40576AF1D12FD8F8764C6E9FC3 sha1 830506C001CE0D9B320B4A4CE5A580CE9C31E147 )
 )
 game (
 	name "Ace of Aces (Europe, Brazil) (En)"
@@ -279,7 +276,7 @@ game (
 )
 game (
 	name "Alex Kidd in Miracle World 2 (World)"
-	rom ( name "Alex Kidd in Miracle World 2 (World) (Unl).sms" size 524288 crc 7DE172FF md5 E9B53D893BF8FC94015DE722F610C7EB sha1 D85ABA7A276D751302F6A076AB2BEB32CD654497 )
+	rom ( name "Alex Kidd in Miracle World 2 (World) (Aftermarket) (Unl).sms" size 524288 crc 7DE172FF md5 E9B53D893BF8FC94015DE722F610C7EB sha1 D85ABA7A276D751302F6A076AB2BEB32CD654497 )
 )
 game (
 	name "Alex Kidd in Shinobi World (USA, Europe, Brazil) (En)"
@@ -365,8 +362,8 @@ game (
 	rom ( name "Andre Agassi Tennis (Europe, Brazil) (En).sms" size 262144 crc F499034D md5 B60C4F89E95585A0A01B4FF99A962D8B sha1 81DBACAD4739B98281C750D9AF21606275398FC8 )
 )
 game (
-	name "Anguna - The Prison Dungeon (World) (v0.07) (Proto)"
-	rom ( name "Anguna - The Prison Dungeon (World) (v0.07) (Proto) (Aftermarket) (Unl).sms" size 32768 crc F5DA4A2B md5 EB04587EFFFB98403089B7E4A9A9C823 sha1 ABB1C6673C9FBB484BB4E8DDC83BF949F905E7B2 )
+	name "Anguna - The Prison Dungeon (World) (Proto)"
+	rom ( name "Anguna - The Prison Dungeon (World) (Proto) (Aftermarket) (Unl).sms" size 32768 crc F5DA4A2B md5 EB04587EFFFB98403089B7E4A9A9C823 sha1 ABB1C6673C9FBB484BB4E8DDC83BF949F905E7B2 )
 )
 game (
 	name "Anmitsu Hime (Japan)"
@@ -445,8 +442,8 @@ game (
 	rom ( name "Artfull (World) (v1.4) (Aftermarket) (Unl).sms" size 147456 crc 167CDDA3 md5 F111D202EABF6CB355AE8E5F5ACA00C5 sha1 AAE9FDFA2A4EB614EB927F91A03577B9744A738F )
 )
 game (
-	name "Artillery Master 8k (World) (v0.9) (Proto)"
-	rom ( name "Artillery Master 8k (World) (v0.9) (Proto) (Aftermarket) (Unl).sms" size 32768 crc 66C125F1 md5 E8308729143D83C867A797A81AA4265B sha1 1DFDA4BC44F1CDC54AB92BB31DF54365EDD385AE )
+	name "Artillery Master 8k (World) (Proto)"
+	rom ( name "Artillery Master 8k (World) (Proto) (Aftermarket) (Unl).sms" size 32768 crc 66C125F1 md5 E8308729143D83C867A797A81AA4265B sha1 1DFDA4BC44F1CDC54AB92BB31DF54365EDD385AE )
 )
 game (
 	name "Ascend (World)"
@@ -518,12 +515,12 @@ game (
 	rom ( name "Astro Force (World) (v1.03) (Aftermarket) (Unl).sms" size 262144 crc 1BAD75C5 md5 EE1E71857E93CCDCBDDF470ED42586A1 sha1 682E276990D1CC9C4E2093DED6EB8335E7D70D3F )
 )
 game (
-	name "Astro Hunter (World) (v0.1) (Pirate)"
-	rom ( name "Astro Hunter (World) (v0.1) (Aftermarket) (Pirate).sms" size 32768 crc 28B1E285 md5 EF9B4873ED35AE880174834249925E79 sha1 502C5AC42C1631A22951BD5C41EE6F22257B3FF2 )
+	name "Astro Hunter (World) (Proto 1)"
+	rom ( name "Astro Hunter (World) (Proto 1) (Aftermarket) (Unl).sms" size 32768 crc 28B1E285 md5 EF9B4873ED35AE880174834249925E79 sha1 502C5AC42C1631A22951BD5C41EE6F22257B3FF2 )
 )
 game (
-	name "Astro Hunter (World) (v0.2) (Proto)"
-	rom ( name "Astro Hunter (World) (v0.2) (Proto) (Aftermarket) (Unl).sms" size 32768 crc 704BEE16 md5 C384E8D846360C46B1268597C1081386 sha1 1BAC18379017CE56828AAC4816612F1A4E74210B )
+	name "Astro Hunter (World) (Proto 2)"
+	rom ( name "Astro Hunter (World) (Proto 2) (Aftermarket) (Unl).sms" size 32768 crc 704BEE16 md5 C384E8D846360C46B1268597C1081386 sha1 1BAC18379017CE56828AAC4816612F1A4E74210B )
 )
 game (
 	name "Astro Warrior & Pit Pot (Brazil) (En) (Master System Evolution)"
@@ -554,9 +551,17 @@ game (
 	rom ( name "Attention to Detail (World) (Aftermarket) (Unl).sms" size 32768 crc 740B1CC8 md5 5346BB7A4D343553983C72E796C57726 sha1 EC3BCE64C551EB0C160E7A3EAC9A87D4E2E14CD8 )
 )
 game (
+	name "Attention to Detail (World) (v1.1)"
+	rom ( name "Attention to Detail (World) (v1.1) (Aftermarket) (Unl).sms" size 32768 crc 72DF418F md5 C044BA65A14E0B737B00788329B4345B sha1 51F95703C5B6A59488E34C8A9DC305F56637ADD7 )
+)
+game (
 	name "Aventuras da TV Colosso, As (Brazil)"
 	region "Brazil"
 	rom ( name "Aventuras da TV Colosso, As (Brazil).sms" size 524288 crc E1714A88 md5 8020584CAADB664A5924E940B6A9C5BC sha1 1B4F7ECA8A3F04EAD404E6F439A6C49A0D0500DF )
+)
+game (
+	name "Awass (World)"
+	rom ( name "Awass (World) (Aftermarket) (Unl).sms" size 16384 crc F0AF51D6 md5 3E9598B423ACB810691727F29742212D sha1 2ABBEBACD45E903251520603F1E9F8071B64F73E )
 )
 game (
 	name "Ayrton Senna's Super Monaco GP II (Europe, Brazil) (En)"
@@ -596,12 +601,12 @@ game (
 	rom ( name "Back to the Future Part III (Europe).sms" size 262144 crc 2D48C1D3 md5 3D24A52E98E6C85D7C059386451CE749 sha1 7D67DD38FEA5DBA4224A119CC4840F6FB8E023B9 )
 )
 game (
-	name "Bad Apple (World) (v0.01) (Auto Demo)"
-	rom ( name "Bad Apple (World) (v0.01) (Auto Demo) (Aftermarket) (Unl).sms" size 468125 crc A8C4A7D5 md5 5039379E7B5543168905E8A73242D0F9 sha1 EF8DEDAB6DF856FE6B892B7BE4FF625D872CF19A )
+	name "Bad Apple (World) (Auto Demo)"
+	rom ( name "Bad Apple (World) (Auto Demo) (Aftermarket) (Unl).sms" size 468125 crc A8C4A7D5 md5 5039379E7B5543168905E8A73242D0F9 sha1 EF8DEDAB6DF856FE6B892B7BE4FF625D872CF19A )
 )
 game (
-	name "Bad Apple 3D (World) (v7.00) (Auto Demo)"
-	rom ( name "Bad Apple 3D (World) (v7.00) (Auto Demo) (Aftermarket) (Unl).sms" size 4136928 crc 58B7DEA6 md5 BCE1783F0DFF0476BA478CA70A460B07 sha1 1C58ABF242DF82604EA1860F59BAE6705F1537D3 )
+	name "Bad Apple 3D (World) (Auto Demo)"
+	rom ( name "Bad Apple 3D (World) (Auto Demo) (Aftermarket) (Unl).sms" size 4136928 crc 58B7DEA6 md5 BCE1783F0DFF0476BA478CA70A460B07 sha1 1C58ABF242DF82604EA1860F59BAE6705F1537D3 )
 )
 game (
 	name "Bad Apple for SMS (World) (Auto Demo)"
@@ -669,10 +674,7 @@ game (
 )
 game (
 	name "Battle Wings (World) (Beta)"
-	releaseyear "1988"
-	releasemonth "09"
-	releaseday "07"
-	rom ( name "Battle Wings (World) (Beta) (1988-09-07).sms" size 262144 crc FAE0ADE7 md5 4535B1616C9F8AD54348FADB1ABB439C sha1 99FEF1CCA416DF8586D3AAF76D147E86E69DBDAD )
+	rom ( name "Battle Wings (World) (Beta).sms" size 262144 crc FAE0ADE7 md5 4535B1616C9F8AD54348FADB1ABB439C sha1 99FEF1CCA416DF8586D3AAF76D147E86E69DBDAD )
 )
 game (
 	name "Battlemaniacs (Brazil) (En)"
@@ -712,8 +714,8 @@ game (
 	rom ( name "Be No Sqr (World) (v1.01) (Auto Demo) (Aftermarket) (Unl).sms" size 524288 crc EE701BE6 md5 AD112E000120B2D2F31BD49B009C818B sha1 0148DB6E3D1094E002C811E234289BDF3DFCFBF0 )
 )
 game (
-	name "Binary Gunner (World) (v0.4) (Proto)"
-	rom ( name "Binary Gunner (World) (v0.4) (Proto) (Aftermarket) (Unl).sms" size 32768 crc D985031F md5 A8D2BCC6FD05B85945DB564DBF893CD4 sha1 504D0681B8A4306CCB21D934EC68AEFAFE767FA2 )
+	name "Binary Gunner (World) (Proto)"
+	rom ( name "Binary Gunner (World) (Proto) (Aftermarket) (Unl).sms" size 32768 crc D985031F md5 A8D2BCC6FD05B85945DB564DBF893CD4 sha1 504D0681B8A4306CCB21D934EC68AEFAFE767FA2 )
 )
 game (
 	name "Black Belt (Taiwan) (En)"
@@ -742,16 +744,16 @@ game (
 	rom ( name "Blade Eagle 3-D (World).sms" size 262144 crc 8ECD201C md5 A20798B12481284F77CEE67CE5E25F2B sha1 B786D15B26B914C24CD1C36A8FCA41B215C0A4E7 )
 )
 game (
-	name "Blast Arena (World) (v0.8) (Beta)"
-	rom ( name "Blast Arena (World) (v0.8) (Beta) (Aftermarket) (Unl).sms" size 65536 crc 3397F746 md5 66ECDB51B7A0F34019F57510B0604064 sha1 44C9B1561D2487D484F96EB8994BC0D5B2E72401 )
+	name "Blast Arena (World)"
+	rom ( name "Blast Arena (World) (Aftermarket) (Unl).sms" size 65536 crc A4233EA3 md5 A81602CA34C0BE05C5ADC5B4BA029358 sha1 C344DF35A188764515D6CF0BD76DE59ED6BE59C2 )
 )
 game (
-	name "Blast Arena (World) (v1.0)"
-	rom ( name "Blast Arena (World) (v1.0) (Aftermarket) (Unl).sms" size 65536 crc A4233EA3 md5 A81602CA34C0BE05C5ADC5B4BA029358 sha1 C344DF35A188764515D6CF0BD76DE59ED6BE59C2 )
+	name "Blast Arena (World) (Beta)"
+	rom ( name "Blast Arena (World) (Beta) (Aftermarket) (Unl).sms" size 65536 crc 3397F746 md5 66ECDB51B7A0F34019F57510B0604064 sha1 44C9B1561D2487D484F96EB8994BC0D5B2E72401 )
 )
 game (
-	name "Blockhead (World) (v1.01) (Proto)"
-	rom ( name "Blockhead (World) (v1.01) (Proto) (Aftermarket) (Unl).sms" size 32768 crc 2734A9B4 md5 EF8FE5C2CC018A02326EBA360FFA1ADB sha1 1BF83F9BE51226D3311AA604E30B39A20C1A1FDC )
+	name "Blockhead (World) (Proto)"
+	rom ( name "Blockhead (World) (Proto) (Aftermarket) (Unl).sms" size 32768 crc 2734A9B4 md5 EF8FE5C2CC018A02326EBA360FFA1ADB sha1 1BF83F9BE51226D3311AA604E30B39A20C1A1FDC )
 )
 game (
 	name "Bloki (World) (v1.00)"
@@ -881,52 +883,52 @@ game (
 	rom ( name "Bruce Lee (World) (Aftermarket) (Unl).sms" size 131072 crc 37E27A38 md5 6D68C6FDFF41AFF161B45AF42CBFE390 sha1 48C41270493302D51DA773BA938FFAE5264CEB28 )
 )
 game (
-	name "Bruce Lee (World) (v0.20) (Beta)"
-	rom ( name "Bruce Lee (World) (v0.20) (Beta) (Aftermarket) (Unl).sms" size 131072 crc B4742656 md5 F3D74CE1507A708F0473D9ADBF921664 sha1 E3D562C4EA1291E1CA6DECC4432C1DE1F2CE9B3E )
+	name "Bruce Lee (World) (Beta 1)"
+	rom ( name "Bruce Lee (World) (Beta 1) (Aftermarket) (Unl).sms" size 131072 crc B4742656 md5 F3D74CE1507A708F0473D9ADBF921664 sha1 E3D562C4EA1291E1CA6DECC4432C1DE1F2CE9B3E )
 )
 game (
-	name "Bruce Lee (World) (v0.21) (Beta)"
-	rom ( name "Bruce Lee (World) (v0.21) (Beta) (Aftermarket) (Unl).sms" size 131072 crc CDB08905 md5 ABCF82484EC632CE086F5D824496562F sha1 4863FFA50823F5953E661AB41EF2D71FB39802D6 )
+	name "Bruce Lee (World) (Beta 2)"
+	rom ( name "Bruce Lee (World) (Beta 2) (Aftermarket) (Unl).sms" size 131072 crc CDB08905 md5 ABCF82484EC632CE086F5D824496562F sha1 4863FFA50823F5953E661AB41EF2D71FB39802D6 )
 )
 game (
-	name "Bruce Lee (World) (v0.22) (Beta)"
-	rom ( name "Bruce Lee (World) (v0.22) (Beta) (Aftermarket) (Unl).sms" size 131072 crc 4EBBD863 md5 04E6B5848BDB84B0D1C3737D246E55B6 sha1 971DFBF4D1EFD4BCCDBBD06D71663B7D02E8EED2 )
+	name "Bruce Lee (World) (Beta 3)"
+	rom ( name "Bruce Lee (World) (Beta 3) (Aftermarket) (Unl).sms" size 131072 crc 4EBBD863 md5 04E6B5848BDB84B0D1C3737D246E55B6 sha1 971DFBF4D1EFD4BCCDBBD06D71663B7D02E8EED2 )
 )
 game (
-	name "Bruce Lee (World) (v0.50) (Beta)"
-	rom ( name "Bruce Lee (World) (v0.50) (Beta) (Aftermarket) (Unl).sms" size 131072 crc 1647DB26 md5 92F37B2DDF288469EB724B348CAC7695 sha1 E3C9FE7C4A82F0FD2C169717AE31E3B69C5BF56A )
+	name "Bruce Lee (World) (Beta 4)"
+	rom ( name "Bruce Lee (World) (Beta 4) (Aftermarket) (Unl).sms" size 131072 crc 1647DB26 md5 92F37B2DDF288469EB724B348CAC7695 sha1 E3C9FE7C4A82F0FD2C169717AE31E3B69C5BF56A )
 )
 game (
-	name "Bruce Lee (World) (v0.51) (Beta)"
-	rom ( name "Bruce Lee (World) (v0.51) (Beta) (Aftermarket) (Unl).sms" size 131072 crc 06388C68 md5 F503D28149D03C858069781A0A9C1A2C sha1 3BEE12EA9CBEBC9624772CBDF58348A267BEB891 )
+	name "Bruce Lee (World) (Beta 5)"
+	rom ( name "Bruce Lee (World) (Beta 5) (Aftermarket) (Unl).sms" size 131072 crc 06388C68 md5 F503D28149D03C858069781A0A9C1A2C sha1 3BEE12EA9CBEBC9624772CBDF58348A267BEB891 )
 )
 game (
-	name "Bruce Lee (World) (v0.52) (Beta)"
-	rom ( name "Bruce Lee (World) (v0.52) (Beta) (Aftermarket) (Unl).sms" size 131072 crc 9086E6BB md5 2B2E16CAAB7B2F7C3ACCD55386CCAA65 sha1 C75B53391E6FB6D41A101FE3B02AE511F649D966 )
+	name "Bruce Lee (World) (Beta 6)"
+	rom ( name "Bruce Lee (World) (Beta 6) (Aftermarket) (Unl).sms" size 131072 crc 9086E6BB md5 2B2E16CAAB7B2F7C3ACCD55386CCAA65 sha1 C75B53391E6FB6D41A101FE3B02AE511F649D966 )
 )
 game (
-	name "Bruce Lee (World) (v0.75) (Beta)"
-	rom ( name "Bruce Lee (World) (v0.75) (Beta) (Aftermarket) (Unl).sms" size 131072 crc 0B48F7DB md5 1A39F9E9C82B086AE99E0F38F7DCF5A6 sha1 504BCD1DBD596FC0FAEEF9D844BCE84551CF7178 )
+	name "Bruce Lee (World) (Beta 7)"
+	rom ( name "Bruce Lee (World) (Beta 7) (Aftermarket) (Unl).sms" size 131072 crc 0B48F7DB md5 1A39F9E9C82B086AE99E0F38F7DCF5A6 sha1 504BCD1DBD596FC0FAEEF9D844BCE84551CF7178 )
 )
 game (
-	name "Bruce Lee (World) (v1.00) (Tech Demo)"
-	rom ( name "Bruce Lee (World) (v1.00) (Tech Demo) (Aftermarket) (Unl).sms" size 32768 crc 7A3575D8 md5 CBD823AF4683847A317EBF5E3DA2A0C3 sha1 DF8EC76DE4F3F4123C696427A0D237564862553F )
+	name "Bruce Lee (World) (Demo 1)"
+	rom ( name "Bruce Lee (World) (Demo 1) (Aftermarket) (Unl).sms" size 32768 crc 7A3575D8 md5 CBD823AF4683847A317EBF5E3DA2A0C3 sha1 DF8EC76DE4F3F4123C696427A0D237564862553F )
 )
 game (
-	name "Bruce Lee (World) (v1.01) (Tech Demo)"
-	rom ( name "Bruce Lee (World) (v1.01) (Tech Demo) (Aftermarket) (Unl).sms" size 32768 crc 70A69913 md5 9FEF58BE1DDA7971FC3411EE6BFC905A sha1 DBE40C40FBEB2147AB9F086402B241BAFB950B50 )
+	name "Bruce Lee (World) (Demo 2)"
+	rom ( name "Bruce Lee (World) (Demo 2) (Aftermarket) (Unl).sms" size 32768 crc 70A69913 md5 9FEF58BE1DDA7971FC3411EE6BFC905A sha1 DBE40C40FBEB2147AB9F086402B241BAFB950B50 )
 )
 game (
-	name "Bruce Lee (World) (v1.02) (Tech Demo)"
-	rom ( name "Bruce Lee (World) (v1.02) (Tech Demo) (Aftermarket) (Unl).sms" size 32768 crc 59FD4F72 md5 8C539CAB774E1959BEFB276E6A063EEA sha1 909FEE60C0D57A9401E1DA5CF3B054F1448DE187 )
+	name "Bruce Lee (World) (Demo 3)"
+	rom ( name "Bruce Lee (World) (Demo 3) (Aftermarket) (Unl).sms" size 32768 crc 59FD4F72 md5 8C539CAB774E1959BEFB276E6A063EEA sha1 909FEE60C0D57A9401E1DA5CF3B054F1448DE187 )
 )
 game (
-	name "Bruce Lee (World) (v1.04) (Tech Demo)"
-	rom ( name "Bruce Lee (World) (v1.04) (Tech Demo) (Aftermarket) (Unl).sms" size 32768 crc F433E9EB md5 B4D1871011D320A370258172707B6BE0 sha1 5AE9FB7B8DEFC81E775BB8C374F97AB8C353578E )
+	name "Bruce Lee (World) (Demo 4)"
+	rom ( name "Bruce Lee (World) (Demo 4) (Aftermarket) (Unl).sms" size 32768 crc F433E9EB md5 B4D1871011D320A370258172707B6BE0 sha1 5AE9FB7B8DEFC81E775BB8C374F97AB8C353578E )
 )
 game (
-	name "Bruce Lee (World) (v1.05) (Tech Demo)"
-	rom ( name "Bruce Lee (World) (v1.05) (Tech Demo) (Aftermarket) (Unl).sms" size 32768 crc CB722A12 md5 416E2CFDCA11A53DCA815B4CF9E6864B sha1 D8D49B1C6C0112D50AAF032D722D3A0A4D978414 )
+	name "Bruce Lee (World) (Demo 5)"
+	rom ( name "Bruce Lee (World) (Demo 5) (Aftermarket) (Unl).sms" size 32768 crc CB722A12 md5 416E2CFDCA11A53DCA815B4CF9E6864B sha1 D8D49B1C6C0112D50AAF032D722D3A0A4D978414 )
 )
 game (
 	name "Bubble Bobble (Europe, Brazil) (En)"
@@ -983,8 +985,8 @@ game (
 	rom ( name "Candy Kid (World) (v3.0) (Aftermarket) (Unl).sms" size 262144 crc 890BB775 md5 4ED0762282FFEAC7905571313527ED9F sha1 B817CF7417C284515D187A47AD7FA2C07B6EB1AA )
 )
 game (
-	name "Canyon Racer (World) (v0.01) (Proto)"
-	rom ( name "Canyon Racer (World) (v0.01) (Proto) (Aftermarket) (Unl).sms" size 7626 crc EEAD16C7 md5 CBFCF7CD0C2905C66A99F557CA99E195 sha1 09E537F2D84D09DF9610AD3FD592AE2093A624C2 )
+	name "Canyon Racer (World) (Proto)"
+	rom ( name "Canyon Racer (World) (Proto) (Aftermarket) (Unl).sms" size 7626 crc EEAD16C7 md5 CBFCF7CD0C2905C66A99F557CA99E195 sha1 09E537F2D84D09DF9610AD3FD592AE2093A624C2 )
 )
 game (
 	name "Captain Silver (Japan, Europe, Brazil) (En)"
@@ -1079,12 +1081,16 @@ game (
 	rom ( name "Cheese Cat-astrophe Starring Speedy Gonzales (Europe, Brazil) (En,Fr,De,Es).sms" size 524288 crc 46340C41 md5 F90B86478445D220D386460E55F3B74F sha1 09EDC943FC6DA8657231B09F75D5E5C6BBBAC24D )
 )
 game (
-	name "Chess Rook Puzzle, The (World) (v1.1) (Proto)"
-	rom ( name "Chess Rook Puzzle, The (World) (v1.1) (Proto) (Aftermarket) (Unl).sms" size 32768 crc 3686EBF0 md5 FD6F7355089C6CFD5E5069AA786A4FB8 sha1 0EA11BE8C40C091654FC3AB78D88551295459974 )
+	name "Chess Rook Puzzle, The (World) (Proto 1)"
+	rom ( name "Chess Rook Puzzle, The (World) (Proto 1) (Aftermarket) (Unl).sms" size 32768 crc 3686EBF0 md5 FD6F7355089C6CFD5E5069AA786A4FB8 sha1 0EA11BE8C40C091654FC3AB78D88551295459974 )
 )
 game (
-	name "Chicken Crossing (World) (v0.4) (Proto)"
-	rom ( name "Chicken Crossing (World) (v0.4) (Proto) (Aftermarket) (Unl).sms" size 32768 crc 4413576F md5 9E22254F5D59E1E1789D5B94595B88B3 sha1 1E4E9F6E42A3688DC63951B792AFA19F155C1132 )
+	name "Chess Rook Puzzle, The (World) (Proto 2)"
+	rom ( name "Chess Rook Puzzle, The (World) (Proto 2) (Aftermarket) (Unl).sms" size 32768 crc 1C5121B0 md5 E16F1B7CBAC1BC32990304F8C50112A0 sha1 625E4321C196D61334BF4DDB0DEB49A9809EBA7A )
+)
+game (
+	name "Chicken Crossing (World) (Proto)"
+	rom ( name "Chicken Crossing (World) (Proto) (Aftermarket) (Unl).sms" size 32768 crc 4413576F md5 9E22254F5D59E1E1789D5B94595B88B3 sha1 1E4E9F6E42A3688DC63951B792AFA19F155C1132 )
 )
 game (
 	name "Choplifter (Japan) (En) (Proto)"
@@ -1132,6 +1138,18 @@ game (
 	rom ( name "Chuck Rock II - Son of Chuck (Europe).sms" size 524288 crc C30E690A md5 AD6C6FFE26D93298AE56BDEA8EAFC879 sha1 46C326D7EB73B0393DE7FC40BF2EE094EBAB482D )
 )
 game (
+	name "Cimmerian (World) (Demo 1)"
+	rom ( name "Cimmerian (World) (Demo 1) (Aftermarket) (Unl).sms" size 786432 crc C56864C8 md5 4B49432C20E32496F79E060CF961EE25 sha1 7663BB80B939986F9EC7FA80C0A163823EE3B307 )
+)
+game (
+	name "Cimmerian (World) (Demo 2)"
+	rom ( name "Cimmerian (World) (Demo 2) (Aftermarket) (Unl).sms" size 786432 crc 42039E76 md5 346A20135E976A13BF40F2056A6167D8 sha1 50C8C4FFB40D7D8C1D8795E9D3DA5DD4F9313245 )
+)
+game (
+	name "Cimmerian (World) (Demo 3)"
+	rom ( name "Cimmerian (World) (Demo 3) (Aftermarket) (Unl).sms" size 786432 crc 19923E38 md5 C1A479065BC31E8681A8530118BDF1F7 sha1 654BDF3981D0ADA7CBB20F74E72C79BAD1089603 )
+)
+game (
 	name "Circuit, The (Japan) (En)"
 	region "Japan"
 	rom ( name "Circuit, The (Japan) (En).sms" size 131072 crc 8FB75994 md5 89D22E72BD0379495A2DB456EDA6AC4C sha1 34307A745D3D52A4B814E9831B7041F25E8052D1 )
@@ -1156,12 +1174,12 @@ game (
 	rom ( name "Color Lines (World) (Aftermarket) (Unl).sms" size 65536 crc B14BE3AC md5 A7FF67A7AF70CD5E1BFBDE1CD6157B7B sha1 C9FF38D5E1C98A126B8B6B0F0C284F6BDBA02624 )
 )
 game (
-	name "Colossal Cave Adventure - SAM Edition (World) (v0.1) (Proto)"
-	rom ( name "Colossal Cave Adventure - SAM Edition (World) (v0.1) (Proto) (Aftermarket) (Unl).sms" size 524288 crc B86B2F33 md5 C26BD7BC57B4574594B88B57CCBB7653 sha1 D747FE5F009286C9E5973FBDE5796A14906D5420 )
+	name "Colossal Cave Adventure - SAM Edition (World) (Proto 1)"
+	rom ( name "Colossal Cave Adventure - SAM Edition (World) (Proto 1) (Aftermarket) (Unl).sms" size 524288 crc B86B2F33 md5 C26BD7BC57B4574594B88B57CCBB7653 sha1 D747FE5F009286C9E5973FBDE5796A14906D5420 )
 )
 game (
-	name "Colossal Cave Adventure - SAM Edition (World) (v0.2) (Proto)"
-	rom ( name "Colossal Cave Adventure - SAM Edition (World) (v0.2) (Proto) (Aftermarket) (Unl).sms" size 524288 crc 5D77D48C md5 C4CE3DA8BCFC1DF0D8CAE520532C2D14 sha1 8CB23854933350B7D95B81E237D0A3EACEE904E7 )
+	name "Colossal Cave Adventure - SAM Edition (World) (Proto 2)"
+	rom ( name "Colossal Cave Adventure - SAM Edition (World) (Proto 2) (Aftermarket) (Unl).sms" size 524288 crc 5D77D48C md5 C4CE3DA8BCFC1DF0D8CAE520532C2D14 sha1 8CB23854933350B7D95B81E237D0A3EACEE904E7 )
 )
 game (
 	name "Columns (USA, Europe, Brazil) (En)"
@@ -1306,16 +1324,21 @@ game (
 )
 game (
 	name "Cyborg Hunter (USA, Europe, Brazil) (En) (Beta)"
-	releaseyear "1988"
-	releasemonth "09"
-	releaseday "12"
 	region "USA"
-	rom ( name "Cyborg Hunter (USA, Europe, Brazil) (En) (Beta) (1988-09-12).sms" size 131072 crc 691211A1 md5 D2F26A0EB02C78B2505846BA5DE90889 sha1 6E1259BF0D8888D63D5033A0FAFD53592B5697E2 )
+	rom ( name "Cyborg Hunter (USA, Europe, Brazil) (En) (Beta).sms" size 131072 crc 691211A1 md5 D2F26A0EB02C78B2505846BA5DE90889 sha1 6E1259BF0D8888D63D5033A0FAFD53592B5697E2 )
 )
 game (
 	name "Cyborg Z (Korea) (En)"
 	region "Korea"
 	rom ( name "Cyborg Z (Korea) (En) (Unl).sms" size 131072 crc 77EFE84A md5 0027AB3B7479CB1385E43D1F41BCDDD6 sha1 C2E661E9B68A78E5A5FAE5AE297B5D964D82491E )
+)
+game (
+	name "Cye (World) (Demo 1)"
+	rom ( name "Cye (World) (Demo 1) (Aftermarket) (Unl).sms" size 30197 crc 5BCCA937 md5 DA278E466F9D9E26D9CA26B1CA2E0B5F sha1 CA5D6780B002ACC50080CBB2A5840E0FDB4A4E6D )
+)
+game (
+	name "Cye (World) (Demo 2)"
+	rom ( name "Cye (World) (Demo 2) (Aftermarket) (Unl).sms" size 30308 crc DBF1FD0F md5 955FA264F3F0DF287AA90CC2CF4CAAD1 sha1 A942D66DD4052FDFD40623531D80528A70C689CB )
 )
 game (
 	name "Daffy Duck in Hollywood (Europe, Brazil) (En,Fr,De,Es,It)"
@@ -1333,20 +1356,24 @@ game (
 	rom ( name "Danan - The Jungle Fighter (Europe, Brazil) (En).sms" size 262144 crc AE4A28D7 md5 6B0FC60AA886C060BF1A16EA97B4F441 sha1 C99F2562117A2BF7100A3992608E9A2BCB50DF35 )
 )
 game (
+	name "Dangerous Demolition (World)"
+	rom ( name "Dangerous Demolition (World) (Aftermarket) (Unl).sms" size 49152 crc 3F7C5B40 md5 01F15844C9279C77ABCD239EAD225815 sha1 5A353F907CA38CB987AD57E38C6FC7DEB5686C80 )
+)
+game (
 	name "Data Storm (World)"
 	rom ( name "Data Storm (World) (Aftermarket) (Unl).sms" size 32768 crc 37B775D6 md5 34B7E0D61BA92250EC5EDBB963F63FFB sha1 73D6F05C6603723FF49FF4925BE405AB417C32CB )
 )
 game (
-	name "Data Storm (World) (v0.02) (Beta)"
-	rom ( name "Data Storm (World) (v0.02) (Beta) (Aftermarket) (Unl).sms" size 32768 crc FF67359B md5 5172D46EBA9214BD92FB5B8BD74E24E8 sha1 BE74CA0517E534A1612A24B4C7BE6C51A9C2A238 )
+	name "Data Storm (World) (Beta)"
+	rom ( name "Data Storm (World) (Beta) (Aftermarket) (Unl).sms" size 32768 crc FF67359B md5 5172D46EBA9214BD92FB5B8BD74E24E8 sha1 BE74CA0517E534A1612A24B4C7BE6C51A9C2A238 )
 )
 game (
 	name "Dating Sim (World)"
 	rom ( name "Dating Sim (World) (Aftermarket) (Unl).sms" size 524288 crc 91D5C4ED md5 44567C3F089E408A0D532BB719890B63 sha1 270836CBA040F411F9BBA673F7A50332439939D3 )
 )
 game (
-	name "Dating Sim (World) (v0.02) (Beta)"
-	rom ( name "Dating Sim (World) (v0.02) (Beta) (Aftermarket) (Unl).sms" size 524288 crc 172E6364 md5 32B837E90BACE278D60E31D5F1A950D9 sha1 1D5C210DE17CE0CC5A51CE8D8AE18DE223905D6B )
+	name "Dating Sim (World) (Beta)"
+	rom ( name "Dating Sim (World) (Beta) (Aftermarket) (Unl).sms" size 524288 crc 172E6364 md5 32B837E90BACE278D60E31D5F1A950D9 sha1 1D5C210DE17CE0CC5A51CE8D8AE18DE223905D6B )
 )
 game (
 	name "Dead Angle (USA, Europe, Brazil) (En)"
@@ -1359,16 +1386,12 @@ game (
 	rom ( name "Dead Angle (USA, Europe, Brazil) (En) (Beta).sms" size 262144 crc F9271C3D md5 A60D962FE4AEB8284697A0F5C3ACA29F sha1 34B11D5AD93C6B95493C6503D8EC25692A5A0A7D )
 )
 game (
-	name "Dead Gunner (World) (Demo 3)"
-	rom ( name "Dead Gunner (World) (Demo 3) (Aftermarket) (Unl).sms" size 98304 crc 5AC16356 md5 3EE3485F0010F72C269BA823EAEC7DEF sha1 865DEEF6A8B1977A12ACA453349DBBB7870A8FAD )
+	name "Dead Gunner (World) (Demo 1)"
+	rom ( name "Dead Gunner (World) (Demo 1) (Aftermarket) (Unl).sms" size 98304 crc 5AC16356 md5 3EE3485F0010F72C269BA823EAEC7DEF sha1 865DEEF6A8B1977A12ACA453349DBBB7870A8FAD )
 )
 game (
-	name "Dead Gunner (World) (Demo 4)"
-	rom ( name "Dead Gunner (World) (Demo 4) (Aftermarket) (Unl).sms" size 98304 crc A43FA9E5 md5 EBD5C8597C753C49694840BAED36330D sha1 699D299A062F0F30B96C49CD11CDE6296114A82C )
-)
-game (
-	name "Deathtrap Dungeon (World) (v0.15)"
-	rom ( name "Deathtrap Dungeon (World) (v0.15) (Aftermarket) (Unl).sms" size 131072 crc A351E9CF md5 513B06746FF952898731B1F18480B31F sha1 9FAD31EDF8A5AF969CF060FE66DF9AAA409E665E )
+	name "Dead Gunner (World) (Demo 2)"
+	rom ( name "Dead Gunner (World) (Demo 2) (Aftermarket) (Unl).sms" size 98304 crc A43FA9E5 md5 EBD5C8597C753C49694840BAED36330D sha1 699D299A062F0F30B96C49CD11CDE6296114A82C )
 )
 game (
 	name "Deep Duck Trouble Starring Donald Duck (Europe, Brazil) (En)"
@@ -1384,10 +1407,6 @@ game (
 	name "Desert Strike (Europe) (En,Fr,De,Es)"
 	region "Europe"
 	rom ( name "Desert Strike (Europe) (En,Fr,De,Es).sms" size 524288 crc 6C1433F9 md5 DF89AA1EBC5F42DB21FB8D12D9E78511 sha1 E6181BAEF80ECC88B3EB82A46CF93793F06E01F1 )
-)
-game (
-	name "DevSound (World) (v0.1) (Audio)"
-	rom ( name "DevSound (World) (v0.1) (Audio) (Aftermarket) (Unl).sms" size 32768 crc 1C43825C md5 0871302C74E0A1F7522FDEF2C463B089 sha1 12C4FBE06CDB736F39EBC4964810B7A66AA25A3A )
 )
 game (
 	name "Dick Tracy (USA, Europe, Brazil) (En)"
@@ -1411,6 +1430,26 @@ game (
 	name "Dinosaur Dooley, The (Korea) (En)"
 	region "Korea"
 	rom ( name "Dinosaur Dooley, The (Korea) (En) (Unl).sms" size 131072 crc 32F4B791 md5 E5C7BA1A2A6E1E9DE597479ADD641D1D sha1 F9E14EA9CE5F11CA5CB831F3EAF87609D7AEA8F2 )
+)
+game (
+	name "Do the Same (World) (Demo 1)"
+	rom ( name "Do the Same (World) (Demo 1) (Aftermarket) (Unl).sms" size 49152 crc A6BD2C06 md5 EE328169E0BDEF2B790D1C68C527BC20 sha1 C1E30542E8542FD544BB9FAC25876851B7FEAB2F )
+)
+game (
+	name "Do the Same (World) (Demo 2)"
+	rom ( name "Do the Same (World) (Demo 2) (Aftermarket) (Unl).sms" size 49152 crc 3E03D019 md5 213A7BFB21A91652E6027D7EF949D6FD sha1 619D404472085F73425F4F2DE41D78BCCC1AE88A )
+)
+game (
+	name "Do the Same (World) (Demo 3)"
+	rom ( name "Do the Same (World) (Demo 3) (Aftermarket) (Unl).sms" size 49152 crc 01E68FF7 md5 1A4D90A5A03FCC8B6AAEC39B1BDF8AA5 sha1 57819CF5ADFD6BAA7A8EB57179EA9ED321295BFC )
+)
+game (
+	name "Do the Same (World) (Demo 4)"
+	rom ( name "Do the Same (World) (Demo 4) (Aftermarket) (Unl).sms" size 98304 crc 641FB1F2 md5 90FC6C72E2A6AF4DEEBC21934164335F sha1 9972E4DC31E1EF5F4D6007947C712DEDC1DAB9EA )
+)
+game (
+	name "Do the Same (World) (Demo 5)"
+	rom ( name "Do the Same (World) (Demo 5) (Aftermarket) (Unl).sms" size 98304 crc C8C3C5F8 md5 925586ACC6312424DCC6D168F6EBFEA4 sha1 5614FBABB8EA8A623BBE835D1EA7A0A8E47D0BCE )
 )
 game (
 	name "Doki Doki Penguin Land - Uchuu Daibouken (Japan) (En)"
@@ -1484,16 +1523,16 @@ game (
 	rom ( name "Dragon - The Bruce Lee Story (Europe).sms" size 262144 crc C88A5064 md5 F86E099CA8E407A65A7751D84C2EE519 sha1 3D41A4E3B9FFC3E2BA87BD89BAF13271F8560775 )
 )
 game (
-	name "Dragon Blaster (World) (v0.09) (Proto)"
-	rom ( name "Dragon Blaster (World) (v0.09) (Proto) (Aftermarket) (Unl).sms" size 32768 crc 792ABBF8 md5 159CA84F3020513502DD4EF8F3C0E65C sha1 5D4E6C2E359B2442155A5034FB159622908E224F )
+	name "Dragon Blaster (World) (Proto 1)"
+	rom ( name "Dragon Blaster (World) (Proto 1) (Aftermarket) (Unl).sms" size 32768 crc 792ABBF8 md5 159CA84F3020513502DD4EF8F3C0E65C sha1 5D4E6C2E359B2442155A5034FB159622908E224F )
 )
 game (
-	name "Dragon Blaster (World) (v0.10) (Proto)"
-	rom ( name "Dragon Blaster (World) (v0.10) (Proto) (Aftermarket) (Unl).sms" size 32768 crc 462E00E5 md5 780B727A8BDBD9B6072475AC966F651C sha1 8F210C35614A2DC9D5BC89DF4C5B168BF7A5788B )
+	name "Dragon Blaster (World) (Proto 2)"
+	rom ( name "Dragon Blaster (World) (Proto 2) (Aftermarket) (Unl).sms" size 32768 crc 462E00E5 md5 780B727A8BDBD9B6072475AC966F651C sha1 8F210C35614A2DC9D5BC89DF4C5B168BF7A5788B )
 )
 game (
-	name "Dragon Blaster (World) (v0.11) (Proto)"
-	rom ( name "Dragon Blaster (World) (v0.11) (Proto) (Aftermarket) (Unl).sms" size 32768 crc DEC2EFC4 md5 A1B2E7F600776EFCD72DFD996B1C7388 sha1 D1C1DA577DD14178366245BC55DE7D39DA839086 )
+	name "Dragon Blaster (World) (Proto 3)"
+	rom ( name "Dragon Blaster (World) (Proto 3) (Aftermarket) (Unl).sms" size 32768 crc DEC2EFC4 md5 A1B2E7F600776EFCD72DFD996B1C7388 sha1 D1C1DA577DD14178366245BC55DE7D39DA839086 )
 )
 game (
 	name "Dragon Crystal (Europe, Brazil) (En)"
@@ -1505,32 +1544,32 @@ game (
 	rom ( name "Draw Poker (World) (Proto) (Aftermarket) (Unl).sms" size 32768 crc DDDB3DD8 md5 E8EF8711E54B0ACABD94F7E259D54B5B sha1 55BF216888C7980CE16510E63D33CD6F29D4E310 )
 )
 game (
-	name "Driar (World) (v0.05) (Proto)"
-	rom ( name "Driar (World) (v0.05) (Proto) (Aftermarket) (Unl).sms" size 524288 crc 2E31ACD2 md5 D983977C009752FC6F5E02E71515B620 sha1 04BD21AACB4F776D7CA11CD82D90C97F6553F23D )
+	name "Driar (World) (Proto)"
+	rom ( name "Driar (World) (Proto) (Aftermarket) (Unl).sms" size 524288 crc 2E31ACD2 md5 D983977C009752FC6F5E02E71515B620 sha1 04BD21AACB4F776D7CA11CD82D90C97F6553F23D )
 )
 game (
-	name "Duckslayer Adventures (World) (v0.1.0) (Proto)"
-	rom ( name "Duckslayer Adventures (World) (v0.1.0) (Proto) (Aftermarket) (Unl).sms" size 32768 crc E3EFB2A6 md5 36C6828DD602CCFFDD94A6CF0F3954CF sha1 E741AB6F66B9A9FB2CEB257D90EE3293F7C63EC7 )
+	name "Duckslayer Adventures (World) (Proto 1)"
+	rom ( name "Duckslayer Adventures (World) (Proto 1) (Aftermarket) (Unl).sms" size 32768 crc E3EFB2A6 md5 36C6828DD602CCFFDD94A6CF0F3954CF sha1 E741AB6F66B9A9FB2CEB257D90EE3293F7C63EC7 )
 )
 game (
-	name "Duckslayer Adventures (World) (v0.2.0) (Proto)"
-	rom ( name "Duckslayer Adventures (World) (v0.2.0) (Proto) (Aftermarket) (Unl).sms" size 32768 crc E69B48A9 md5 49A71439247D9B3B111ECBB4B73DE823 sha1 5AFE21D1BAB19B2417A5629FF211989B8AE750F6 )
+	name "Duckslayer Adventures (World) (Proto 2)"
+	rom ( name "Duckslayer Adventures (World) (Proto 2) (Aftermarket) (Unl).sms" size 32768 crc E69B48A9 md5 49A71439247D9B3B111ECBB4B73DE823 sha1 5AFE21D1BAB19B2417A5629FF211989B8AE750F6 )
 )
 game (
-	name "Duckslayer Adventures (World) (v0.3.0) (Proto)"
-	rom ( name "Duckslayer Adventures (World) (v0.3.0) (Proto) (Aftermarket) (Unl).sms" size 32768 crc AEFB9EFA md5 0387CF0CF028C5B6FE9295E09664F1E1 sha1 4B2F2544F4CC190A2B12E3D237451B2F600435D2 )
+	name "Duckslayer Adventures (World) (Proto 3)"
+	rom ( name "Duckslayer Adventures (World) (Proto 3) (Aftermarket) (Unl).sms" size 32768 crc AEFB9EFA md5 0387CF0CF028C5B6FE9295E09664F1E1 sha1 4B2F2544F4CC190A2B12E3D237451B2F600435D2 )
 )
 game (
-	name "Duckslayer Adventures (World) (v0.4.0) (Proto)"
-	rom ( name "Duckslayer Adventures (World) (v0.4.0) (Proto) (Aftermarket) (Unl).sms" size 32768 crc DB4F7EA1 md5 6F5554C42EB764D4B73BBDE2A64D0034 sha1 2338442FD7033B9EB935D1CBF0F00624A4999B9C )
+	name "Duckslayer Adventures (World) (Proto 4)"
+	rom ( name "Duckslayer Adventures (World) (Proto 4) (Aftermarket) (Unl).sms" size 32768 crc DB4F7EA1 md5 6F5554C42EB764D4B73BBDE2A64D0034 sha1 2338442FD7033B9EB935D1CBF0F00624A4999B9C )
 )
 game (
-	name "Duckslayer Adventures (World) (v0.5.0) (Proto)"
-	rom ( name "Duckslayer Adventures (World) (v0.5.0) (Proto) (Aftermarket) (Unl).sms" size 32768 crc 4710219A md5 2BFC5F71376623F47FA0EB3881A2D321 sha1 5552A7163F52AFAC627BE60E5BB7A3AE178B8290 )
+	name "Duckslayer Adventures (World) (Proto 5)"
+	rom ( name "Duckslayer Adventures (World) (Proto 5) (Aftermarket) (Unl).sms" size 32768 crc 4710219A md5 2BFC5F71376623F47FA0EB3881A2D321 sha1 5552A7163F52AFAC627BE60E5BB7A3AE178B8290 )
 )
 game (
-	name "Duckslayer Adventures (World) (v0.6.0) (Proto)"
-	rom ( name "Duckslayer Adventures (World) (v0.6.0) (Proto) (Aftermarket) (Unl).sms" size 32768 crc 11919DF2 md5 9ABF1F2FCCD656D0F28EB71EBE5C5357 sha1 AD203BD7FB2E5B75CC6F53035409FB14A3221733 )
+	name "Duckslayer Adventures (World) (Proto 6)"
+	rom ( name "Duckslayer Adventures (World) (Proto 6) (Aftermarket) (Unl).sms" size 32768 crc 11919DF2 md5 9ABF1F2FCCD656D0F28EB71EBE5C5357 sha1 AD203BD7FB2E5B75CC6F53035409FB14A3221733 )
 )
 game (
 	name "Dynamite Duke (Europe, Brazil) (En)"
@@ -1603,12 +1642,12 @@ game (
 	rom ( name "Ecco the Dolphin (Europe, Brazil) (En).sms" size 524288 crc 6687FAB9 md5 BEA00F9B73AC248BAFA7E406A5489B32 sha1 3BFDEF48F27F2E53E2C31CB9626606A1541889DD )
 )
 game (
-	name "Eggie Chuck (World) (v0.6) (Proto)"
-	rom ( name "Eggie Chuck (World) (v0.6) (Proto) (Aftermarket) (Unl).sms" size 65536 crc ED2B4602 md5 1346B6E97ACACBB06A9EF781CD918FCB sha1 592098EFF4A9941F2D29ABCB9B244F2E27AFF2CE )
+	name "Eggie Chuck (World) (Proto)"
+	rom ( name "Eggie Chuck (World) (Proto) (Aftermarket) (Unl).sms" size 65536 crc ED2B4602 md5 1346B6E97ACACBB06A9EF781CD918FCB sha1 592098EFF4A9941F2D29ABCB9B244F2E27AFF2CE )
 )
 game (
-	name "Electronic Dreams (World) (v0.77) (Proto)"
-	rom ( name "Electronic Dreams (World) (v0.77) (Proto) (Aftermarket) (Unl).sms" size 458752 crc 7D49F141 md5 04EB130A547AED7ABE7BC94C31491450 sha1 7320DB867D51E9868A0813768B37E512B5D455C4 )
+	name "Electronic Dreams (World) (Proto)"
+	rom ( name "Electronic Dreams (World) (Proto) (Aftermarket) (Unl).sms" size 458752 crc 7D49F141 md5 04EB130A547AED7ABE7BC94C31491450 sha1 7320DB867D51E9868A0813768B37E512B5D455C4 )
 )
 game (
 	name "Enduro Racer (Japan) (En)"
@@ -1621,8 +1660,8 @@ game (
 	rom ( name "Enduro Racer (USA, Europe, Brazil) (En).sms" size 131072 crc 00E73541 md5 06779A1A9DBADA60EFB1F37E37040A5B sha1 10DC132166C1AA47CA7B89FBB1F0A4E56B428359 )
 )
 game (
-	name "Escape from Monster Dimension (World) (v0.1) (Proto)"
-	rom ( name "Escape from Monster Dimension (World) (v0.1) (Proto) (Aftermarket) (Unl).sms" size 49152 crc 2527B104 md5 5E29E94AD3DF8C0B431A8F151655C32B sha1 81774C25757152B0A6CACCB9AE5C7366C72F3009 )
+	name "Escape from Monster Dimension (World) (Proto)"
+	rom ( name "Escape from Monster Dimension (World) (Proto) (Aftermarket) (Unl).sms" size 49152 crc 2527B104 md5 5E29E94AD3DF8C0B431A8F151655C32B sha1 81774C25757152B0A6CACCB9AE5C7366C72F3009 )
 )
 game (
 	name "Excellent Dizzy Collection, The (Europe) (En,Fr,De,Es,It) (Proto)"
@@ -1766,6 +1805,18 @@ game (
 	rom ( name "Final Bubble Bobble (Japan).sms" size 262144 crc 3EBB7457 md5 3573A65921B0506F7124F1F9FFB30974 sha1 AB585612FDDB90B5285E2804F63FD7FB7BA02900 )
 )
 game (
+	name "Find the Wordy Gems (World) (Demo 1)"
+	rom ( name "Find the Wordy Gems (World) (Demo 1) (Aftermarket) (Unl).sms" size 32768 crc 74DDB2D1 md5 515639C9DC5CEB22D7DB479780607A47 sha1 07A72276C281A58D261A131553E9061BEB3B9F41 )
+)
+game (
+	name "Find the Wordy Gems (World) (Demo 2)"
+	rom ( name "Find the Wordy Gems (World) (Demo 2) (Aftermarket) (Unl).sms" size 32768 crc E7720A11 md5 B5A9FCB2134A8883DAB42E947943A491 sha1 A9D1458859E4C7B08F3DE79537D2F5E0CE914BBB )
+)
+game (
+	name "Find the Wordy Gems (World) (Demo 3)"
+	rom ( name "Find the Wordy Gems (World) (Demo 3) (Aftermarket) (Unl).sms" size 32768 crc A8EDA51D md5 E3A7192F0C374324F9A114E9E5E7BD6E sha1 FDF74BA470899535F618E5327E51BBB5AFCFC991 )
+)
+game (
 	name "Fire & Forget II (Europe)"
 	region "Europe"
 	rom ( name "Fire & Forget II (Europe).sms" size 262144 crc F6AD7B1D md5 D27D8FEE8F711DB361A71817864BD139 sha1 F934B35D27330CC2737D6A2D590DCEF56004B983 )
@@ -1803,16 +1854,16 @@ game (
 	rom ( name "Flintstones, The (Europe, Brazil) (En).sms" size 262144 crc CA5C78A5 md5 23A5A42C0A4A4BCEFFBD1869192F329D sha1 A0AA76D89F6831999C328877057A99E72C6B533B )
 )
 game (
-	name "Flip Flap (World) (v2.10) (Proto)"
-	rom ( name "Flip Flap (World) (v2.10) (Proto) (Aftermarket) (Unl).sms" size 32768 crc 459357DF md5 B636A2F6D538B583BBD48397031DD606 sha1 1D83657D81608CB64C6CD29F196A832B2357626C )
+	name "Flip Flap (World) (Proto)"
+	rom ( name "Flip Flap (World) (Proto) (Aftermarket) (Unl).sms" size 32768 crc 459357DF md5 B636A2F6D538B583BBD48397031DD606 sha1 1D83657D81608CB64C6CD29F196A832B2357626C )
 )
 game (
-	name "Food Fighter (World) (v0.2) (Proto)"
-	rom ( name "Food Fighter (World) (v0.2) (Proto) (Aftermarket) (Unl).sms" size 32768 crc 15BB89DA md5 92A652193A3C4B733A8CC2BD6AA71206 sha1 15C5A05F843F08FEEB66C174B9843B1D57253C82 )
+	name "Food Fighter (World) (Proto 1)"
+	rom ( name "Food Fighter (World) (Proto 1) (Aftermarket) (Unl).sms" size 32768 crc 15BB89DA md5 92A652193A3C4B733A8CC2BD6AA71206 sha1 15C5A05F843F08FEEB66C174B9843B1D57253C82 )
 )
 game (
-	name "Food Fighter (World) (v0.4)"
-	rom ( name "Food Fighter (World) (v0.4) (Aftermarket) (Unl).sms" size 32768 crc 85D181AD md5 556A5091BB16DD6FEB5D9830653F624D sha1 388873A87A38C9A6E4E5FD52B5CAC453A3D393B4 )
+	name "Food Fighter (World) (Proto 2)"
+	rom ( name "Food Fighter (World) (Proto 2) (Aftermarket) (Unl).sms" size 32768 crc 85D181AD md5 556A5091BB16DD6FEB5D9830653F624D sha1 388873A87A38C9A6E4E5FD52B5CAC453A3D393B4 )
 )
 game (
 	name "Forest Escape - A Knight's Quest (World) (v1.0.1)"
@@ -1835,6 +1886,14 @@ game (
 game (
 	name "Freeway '86 (World)"
 	rom ( name "Freeway '86 (World) (Aftermarket) (Unl).sms" size 49152 crc 18188292 md5 0FA7849AC439726E31CC9F88B5D6F2E9 sha1 482A84C9F863F3974443BB94DA5200E8E0EE1D6E )
+)
+game (
+	name "Frogger (World) (Demo 1)"
+	rom ( name "Frogger (World) (Demo 1) (Aftermarket) (Unl).sms" size 262144 crc 95641039 md5 6384B2E09B56F17F7A17C3F4D87D85C8 sha1 10BB118C2CA4C3049A9AC0A75901FA895C2A8EC4 )
+)
+game (
+	name "Frogger (World) (Demo 2)"
+	rom ( name "Frogger (World) (Demo 2) (Aftermarket) (Unl).sms" size 524288 crc 6CAB7AE1 md5 2C0B90D9C06DC35386237DB6391F81C7 sha1 1AE08DE1CFCFB2E5938826697765B1ECD57DA4AC )
 )
 game (
 	name "Frontier Force (World) (v1.1)"
@@ -1947,8 +2006,8 @@ game (
 	rom ( name "Garbagefield Saves Christmas (World) (Aftermarket) (Unl).sms" size 3145728 crc 01E7938E md5 0FFC93B603C6599B0DC7DB718B6D86BB sha1 3DADB63E52A6E7EBC228DF01392383ED690AEF24 )
 )
 game (
-	name "Gaudream (World) (v0.04) (Proto)"
-	rom ( name "Gaudream (World) (v0.04) (Proto) (Aftermarket) (Unl).sms" size 131072 crc FF2E1EA4 md5 466FB9B7544099E6E23526C8B0C656D4 sha1 224F350DA2A0DB5892737017084E07D2B8889752 )
+	name "Gaudream (World) (Proto)"
+	rom ( name "Gaudream (World) (Proto) (Aftermarket) (Unl).sms" size 131072 crc FF2E1EA4 md5 466FB9B7544099E6E23526C8B0C656D4 sha1 224F350DA2A0DB5892737017084E07D2B8889752 )
 )
 game (
 	name "Gauntlet (Europe, Brazil) (En)"
@@ -1956,20 +2015,20 @@ game (
 	rom ( name "Gauntlet (Europe, Brazil) (En).sms" size 131072 crc D9190956 md5 FDD401983EB42200F9FEC672374597AF sha1 4E583CE9B95E20ECDDC6C1DAC9941C28A3E80808 )
 )
 game (
-	name "Gekioko PunPun Maru (World) (v1.0) (Proto)"
-	rom ( name "Gekioko PunPun Maru (World) (v1.0) (Proto) (Aftermarket) (Unl).sms" size 262144 crc 78BBB2EC md5 23218CECB7670615DA0D0485D2063076 sha1 A4FC2657C2D06CC091783447C87E17961F28B13E )
+	name "Gekioko PunPun Maru (World) (Proto 1)"
+	rom ( name "Gekioko PunPun Maru (World) (Proto 1) (Aftermarket) (Unl).sms" size 262144 crc 78BBB2EC md5 23218CECB7670615DA0D0485D2063076 sha1 A4FC2657C2D06CC091783447C87E17961F28B13E )
 )
 game (
-	name "Gekioko PunPun Maru (World) (v1.1) (Proto)"
-	rom ( name "Gekioko PunPun Maru (World) (v1.1) (Proto) (Aftermarket) (Unl).sms" size 262144 crc B35EBCDF md5 DF2466108C54A3C1F1AEBA7BB8EA871F sha1 AEB3B018B5040B818720EAC83E88A730ADB91F99 )
+	name "Gekioko PunPun Maru (World) (Proto 2)"
+	rom ( name "Gekioko PunPun Maru (World) (Proto 2) (Aftermarket) (Unl).sms" size 262144 crc B35EBCDF md5 DF2466108C54A3C1F1AEBA7BB8EA871F sha1 AEB3B018B5040B818720EAC83E88A730ADB91F99 )
 )
 game (
 	name "Gemitas (World)"
 	rom ( name "Gemitas (World) (Aftermarket) (Unl).sms" size 65536 crc D0F12C3E md5 1F436B25D69ED02A0F601E41401C728A sha1 43D3F47A23FBE407DA03B52C8F49D0BF65960F31 )
 )
 game (
-	name "Geometry Blaster (World) (v0.5) (Proto)"
-	rom ( name "Geometry Blaster (World) (v0.5) (Proto) (Aftermarket) (Unl).sms" size 32768 crc BA02EC46 md5 558183BDE721548420C28FE0DAD87758 sha1 4D30F2540B733177189371957F19DF822D1B94A3 )
+	name "Geometry Blaster (World) (Proto)"
+	rom ( name "Geometry Blaster (World) (Proto) (Aftermarket) (Unl).sms" size 32768 crc BA02EC46 md5 558183BDE721548420C28FE0DAD87758 sha1 4D30F2540B733177189371957F19DF822D1B94A3 )
 )
 game (
 	name "George Foreman's KO Boxing (Europe, Brazil) (En)"
@@ -2076,28 +2135,28 @@ game (
 	rom ( name "Goodzilla (World) (v1.1) (Aftermarket) (Unl).sms" size 98304 crc 6C6C5AD8 md5 D31C2E5582A0B58A8EF783FEF81BCF3D sha1 675B5A82999353CA8C73A114094446CA4D193784 )
 )
 game (
-	name "Gotris (World) (v0.5) (Beta)"
-	rom ( name "Gotris (World) (v0.5) (Beta) (Aftermarket) (Unl).sms" size 65536 crc A3F9263A md5 B5299DE36E7FAB848C1D46E9A19404B8 sha1 06703EC0E5D097BB24909D04EED591C98DB52117 )
+	name "Gotris (World) (Beta 1)"
+	rom ( name "Gotris (World) (Beta 1) (Aftermarket) (Unl).sms" size 65536 crc A3F9263A md5 B5299DE36E7FAB848C1D46E9A19404B8 sha1 06703EC0E5D097BB24909D04EED591C98DB52117 )
 )
 game (
-	name "Gotris (World) (v0.6) (Beta)"
-	rom ( name "Gotris (World) (v0.6) (Beta) (Aftermarket) (Unl).sms" size 65536 crc 79C1E9F1 md5 04C70D0D59E5939621A1AFB7DC55E052 sha1 0507F9FD97E04A1DC34300D2C63524F3BC72C724 )
+	name "Gotris (World) (Beta 2)"
+	rom ( name "Gotris (World) (Beta 2) (Aftermarket) (Unl).sms" size 65536 crc 79C1E9F1 md5 04C70D0D59E5939621A1AFB7DC55E052 sha1 0507F9FD97E04A1DC34300D2C63524F3BC72C724 )
 )
 game (
-	name "Gotris (World) (v0.7) (Beta)"
-	rom ( name "Gotris (World) (v0.7) (Beta) (NTSC) (Aftermarket) (Unl).sms" size 65536 crc 2DD244D0 md5 F174AA6C81B334798EE912A76675C7A7 sha1 C6EE4B62FD94A333EAA11F85A025A7B5DA95F1F1 )
+	name "Gotris (World) (Beta 3)"
+	rom ( name "Gotris (World) (Beta 3) (NTSC) (Aftermarket) (Unl).sms" size 65536 crc 2DD244D0 md5 F174AA6C81B334798EE912A76675C7A7 sha1 C6EE4B62FD94A333EAA11F85A025A7B5DA95F1F1 )
 )
 game (
-	name "Gotris (World) (v0.7) (Beta) (PAL)"
-	rom ( name "Gotris (World) (v0.7) (Beta) (PAL) (Aftermarket) (Unl).sms" size 65536 crc FA561C8D md5 AC09B6D73F43B61DC128ECF02746CE3C sha1 156F61B81C06085BF888A7EA513A55B945FC3DD1 )
+	name "Gotris (World) (Beta 3) (PAL)"
+	rom ( name "Gotris (World) (Beta 3) (PAL) (Aftermarket) (Unl).sms" size 65536 crc FA561C8D md5 AC09B6D73F43B61DC128ECF02746CE3C sha1 156F61B81C06085BF888A7EA513A55B945FC3DD1 )
 )
 game (
-	name "Gotris (World) (v0.8) (Beta)"
-	rom ( name "Gotris (World) (v0.8) (Beta) (NTSC) (Aftermarket) (Unl).sms" size 65536 crc ADB0EFA6 md5 1E2DF45F38F2CFA0B724E9613C2D9FFB sha1 A32B49B6E1E98C53CFB5C93FE3671C41855D1550 )
+	name "Gotris (World) (Beta 4)"
+	rom ( name "Gotris (World) (Beta 4) (NTSC) (Aftermarket) (Unl).sms" size 65536 crc ADB0EFA6 md5 1E2DF45F38F2CFA0B724E9613C2D9FFB sha1 A32B49B6E1E98C53CFB5C93FE3671C41855D1550 )
 )
 game (
-	name "Gotris (World) (v0.8) (Beta) (PAL)"
-	rom ( name "Gotris (World) (v0.8) (Beta) (PAL) (Aftermarket) (Unl).sms" size 65536 crc 5BB3CA71 md5 3064D5BA38BA19A4CAFD00EB80F32A0B sha1 0505DF190F3385FD2CA41285EDD07050B67091E5 )
+	name "Gotris (World) (Beta 4) (PAL)"
+	rom ( name "Gotris (World) (Beta 4) (PAL) (Aftermarket) (Unl).sms" size 65536 crc 5BB3CA71 md5 3064D5BA38BA19A4CAFD00EB80F32A0B sha1 0505DF190F3385FD2CA41285EDD07050B67091E5 )
 )
 game (
 	name "Gotris (World) (v1.2p)"
@@ -2112,12 +2171,16 @@ game (
 	rom ( name "Gotris (World) (v1.3p) (PAL) (Aftermarket) (Unl).sms" size 278528 crc CD3EC02F md5 2A6685ED4A9F01AE3C32974D6640AD50 sha1 AD94EF5E8F286445D3E36AFECDECDF3B6EEE711A )
 )
 game (
-	name "Grail Legacy, The (World) (v0.2) (Proto)"
-	rom ( name "Grail Legacy, The (World) (v0.2) (Proto) (Aftermarket) (Unl).sms" size 131072 crc 75DC2F68 md5 3EB252ABBF2D11EDC190FFF76B6345DB sha1 DB5C0D48827F01D143FE820943A104D61E875D2D )
+	name "Grail Legacy, The (World) (Proto 1)"
+	rom ( name "Grail Legacy, The (World) (Proto 1) (Aftermarket) (Unl).sms" size 131072 crc 75DC2F68 md5 3EB252ABBF2D11EDC190FFF76B6345DB sha1 DB5C0D48827F01D143FE820943A104D61E875D2D )
 )
 game (
-	name "Grail of the Gods (World) (v0.99)"
-	rom ( name "Grail of the Gods (World) (v0.99) (Aftermarket) (Unl).sms" size 131072 crc FB3A8AB3 md5 098AD8097CCAEE099D65C8F79FCBF956 sha1 9436E48F9EFF52D0165EAF138EA0D0FC7C1C7FF3 )
+	name "Grail Legacy, The (World) (Proto 2)"
+	rom ( name "Grail Legacy, The (World) (Proto 2) (Aftermarket) (Unl).sms" size 131072 crc BADDE851 md5 D4792844DAAB7033E39F7D0176E9059F sha1 DDED536514FA73E50C33AF6E90965BDB1B895298 )
+)
+game (
+	name "Grail of the Gods (World)"
+	rom ( name "Grail of the Gods (World) (Aftermarket) (Unl).sms" size 131072 crc FB3A8AB3 md5 098AD8097CCAEE099D65C8F79FCBF956 sha1 9436E48F9EFF52D0165EAF138EA0D0FC7C1C7FF3 )
 )
 game (
 	name "Gravity Beam - Master Gaiden (World) (v1.00)"
@@ -2128,8 +2191,8 @@ game (
 	rom ( name "Gravity Beam - Master Gaiden (World) (v1.01) (Aftermarket) (Unl).sms" size 32768 crc 829FD975 md5 F98F466BAC62F6B5424B4B6E28350A92 sha1 AA2B5EDB500CDF5901F7F450AC23BA89EFA3C660 )
 )
 game (
-	name "Grazers (World) (v0.2) (Proto)"
-	rom ( name "Grazers (World) (v0.2) (Proto) (Aftermarket) (Unl).sms" size 32768 crc 8334B49F md5 73631DFA0083D75665099854EF19F80F sha1 6BC1B7DC68F464B2ED5880E31964802F2D4E1D3E )
+	name "Grazers (World) (Proto)"
+	rom ( name "Grazers (World) (Proto) (Aftermarket) (Unl).sms" size 32768 crc 8334B49F md5 73631DFA0083D75665099854EF19F80F sha1 6BC1B7DC68F464B2ED5880E31964802F2D4E1D3E )
 )
 game (
 	name "Great Baseball (Japan) (En)"
@@ -2259,12 +2322,12 @@ game (
 	rom ( name "Hang On (Japan) (En).sms" size 32768 crc 5C01ADF9 md5 67849E734A1304799606BA5A22F840D2 sha1 43552F58F0C0C292F3E4C1B1525FD0344DC220C6 )
 )
 game (
-	name "Have Pity on Me (World) (v0.02) (Proto)"
-	rom ( name "Have Pity on Me (World) (v0.02) (Proto) (Aftermarket) (Unl).sms" size 1048576 crc 1226FC45 md5 646A392F21F2F6BBE3EF7876C174F86A sha1 1EEDD5E337DEDA0940F895901DF1EFCE6EE79CFC )
+	name "Have Pity on Me (World) (Proto)"
+	rom ( name "Have Pity on Me (World) (Proto) (Aftermarket) (Unl).sms" size 1048576 crc 1226FC45 md5 646A392F21F2F6BBE3EF7876C174F86A sha1 1EEDD5E337DEDA0940F895901DF1EFCE6EE79CFC )
 )
 game (
-	name "Headless Ninja Volley (World) (v0.9) (Proto)"
-	rom ( name "Headless Ninja Volley (World) (v0.9) (Proto) (Aftermarket) (Unl).sms" size 12453 crc 31B392C4 md5 E47DEDF694D7D788C76D8F15DCE4C66C sha1 B06146C8CA83E79EAC62F827BB16D2289E8FC755 )
+	name "Headless Ninja Volley (World) (Proto)"
+	rom ( name "Headless Ninja Volley (World) (Proto) (Aftermarket) (Unl).sms" size 12453 crc 31B392C4 md5 E47DEDF694D7D788C76D8F15DCE4C66C sha1 B06146C8CA83E79EAC62F827BB16D2289E8FC755 )
 )
 game (
 	name "Heavyweight Champ (Europe, Brazil) (En)"
@@ -2376,12 +2439,12 @@ game (
 	rom ( name "Indiana Jones and the Last Crusade (USA) (Proto).sms" size 262144 crc ACEC894D md5 D594821486699F366D385F74162BE1C7 sha1 5F29A0FC637CF7BD175A3E7BE720530BDE23402E )
 )
 game (
-	name "Io (World) (v0.13) (Proto)"
-	rom ( name "Io (World) (v0.13) (Proto) (Aftermarket) (Unl).sms" size 38937 crc 4F4BB37E md5 57284309C97E3CC4C16865504D3CC268 sha1 C357BC1BF54D7A062066B7158BDE1498DCA0B5B9 )
+	name "Io (World) (Proto 1)"
+	rom ( name "Io (World) (Proto 1) (Aftermarket) (Unl).sms" size 38937 crc 4F4BB37E md5 57284309C97E3CC4C16865504D3CC268 sha1 C357BC1BF54D7A062066B7158BDE1498DCA0B5B9 )
 )
 game (
-	name "Io (World) (v0.15) (Proto)"
-	rom ( name "Io (World) (v0.15) (Proto) (Aftermarket) (Unl).sms" size 42802 crc 05548C75 md5 AF92666A9D9E8B1F6AF06241AA28492A sha1 2985036612ECB98BBBF60DF9C8916D2BB5303A30 )
+	name "Io (World) (Proto 2)"
+	rom ( name "Io (World) (Proto 2) (Aftermarket) (Unl).sms" size 42802 crc 05548C75 md5 AF92666A9D9E8B1F6AF06241AA28492A sha1 2985036612ECB98BBBF60DF9C8916D2BB5303A30 )
 )
 game (
 	name "Iron Man (World)"
@@ -2432,8 +2495,8 @@ game (
 	rom ( name "Janggun-ui Adeul (Korea) (Unl).sms" size 524288 crc 192949D5 md5 2DB7AAABCA7F62D69DF466797C0D63D9 sha1 A290E41E0218DD54C7774229A7BF77C0E6B037F9 )
 )
 game (
-	name "Jetpac (World) (v0.3) (Proto)"
-	rom ( name "Jetpac (World) (v0.3) (Proto) (Aftermarket) (Unl).sms" size 65536 crc 7598CD63 md5 79713B3E8F72D3FD6C106DF3E5378FF1 sha1 C9B499CA43F0FDCA2149A6E9AFC379184F44DE08 )
+	name "Jetpac (World) (Proto)"
+	rom ( name "Jetpac (World) (Proto) (Aftermarket) (Unl).sms" size 65536 crc 7598CD63 md5 79713B3E8F72D3FD6C106DF3E5378FF1 sha1 C9B499CA43F0FDCA2149A6E9AFC379184F44DE08 )
 )
 game (
 	name "Jewel Jones (World) (Proto)"
@@ -2450,12 +2513,12 @@ game (
 	rom ( name "Jogos de Verao II (Brazil) (En).sms" size 262144 crc 45C50294 md5 9EDA961B0771B902F35D32188A9EB4DF sha1 4D6C46DEDFE38FCFB740E948563B8EEEC3BD4305 )
 )
 game (
-	name "Joust (World) (v0.05) (Proto)"
-	rom ( name "Joust (World) (v0.05) (Proto) (Aftermarket) (Unl).sms" size 24218 crc 783C99EA md5 6700F8C09D47D22BC0BCAE8619C10944 sha1 3FC777AD6EBEA32A17E2844685D961C332F6EE5B )
+	name "Joust (World) (Proto)"
+	rom ( name "Joust (World) (Proto) (Aftermarket) (Unl).sms" size 24218 crc 783C99EA md5 6700F8C09D47D22BC0BCAE8619C10944 sha1 3FC777AD6EBEA32A17E2844685D961C332F6EE5B )
 )
 game (
-	name "Jumping Jack'son (World) (v0.5) (Proto)"
-	rom ( name "Jumping Jack'son (World) (v0.5) (Proto) (Aftermarket) (Unl).sms" size 212992 crc E2F4EF89 md5 514982247BA806DE689F5013EFA63E6A sha1 2DEC31C9F1C1E8EA73241DFE3D9DBD69025E265A )
+	name "Jumping Jack'son (World) (Proto)"
+	rom ( name "Jumping Jack'son (World) (Proto) (Aftermarket) (Unl).sms" size 212992 crc E2F4EF89 md5 514982247BA806DE689F5013EFA63E6A sha1 2DEC31C9F1C1E8EA73241DFE3D9DBD69025E265A )
 )
 game (
 	name "Jumpy (World) (Proto)"
@@ -2472,12 +2535,12 @@ game (
 	rom ( name "Jurassic Park (Europe, Brazil) (En).sms" size 524288 crc 0667ED9F md5 B05014DEFE8D0C3D0AD6F67851CA15D7 sha1 67A6E6C132362F3D9263DDA68D77C279B08F1FDE )
 )
 game (
-	name "Jurl (World) (v0.5B) (Proto)"
-	rom ( name "Jurl (World) (v0.5B) (Proto) (Aftermarket) (Unl).sms" size 32768 crc D9C451CC md5 240369F0BF60B1E7FCC32CCC387CEA83 sha1 7AF3D037CF7D7DBC0B3CB44E2BA1D620215BC09A )
+	name "Jurl (World) (Proto 1)"
+	rom ( name "Jurl (World) (Proto 1) (Aftermarket) (Unl).sms" size 32768 crc D9C451CC md5 240369F0BF60B1E7FCC32CCC387CEA83 sha1 7AF3D037CF7D7DBC0B3CB44E2BA1D620215BC09A )
 )
 game (
-	name "Jurl (World) (v0.9A) (Proto)"
-	rom ( name "Jurl (World) (v0.9A) (Proto) (Aftermarket) (Unl).sms" size 32768 crc 347FB7AB md5 809609718D98CDCD01BCCA3C3A2BCE10 sha1 FCB3AB2ECE748E1F49C5EFDD35A5C7F016A9F9CF )
+	name "Jurl (World) (Proto 2)"
+	rom ( name "Jurl (World) (Proto 2) (Aftermarket) (Unl).sms" size 32768 crc 347FB7AB md5 809609718D98CDCD01BCCA3C3A2BCE10 sha1 FCB3AB2ECE748E1F49C5EFDD35A5C7F016A9F9CF )
 )
 game (
 	name "KLAX (Europe)"
@@ -2540,8 +2603,8 @@ game (
 	rom ( name "Knights & Demons (World) (Aftermarket) (Unl).sms" size 16384 crc BFC28AD1 md5 BEFBAC1D4F08C4240CC27C85D8815D87 sha1 F9F8380395063F5B09A3B1BE459A97B45C39BD86 )
 )
 game (
-	name "Knights of the Square (World) (v0.25) (Proto)"
-	rom ( name "Knights of the Square (World) (v0.25) (Proto) (Aftermarket) (Unl).sms" size 32768 crc D6D82A11 md5 10713AD2407F7BB24024222ACA7FB34C sha1 974DB3B24A5784C025E973FC26EE1BECE93E9AD4 )
+	name "Knights of the Square (World) (Proto)"
+	rom ( name "Knights of the Square (World) (Proto) (Aftermarket) (Unl).sms" size 32768 crc D6D82A11 md5 10713AD2407F7BB24024222ACA7FB34C sha1 974DB3B24A5784C025E973FC26EE1BECE93E9AD4 )
 )
 game (
 	name "Krusty's Fun House (Europe, Brazil) (En)"
@@ -2558,12 +2621,12 @@ game (
 	rom ( name "KunKun & KokoKun (World) (Aftermarket) (Unl).sms" size 32768 crc 7E15A103 md5 69AD79D1CFEB0F4AF9DF5F14846F90E1 sha1 EA2E08841AACFB7BC02D9937FB1AE2A74454BF84 )
 )
 game (
-	name "KunKun & KokoKun 2 - Return of the Kun (World) (v0.92) (Beta)"
-	rom ( name "KunKun & KokoKun 2 - Return of the Kun (World) (v0.92) (Beta) (Aftermarket) (Unl).sms" size 65536 crc 857C53E7 md5 7A90DDFD3DAA27B4783BEB2DCABF1A91 sha1 A3DDA7C03B737BD05057AFBC7375CE591B510E81 )
+	name "KunKun & KokoKun 2 - Return of the Kun (World)"
+	rom ( name "KunKun & KokoKun 2 - Return of the Kun (World) (Aftermarket) (Unl).sms" size 65536 crc 5173B648 md5 4D8EB720875887FB012B95EE60D282C2 sha1 4D559135C0ACEFB2376AA0812E6E868CDE3BA1CA )
 )
 game (
-	name "KunKun & KokoKun 2 - Return of the Kun (World) (v0.99)"
-	rom ( name "KunKun & KokoKun 2 - Return of the Kun (World) (v0.99) (Aftermarket) (Unl).sms" size 65536 crc 5173B648 md5 4D8EB720875887FB012B95EE60D282C2 sha1 4D559135C0ACEFB2376AA0812E6E868CDE3BA1CA )
+	name "KunKun & KokoKun 2 - Return of the Kun (World) (Beta)"
+	rom ( name "KunKun & KokoKun 2 - Return of the Kun (World) (Beta) (Aftermarket) (Unl).sms" size 65536 crc 857C53E7 md5 7A90DDFD3DAA27B4783BEB2DCABF1A91 sha1 A3DDA7C03B737BD05057AFBC7375CE591B510E81 )
 )
 game (
 	name "Kung Fu Kid (Taiwan) (En)"
@@ -2601,16 +2664,16 @@ game (
 	rom ( name "Lander1 (World) (v1.4) (Aftermarket) (Unl).sms" size 32768 crc 36B59545 md5 A1C32E5580E07B0A543A8D12E05F24D8 sha1 C759D795A3D9D0BC0D13BEF974F494C62E11CF6D )
 )
 game (
-	name "Lander2 (World) (v0.9) (Beta)"
-	rom ( name "Lander2 (World) (v0.9) (Beta) (Aftermarket) (Unl).sms" size 49152 crc 9B040FC6 md5 9ADB7130CE96233022A970C233534F83 sha1 28BC21F9B56E5C36796E04C5A359B1F402F4B5EB )
+	name "Lander2 (World)"
+	rom ( name "Lander2 (World) (Aftermarket) (Unl).sms" size 49152 crc 53E5726E md5 69CFFE457261BD2FAC217321EB5A5F09 sha1 2E673AC401C3C40B43539729B58DCB569EDF693D )
 )
 game (
-	name "Lander2 (World) (v0.B)"
-	rom ( name "Lander2 (World) (v0.B) (Aftermarket) (Unl).sms" size 49152 crc 53E5726E md5 69CFFE457261BD2FAC217321EB5A5F09 sha1 2E673AC401C3C40B43539729B58DCB569EDF693D )
+	name "Lander2 (World) (Beta)"
+	rom ( name "Lander2 (World) (Beta) (Aftermarket) (Unl).sms" size 49152 crc 9B040FC6 md5 9ADB7130CE96233022A970C233534F83 sha1 28BC21F9B56E5C36796E04C5A359B1F402F4B5EB )
 )
 game (
-	name "Lander2 (World) (v0.C)"
-	rom ( name "Lander2 (World) (v0.C) (Aftermarket) (Unl).sms" size 49152 crc 704F6A61 md5 D713E605FE9718A304C391E0C42C6CB8 sha1 C96768DA074E1789A35FBE7EE0FF1FFBD56BF919 )
+	name "Lander2 (World) (v1.1)"
+	rom ( name "Lander2 (World) (v1.1) (Aftermarket) (Unl).sms" size 49152 crc 704F6A61 md5 D713E605FE9718A304C391E0C42C6CB8 sha1 C96768DA074E1789A35FBE7EE0FF1FFBD56BF919 )
 )
 game (
 	name "Laser Ghost (Europe)"
@@ -2634,31 +2697,25 @@ game (
 )
 game (
 	name "Lemmings 2 - The Tribes (Europe) (Proto)"
-	releaseyear "1995"
-	releasemonth "09"
-	releaseday "04"
 	region "Europe"
-	rom ( name "Lemmings 2 - The Tribes (Europe) (Proto) (1995-09-04).sms" size 524288 crc CF5AECCA md5 3DA5F5122F3D94360DE61BCB8478E169 sha1 30B97F8AFAC0044CEDA2722F5FDDD31BA30DE571 )
+	rom ( name "Lemmings 2 - The Tribes (Europe) (Proto).sms" size 524288 crc CF5AECCA md5 3DA5F5122F3D94360DE61BCB8478E169 sha1 30B97F8AFAC0044CEDA2722F5FDDD31BA30DE571 )
 )
 game (
 	name "Lethal Weapon 3 Music (Europe) (Proto) (Sound Data)"
-	releaseyear "1992"
-	releasemonth "11"
-	releaseday "30"
 	region "Europe"
-	rom ( name "Lethal Weapon 3 Music (Europe) (Proto) (1992-11-30) (Sound Data).sms" size 32768 crc EB71247B md5 65A3DEAE350CD2875719B8B4F490B330 sha1 14DFF343EF3C10EF06EF3FDFB4985DFA79062379 )
+	rom ( name "Lethal Weapon 3 Music (Europe) (Proto) (Sound Data).sms" size 32768 crc EB71247B md5 65A3DEAE350CD2875719B8B4F490B330 sha1 14DFF343EF3C10EF06EF3FDFB4985DFA79062379 )
 )
 game (
 	name "Lift (World)"
 	rom ( name "Lift (World) (Aftermarket) (Unl).sms" size 12705 crc 2C5420A9 md5 D8D237420B9E927AA295D65BAD6E45A8 sha1 9F0A778D29DBDE6D6A2D4458B4EBD1315671AC70 )
 )
 game (
-	name "Lil Evel Knievel (World)"
-	rom ( name "Lil Evel Knievel (World) (Aftermarket) (Unl).sms" size 1048576 crc E2E1B38C md5 540BB33C0C8AD5DDB69C3FBD21546D7C sha1 07A876B3DEF4AA57D28BE2024A9DE8974A08246B )
-)
-game (
 	name "Lil Evel Knievel (World) (SMS Power! 2023 Compo)"
 	rom ( name "Lil Evel Knievel (World) (SMS Power! 2023 Compo) (Aftermarket) (Unl).sms" size 1048576 crc 11E0647B md5 C2EA137C93BD35A242C2678B7B9AB380 sha1 38376DBF12367B136D0D08B30396D7AAE78129AC )
+)
+game (
+	name "Lil Evel Knievel (World) (v1.1)"
+	rom ( name "Lil Evel Knievel (World) (v1.1) (Aftermarket) (Unl).sms" size 1048576 crc E2E1B38C md5 540BB33C0C8AD5DDB69C3FBD21546D7C sha1 07A876B3DEF4AA57D28BE2024A9DE8974A08246B )
 )
 game (
 	name "Line Runner (World) (v1.3.1)"
@@ -2699,12 +2756,12 @@ game (
 	rom ( name "Loretta no Shouzou - Sherlock Holmes (Japan).sms" size 131072 crc 323F357F md5 8DCDD83E58BE634A3735911A1AF05BB3 sha1 0DDD7448F5BD437D0D33B85A44F2BCC2BF2EA05E )
 )
 game (
-	name "Lost Raider (World) (v1.00) (Proto)"
-	rom ( name "Lost Raider (World) (v1.00) (Proto) (Aftermarket) (Unl).sms" size 131072 crc ED850911 md5 467FC3A36B824A97342BCB7D21C22608 sha1 F7797F15D6103D7D8A164DE7E547A2EC84EDDE28 )
+	name "Lost Raider (World) (Proto 1)"
+	rom ( name "Lost Raider (World) (Proto 1) (Aftermarket) (Unl).sms" size 131072 crc ED850911 md5 467FC3A36B824A97342BCB7D21C22608 sha1 F7797F15D6103D7D8A164DE7E547A2EC84EDDE28 )
 )
 game (
-	name "Lost Raider (World) (v1.01) (Proto)"
-	rom ( name "Lost Raider (World) (v1.01) (Proto) (Aftermarket) (Unl).sms" size 131072 crc 2553B745 md5 4B848D2955DC32996B53609D3855921F sha1 AD43EBE0F8EFE5C472B53ACC0F47AC63AA016FB2 )
+	name "Lost Raider (World) (Proto 2)"
+	rom ( name "Lost Raider (World) (Proto 2) (Aftermarket) (Unl).sms" size 131072 crc 2553B745 md5 4B848D2955DC32996B53609D3855921F sha1 AD43EBE0F8EFE5C472B53ACC0F47AC63AA016FB2 )
 )
 game (
 	name "Lucky Dime Caper Starring Donald Duck, The (Europe, Brazil) (En)"
@@ -2725,8 +2782,8 @@ game (
 	rom ( name "Lucky Penguin (World) (v1.1) (Aftermarket) (Unl).sms" size 49152 crc 69699887 md5 79DEF75BE0B980752DEC8526F84CD2B8 sha1 897E8C831847892C01E0563D8C78E07A4F357373 )
 )
 game (
-	name "Lunar Skirmish (World) (v0.64) (Proto)"
-	rom ( name "Lunar Skirmish (World) (v0.64) (Proto) (Aftermarket) (Unl).sms" size 425984 crc 461A369A md5 BCBF294818D183F280AA48232CE3AA6A sha1 308D70543A2E3A9FBAEDB05CEDA529B279E3550A )
+	name "Lunar Skirmish (World) (Proto)"
+	rom ( name "Lunar Skirmish (World) (Proto) (Aftermarket) (Unl).sms" size 425984 crc 461A369A md5 BCBF294818D183F280AA48232CE3AA6A sha1 308D70543A2E3A9FBAEDB05CEDA529B279E3550A )
 )
 game (
 	name "MSX Soccer (Korea)"
@@ -2803,8 +2860,12 @@ game (
 	rom ( name "Master of Darkness (Europe, Brazil) (En).sms" size 262144 crc 96FB4D4B md5 8354932A7F20E84A808471B3724A56F8 sha1 ED3569BE5D5A49FF5A09B2B04EC0101D4EDFA81E )
 )
 game (
-	name "Master of the Labyrinth (World) (En,Fr) (v1.0)"
-	rom ( name "Master of the Labyrinth (World) (En,Fr) (v1.0) (Aftermarket) (Unl).sms" size 114688 crc 6416F442 md5 0046A074E1F82673C6837A06E1F90076 sha1 30873C899226803F65750A2700E069F2F7D8BFF9 )
+	name "Master of the Labyrinth (World) (En,Fr) (Demo 1)"
+	rom ( name "Master of the Labyrinth (World) (En,Fr) (Demo 1) (Aftermarket) (Unl).sms" size 114688 crc 6416F442 md5 0046A074E1F82673C6837A06E1F90076 sha1 30873C899226803F65750A2700E069F2F7D8BFF9 )
+)
+game (
+	name "Master of the Labyrinth (World) (En,Fr) (Demo 2)"
+	rom ( name "Master of the Labyrinth (World) (En,Fr) (Demo 2) (Aftermarket) (Unl).sms" size 131072 crc 124C7B8C md5 DA639E773897DDC456224F87ED873B0F sha1 C7BCC0A1A25861A029A2A9A7DB920A495E7C199F )
 )
 game (
 	name "Masters of Combat (Europe, Brazil) (En)"
@@ -2840,8 +2901,8 @@ game (
 	rom ( name "Mazy 2 (World) (Aftermarket) (Unl).sms" size 16384 crc D55761D1 md5 C9043F429785907C26FC19FEC8953C03 sha1 8C08CB89701285D4D19F22E4ADD6F096CDE58F8B )
 )
 game (
-	name "Mega Man II (World) (v0.55) (Proto)"
-	rom ( name "Mega Man II (World) (v0.55) (Proto) (Aftermarket) (Unl).sms" size 262144 crc 9B29087B md5 390F59E8ECFE5F3FF6B8DA958B7324AA sha1 1ACFDE7D1E9ED9AEF642704ED21345A3F5105F59 )
+	name "Mega Man II (World) (Proto)"
+	rom ( name "Mega Man II (World) (Proto) (Aftermarket) (Unl).sms" size 262144 crc 9B29087B md5 390F59E8ECFE5F3FF6B8DA958B7324AA sha1 1ACFDE7D1E9ED9AEF642704ED21345A3F5105F59 )
 )
 game (
 	name "Mega Mode Super Game 138 (Korea)"
@@ -2931,11 +2992,8 @@ game (
 )
 game (
 	name "Miracle Warriors - Seal of The Dark Lord (USA, Europe, Brazil) (En) (Beta)"
-	releaseyear "1988"
-	releasemonth "02"
-	releaseday "25"
 	region "USA"
-	rom ( name "Miracle Warriors - Seal of The Dark Lord (USA, Europe, Brazil) (En) (Beta) (1988-02-25).sms" size 262144 crc 301A59AA md5 3F5D2CA45CCC205D18C8E3D1D9969F00 sha1 5F1CFC974A8FFC965F18216A89472FD1A980D7CB )
+	rom ( name "Miracle Warriors - Seal of The Dark Lord (USA, Europe, Brazil) (En) (Beta).sms" size 262144 crc 301A59AA md5 3F5D2CA45CCC205D18C8E3D1D9969F00 sha1 5F1CFC974A8FFC965F18216A89472FD1A980D7CB )
 )
 game (
 	name "Missile Defense 3-D (USA, Europe, Brazil) (En)"
@@ -2977,12 +3035,12 @@ game (
 	rom ( name "Monica no Castelo do Dragao (Brazil).sms" size 262144 crc 01D67C0B md5 D649CE52D05D88EFDACA81D2CCC57D2D sha1 E05953A3772452F821C3815231A25940A1D93803 )
 )
 game (
-	name "Monkey Lad (World) (v0.2) (Proto)"
-	rom ( name "Monkey Lad (World) (v0.2) (Proto) (Aftermarket) (Unl).sms" size 147456 crc 6E09AD59 md5 FA5ADF77271FEF777124EC2D6BF5ED6C sha1 880437BE77E000EB49F3FE524B933D3B923BF181 )
+	name "Monkey Lad (World) (Proto 1)"
+	rom ( name "Monkey Lad (World) (Proto 1) (Aftermarket) (Unl).sms" size 147456 crc 6E09AD59 md5 FA5ADF77271FEF777124EC2D6BF5ED6C sha1 880437BE77E000EB49F3FE524B933D3B923BF181 )
 )
 game (
-	name "Monkey Lad (World) (v0.3) (Proto)"
-	rom ( name "Monkey Lad (World) (v0.3) (Proto) (Aftermarket) (Unl).sms" size 147456 crc FF22DC27 md5 7D27D0379C0D519DD21FC62DCBA5E5B9 sha1 9C8B2B54C7ACF141C4CD05BFF2DE9C05ECD1CDB0 )
+	name "Monkey Lad (World) (Proto 2)"
+	rom ( name "Monkey Lad (World) (Proto 2) (Aftermarket) (Unl).sms" size 147456 crc FF22DC27 md5 7D27D0379C0D519DD21FC62DCBA5E5B9 sha1 9C8B2B54C7ACF141C4CD05BFF2DE9C05ECD1CDB0 )
 )
 game (
 	name "Monopoly (USA, Europe)"
@@ -3039,8 +3097,8 @@ game (
 	rom ( name "Mortal Kombat II (Europe, Brazil) (En).sms" size 524288 crc 2663BF18 md5 C60F62F13A60BC585822BFD2D68BA75C sha1 12BD887EFB87F410D3B65BF9E6DFE2745B345539 )
 )
 game (
-	name "Move Your Feet (World) (v0.01) (Auto Demo)"
-	rom ( name "Move Your Feet (World) (v0.01) (Auto Demo) (Aftermarket) (Unl).sms" size 335831 crc E7024961 md5 0E1756403D1FB7639A983EB1CE67FE60 sha1 11741030CDC85D2D18CA0F231130442B7ECBEF43 )
+	name "Move Your Feet (World) (Auto Demo)"
+	rom ( name "Move Your Feet (World) (Auto Demo) (Aftermarket) (Unl).sms" size 335831 crc E7024961 md5 0E1756403D1FB7639A983EB1CE67FE60 sha1 11741030CDC85D2D18CA0F231130442B7ECBEF43 )
 )
 game (
 	name "Ms. Pac-Man (Europe, Brazil) (En)"
@@ -3135,6 +3193,14 @@ game (
 game (
 	name "Nouka Densetsu (World) (Ja) (Easy Version)"
 	rom ( name "Nouka Densetsu (World) (Ja) (Easy Version) (Aftermarket) (Unl).sms" size 262144 crc 93330605 md5 13EB9E55255BA5CFAB1CEEAFA79C03C5 sha1 C1F2DB9F8E9C48C833331C2B203D6A40CDA31359 )
+)
+game (
+	name "Nyle in SokobanLand (World) (Demo 1)"
+	rom ( name "Nyle in SokobanLand (World) (Demo 1) (Aftermarket) (Unl).sms" size 65536 crc 39CAF13B md5 0978247DD2939F6EB49AADF45783A942 sha1 2F7FCB378A35F2A75739ED6BCF06171B81FD8A2C )
+)
+game (
+	name "Nyle in SokobanLand (World) (Demo 2)"
+	rom ( name "Nyle in SokobanLand (World) (Demo 2) (Aftermarket) (Unl).sms" size 131072 crc F32DB0F2 md5 BEEABE8F95E015BB1303D0EF4F818BC6 sha1 8A19256491EFD0A3DE98A410395B78B5B2EB7356 )
 )
 game (
 	name "Olympic Gold (Brazil) (En,Fr,De,Es,It,Nl,Pt,Sv)"
@@ -3322,6 +3388,14 @@ game (
 	rom ( name "Picross (World) (v1.01) (Aftermarket) (Unl).sms" size 49152 crc 1F0D38C1 md5 880815F8E899055E536B3A987C92855E sha1 D3D1A3E187724CB23FC2A142B3723DFE7124AE5E )
 )
 game (
+	name "Pictionary (World) (Demo 1)"
+	rom ( name "Pictionary (World) (Demo 1) (Aftermarket) (Unl).sms" size 262144 crc 60510CDB md5 8AB8572BF82AF075C190C583B54C163F sha1 1419B1444231F5853ABEDCE0511D204E4E5D834F )
+)
+game (
+	name "Pictionary (World) (Demo 2)"
+	rom ( name "Pictionary (World) (Demo 2) (Aftermarket) (Unl).sms" size 262144 crc 3C09AB5C md5 BE33DEBEBFD8180FE682EA719AB6688D sha1 96634008870A90870867972FC381A1ED48C0E4EE )
+)
+game (
 	name "Pigu-Wang 7 Hap - Jaemiiss-neun Game Mo-eumjip (Korea)"
 	region "Korea"
 	rom ( name "Pigu-Wang 7 Hap - Jaemiiss-neun Game Mo-eumjip (Korea) (Unl).sms" size 2097152 crc C0AC6956 md5 286E0674B6221FC3DC8D92817D16A765 sha1 93AF4B52246602203ACB8A6ACFE68C50A782BF04 )
@@ -3370,8 +3444,8 @@ game (
 	rom ( name "Pong (World) (v1.3) (Aftermarket) (Unl).sms" size 32768 crc EB06D654 md5 9D75EF34FDB2D638D5D379C3E9CD495C sha1 393EE4740022D263E4E764A4BA8A829CAFAAB6AD )
 )
 game (
-	name "Pong Kombat (World) (v0.2) (Proto)"
-	rom ( name "Pong Kombat (World) (v0.2) (Proto) (Aftermarket) (Unl).sms" size 32768 crc D0AEB198 md5 A10A609C5C001E25AC1F4C2D7F0B9FD0 sha1 EBD2897F2F4B96F8770630EFD1D2085D5AEEB9C6 )
+	name "Pong Kombat (World) (Proto)"
+	rom ( name "Pong Kombat (World) (Proto) (Aftermarket) (Unl).sms" size 32768 crc D0AEB198 md5 A10A609C5C001E25AC1F4C2D7F0B9FD0 sha1 EBD2897F2F4B96F8770630EFD1D2085D5AEEB9C6 )
 )
 game (
 	name "Pong Master (World) (Proto)"
@@ -3427,8 +3501,8 @@ game (
 	rom ( name "Predator 2 (Europe).sms" size 262144 crc 0047B615 md5 1389419D90834D3700B772E984143FDE sha1 EE26C9F5FD08AC73B5E28B20F35889D24C88C6DB )
 )
 game (
-	name "Primates (World) (v0.5) (Proto)"
-	rom ( name "Primates (World) (v0.5) (Proto) (Aftermarket) (Unl).sms" size 65536 crc 7CC67096 md5 3A3BA2FCD494EBA5F3930E9EB273C11C sha1 2C4BD657E62E85386B6DEEA26109090521DF2D0C )
+	name "Primates (World) (Proto)"
+	rom ( name "Primates (World) (Proto) (Aftermarket) (Unl).sms" size 65536 crc 7CC67096 md5 3A3BA2FCD494EBA5F3930E9EB273C11C sha1 2C4BD657E62E85386B6DEEA26109090521DF2D0C )
 )
 game (
 	name "Prince of Persia (Europe, Brazil) (En)"
@@ -3586,12 +3660,12 @@ game (
 	rom ( name "Rampart (Europe).sms" size 262144 crc 426E5C8A md5 F865AFB7B5C32E130016E2D35756839C sha1 BFEA7112A7E2EB2C5E7C20147197FFE3B06D5711 )
 )
 game (
-	name "Raposa do Sol (World) (v0.20) (Proto)"
-	rom ( name "Raposa do Sol (World) (v0.20) (Proto) (Aftermarket) (Unl).sms" size 131072 crc 26D6C74A md5 904E2018AB78CF05325AC3656EA6FD75 sha1 063AC337B2AA58E098CEE6D896DF53909D2456E7 )
+	name "Raposa do Sol (World) (Proto)"
+	rom ( name "Raposa do Sol (World) (Proto) (Aftermarket) (Unl).sms" size 131072 crc 26D6C74A md5 904E2018AB78CF05325AC3656EA6FD75 sha1 063AC337B2AA58E098CEE6D896DF53909D2456E7 )
 )
 game (
-	name "Rassak's Retribution (World) (v0.4) (Proto)"
-	rom ( name "Rassak's Retribution (World) (v0.4) (Proto) (Aftermarket) (Unl).sms" size 32768 crc FD72AFA4 md5 5053D2F41505D57E5B8BA1F43B9FCB93 sha1 82E743F1F0293E529DDA5F6E288442271FC373EF )
+	name "Rassak's Retribution (World) (Proto)"
+	rom ( name "Rassak's Retribution (World) (Proto) (Aftermarket) (Unl).sms" size 32768 crc FD72AFA4 md5 5053D2F41505D57E5B8BA1F43B9FCB93 sha1 82E743F1F0293E529DDA5F6E288442271FC373EF )
 )
 game (
 	name "Rastan (USA, Europe, Brazil) (En)"
@@ -3614,8 +3688,8 @@ game (
 	rom ( name "Renegade (Europe, Brazil) (En).sms" size 262144 crc 3BE7F641 md5 BBCE8B8AC26E2F582DEFE0056346F035 sha1 C07A04F3AB811B52C97B9BF850670057148DE6F0 )
 )
 game (
-	name "Rental Car (World) (v0.06) (Proto)"
-	rom ( name "Rental Car (World) (v0.06) (Proto) (Unl).sms" size 65536 crc BC6AC56D md5 9C0B15E19BDC0C52C325E23658465CED sha1 4EEEE41BC085C8ACF540C363D749B507475B47BD )
+	name "Rental Car (World) (Proto)"
+	rom ( name "Rental Car (World) (Proto) (Unl).sms" size 65536 crc BC6AC56D md5 9C0B15E19BDC0C52C325E23658465CED sha1 4EEEE41BC085C8ACF540C363D749B507475B47BD )
 )
 game (
 	name "Rescue Mission (USA, Europe, Brazil) (En)"
@@ -3635,20 +3709,20 @@ game (
 	rom ( name "Ring Dash SMS (World) (v1.02) (Aftermarket) (Unl).sms" size 131072 crc A1E883FC md5 7206F1E903F6B0749CCCD779D63464C0 sha1 F2801A72BB92865803A41E52286F62451C7CE2C7 )
 )
 game (
-	name "River Strike (World) (v0.04) (Proto)"
-	rom ( name "River Strike (World) (v0.04) (Proto) (Aftermarket) (Unl).sms" size 8628 crc 1FE7F34E md5 332A975DC5D596E55B956CE20E6368D9 sha1 3504E57C4CCE39D930DEF2434CBEEB4284AF7F85 )
+	name "River Strike (World) (Proto 1)"
+	rom ( name "River Strike (World) (Proto 1) (Aftermarket) (Unl).sms" size 8628 crc 1FE7F34E md5 332A975DC5D596E55B956CE20E6368D9 sha1 3504E57C4CCE39D930DEF2434CBEEB4284AF7F85 )
 )
 game (
-	name "River Strike (World) (v0.10) (Proto)"
-	rom ( name "River Strike (World) (v0.10) (Proto) (Aftermarket) (Unl).sms" size 32768 crc 941A2E8F md5 4F63642D26609FEEDFCEBF6808384DCA sha1 8E1142D1F8C730787F1C7FF1CEC7D556335C566E )
+	name "River Strike (World) (Proto 2)"
+	rom ( name "River Strike (World) (Proto 2) (Aftermarket) (Unl).sms" size 32768 crc 941A2E8F md5 4F63642D26609FEEDFCEBF6808384DCA sha1 8E1142D1F8C730787F1C7FF1CEC7D556335C566E )
 )
 game (
-	name "River Strike - Tyrian Edition (World) (v0.2) (Proto)"
-	rom ( name "River Strike - Tyrian Edition (World) (v0.2) (Proto) (Aftermarket) (Unl).sms" size 32768 crc FE99F11F md5 2523EC7A5F302F0930B2A073AA88C5A2 sha1 2DA03C1BBB85AF43D42B04D695E7043A744CC438 )
+	name "River Strike - Tyrian Edition (World) (Proto)"
+	rom ( name "River Strike - Tyrian Edition (World) (Proto) (Aftermarket) (Unl).sms" size 32768 crc FE99F11F md5 2523EC7A5F302F0930B2A073AA88C5A2 sha1 2DA03C1BBB85AF43D42B04D695E7043A744CC438 )
 )
 game (
-	name "Road Blaster (World) (v0.01) (Auto Demo)"
-	rom ( name "Road Blaster (World) (v0.01) (Auto Demo) (Aftermarket) (Unl).sms" size 1142667 crc B4E626E2 md5 7E81BB367778D9C50460EF07A8B89477 sha1 F48347353F40F63D7CA9D1D5064198E0B04A28FC )
+	name "Road Blaster (World) (Auto Demo)"
+	rom ( name "Road Blaster (World) (Auto Demo) (Aftermarket) (Unl).sms" size 1142667 crc B4E626E2 md5 7E81BB367778D9C50460EF07A8B89477 sha1 F48347353F40F63D7CA9D1D5064198E0B04A28FC )
 )
 game (
 	name "Road Fighter (Korea) (En)"
@@ -3661,8 +3735,8 @@ game (
 	rom ( name "Road Rash (Europe, Brazil) (En).sms" size 524288 crc B876FC74 md5 325575374D2DB3755F83BBA728990EBE sha1 7976E717125757B1900A540A68E0EF3083839F85 )
 )
 game (
-	name "Robbyie (World) (v0.99) (Proto)"
-	rom ( name "Robbyie (World) (v0.99) (Proto) (Aftermarket) (Unl).sms" size 32768 crc F61874C9 md5 D0655490192F908F8C29238E3B45A613 sha1 F63F90A7D03C45385C14C3F25CAD96C7E13792EE )
+	name "Robbyie (World) (Proto)"
+	rom ( name "Robbyie (World) (Proto) (Aftermarket) (Unl).sms" size 32768 crc F61874C9 md5 D0655490192F908F8C29238E3B45A613 sha1 F63F90A7D03C45385C14C3F25CAD96C7E13792EE )
 )
 game (
 	name "RoboCop 3 (Europe, Brazil) (En)"
@@ -3677,6 +3751,10 @@ game (
 game (
 	name "Rocky (World)"
 	rom ( name "Rocky (World).sms" size 262144 crc 1BCC7BE3 md5 582D58D95C9774CD50555366C253A050 sha1 8601927CA17419F5D61F757E9371CE533228F7BB )
+)
+game (
+	name "Roojliek (World)"
+	rom ( name "Roojliek (World) (Aftermarket) (Unl).sms" size 32768 crc F51AFFF6 md5 3EE0398FCF784C8C0DAA5B916454F1DB sha1 019FE56A633FE50FA0B5A90E4CB4826E2689165B )
 )
 game (
 	name "Running Battle (Europe, Brazil) (En)"
@@ -3721,12 +3799,12 @@ game (
 	rom ( name "SMS 3-D Demo (World) (Aftermarket) (Unl).sms" size 262144 crc A0440666 md5 D2B30058A58FACAA437329C13679C788 sha1 3CB1B750911EE7474D5091F3B3DBB12825191810 )
 )
 game (
-	name "SMS Boot Loader (World) (v0.9)"
-	rom ( name "SMS Boot Loader (World) (v0.9) (Aftermarket) (Unl).sms" size 32768 crc AD31C5FF md5 BD136047C2C13A13EA32D1AC48D51C82 sha1 8D9824B736FC220DC4DE1AFB89397359533B1C58 )
+	name "SMS Boot Loader (World)"
+	rom ( name "SMS Boot Loader (World) (Aftermarket) (Unl).sms" size 32768 crc AD31C5FF md5 BD136047C2C13A13EA32D1AC48D51C82 sha1 8D9824B736FC220DC4DE1AFB89397359533B1C58 )
 )
 game (
-	name "SMS Chip-8 Interpreter (World) (v0.21) (Proto)"
-	rom ( name "SMS Chip-8 Interpreter (World) (v0.21) (Proto) (Aftermarket) (Unl).sms" size 32768 crc 1ABF0172 md5 AAE8617FF07EB6B3C3B3959270166065 sha1 BA5E1EFF0F3ACF04DDE2D1E1D658BFCCBE3D1440 )
+	name "SMS Chip-8 Interpreter (World) (Proto)"
+	rom ( name "SMS Chip-8 Interpreter (World) (Proto) (Aftermarket) (Unl).sms" size 32768 crc 1ABF0172 md5 AAE8617FF07EB6B3C3B3959270166065 sha1 BA5E1EFF0F3ACF04DDE2D1E1D658BFCCBE3D1440 )
 )
 game (
 	name "SMS FMV Demonstration (World) (Auto Demo) (4x2 Version)"
@@ -3743,6 +3821,18 @@ game (
 game (
 	name "SMS Power 7th Anniversary (World) (Auto Demo)"
 	rom ( name "SMS Power 7th Anniversary (World) (Auto Demo) (Aftermarket) (Unl).sms" size 32768 crc 72506A85 md5 17B699CF622806B6EFF786AF9E102EEC sha1 40CB17E76A79FAD0630D0B58C0CD96C037BE22D6 )
+)
+game (
+	name "SMS-A-Sketch (World) (Demo 1)"
+	rom ( name "SMS-A-Sketch (World) (Demo 1) (Aftermarket) (Unl).sms" size 65536 crc 93DEF889 md5 25F627E560CC869C8D7457A8FDD01408 sha1 7C0712EA0E01D11E81CCE48CEB1C590C1A7D46A4 )
+)
+game (
+	name "SMS-A-Sketch (World) (Demo 2)"
+	rom ( name "SMS-A-Sketch (World) (Demo 2) (Aftermarket) (Unl).sms" size 65536 crc 7A570531 md5 0FE84F6DD55E9E57A6576B354E33E1C6 sha1 22AC29873F9509FBB1A81AEE8CA24495B6DCB63E )
+)
+game (
+	name "SMS-A-Sketch (World) (Demo 3)"
+	rom ( name "SMS-A-Sketch (World) (Demo 3) (Aftermarket) (Unl).sms" size 65536 crc EB246027 md5 6A42E688112FFA6E2440D3E78B2638E6 sha1 E96AA7095D7D8C5C00FF16034BDE2AC517534582 )
 )
 game (
 	name "Sagaia (Europe, Brazil) (En)"
@@ -3780,8 +3870,12 @@ game (
 	rom ( name "Satellite 7 (Japan) (En).sms" size 32768 crc 16249E19 md5 EAC6A843975C50E39EB32F764DA2A5AC sha1 88FC5596773EA31EDA8AE5A8BAF6F0CE5C3F7E5E )
 )
 game (
-	name "Schlange CV (World) (v1.1f)"
-	rom ( name "Schlange CV (World) (v1.1f) (Aftermarket) (Unl).sms" size 36607 crc 35E29438 md5 4B66FE6DABE1B042B0BD3657254CB2F1 sha1 85A7F5AE8058F51F9F3CE8EEE67075313561AB3E )
+	name "Schlange CV (World) (Demo 1)"
+	rom ( name "Schlange CV (World) (Demo 1) (Aftermarket) (Unl).sms" size 35698 crc 99929833 md5 4A5AD8AB2EC9C94E21FF1B0BCB86D711 sha1 CBFA8B0928D011B1AD56FAC3AAD24F328C752266 )
+)
+game (
+	name "Schlange CV (World) (Demo 2)"
+	rom ( name "Schlange CV (World) (Demo 2) (Aftermarket) (Unl).sms" size 36607 crc 35E29438 md5 4B66FE6DABE1B042B0BD3657254CB2F1 sha1 85A7F5AE8058F51F9F3CE8EEE67075313561AB3E )
 )
 game (
 	name "Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es)"
@@ -3790,11 +3884,8 @@ game (
 )
 game (
 	name "Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es) (Beta)"
-	releaseyear "1996"
-	releasemonth "08"
-	releaseday "12"
 	region "Europe"
-	rom ( name "Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es) (Beta) (1996-08-12).sms" size 262144 crc 7982AE67 md5 4ABA236D2A81E738ADAAF5B00DE81653 sha1 A82627F47400555E5E6FDECA11FFAC56D7296F80 )
+	rom ( name "Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es) (Beta).sms" size 262144 crc 7982AE67 md5 4ABA236D2A81E738ADAAF5B00DE81653 sha1 A82627F47400555E5E6FDECA11FFAC56D7296F80 )
 )
 game (
 	name "Scope (World) (v1.0)"
@@ -4076,20 +4167,14 @@ game (
 	rom ( name "Sonic Chaos (Europe, Brazil) (En).sms" size 524288 crc AEDF3BDF md5 1D661134B14EEDF6B4AE1C907581FD96 sha1 F64C8EEA26A103582F09831C3E02C6045A6AFF94 )
 )
 game (
-	name "Sonic Chaos (Europe, Brazil) (En) (Beta)"
-	releaseyear "1993"
-	releasemonth "06"
-	releaseday "30"
+	name "Sonic Chaos (Europe, Brazil) (En) (Beta 1)"
 	region "Europe"
-	rom ( name "Sonic Chaos (Europe, Brazil) (En) (Beta) (1993-06-30).sms" size 524288 crc D3AD67FA md5 E9B3410C02D605B2AC5F88D0886416B1 sha1 FA4DC67267F591AE00E22BCFB66896722054A61B )
+	rom ( name "Sonic Chaos (Europe, Brazil) (En) (Beta 1).sms" size 524288 crc D3AD67FA md5 E9B3410C02D605B2AC5F88D0886416B1 sha1 FA4DC67267F591AE00E22BCFB66896722054A61B )
 )
 game (
-	name "Sonic Chaos (Europe, Brazil) (En) (Beta)"
-	releaseyear "1993"
-	releasemonth "07"
-	releaseday "13"
+	name "Sonic Chaos (Europe, Brazil) (En) (Beta 2)"
 	region "Europe"
-	rom ( name "Sonic Chaos (Europe, Brazil) (En) (Beta) (1993-07-13).sms" size 524288 crc 765234D8 md5 C829F2E52F962D88268367AEE32E24B4 sha1 982012A4868315C888C936CA3283FEE8C5170CDF )
+	rom ( name "Sonic Chaos (Europe, Brazil) (En) (Beta 2).sms" size 524288 crc 765234D8 md5 C829F2E52F962D88268367AEE32E24B4 sha1 982012A4868315C888C936CA3283FEE8C5170CDF )
 )
 game (
 	name "Sonic Spinball (Europe, Brazil) (En)"
@@ -4146,8 +4231,8 @@ game (
 	rom ( name "Space Harrier 3D (Japan) (En).sms" size 262144 crc 156948F9 md5 D8717EEB943C292C078429A0ED5A8527 sha1 7CAF44ECC3DE6DAFFEDF7A494D449202888A6156 )
 )
 game (
-	name "Space Hawks (World) (v0.1) (Proto)"
-	rom ( name "Space Hawks (World) (v0.1) (Proto) (Aftermarket) (Unl).sms" size 32768 crc AADEDDF0 md5 E27EA78CFFD4AB646CC72597FDC2B8DB sha1 BCE640228C537F896308C06E9558FE3F7897FBD0 )
+	name "Space Hawks (World) (Proto)"
+	rom ( name "Space Hawks (World) (Proto) (Aftermarket) (Unl).sms" size 32768 crc AADEDDF0 md5 E27EA78CFFD4AB646CC72597FDC2B8DB sha1 BCE640228C537F896308C06E9558FE3F7897FBD0 )
 )
 game (
 	name "Space Tonbow (World) (v1.1)"
@@ -4271,8 +4356,8 @@ game (
 	rom ( name "Stygian Quest (World) (En,Fr) (v1.9) (Aftermarket) (Unl).sms" size 655360 crc C0F7BCB7 md5 DAC2E9E6D1F1ECD10D34DC35BE3B2EBE sha1 E1285AA06DDA1F4334DB616CB6FA127E34898C0B )
 )
 game (
-	name "Sub Rescue (World) (v0.3) (Proto)"
-	rom ( name "Sub Rescue (World) (v0.3) (Proto) (Aftermarket) (Unl).sms" size 32768 crc 06A41EFD md5 2C7C969A0C13109C90E6AB0FBCB3D70B sha1 C72F2C608F0BD73BC8C77AA55060ABCDF0D943DE )
+	name "Sub Rescue (World) (Proto)"
+	rom ( name "Sub Rescue (World) (Proto) (Aftermarket) (Unl).sms" size 32768 crc 06A41EFD md5 2C7C969A0C13109C90E6AB0FBCB3D70B sha1 C72F2C608F0BD73BC8C77AA55060ABCDF0D943DE )
 )
 game (
 	name "Sub-Assault (World) (v1.4.1)"
@@ -4294,8 +4379,8 @@ game (
 	rom ( name "Sudoku (Brazil) (Mega Drive 4).sms" size 131072 crc 814C08D1 md5 1EF2A7240551C4666B47A72E4FC6C473 sha1 8D865F82EC8C7731BD9ACD0275257CDD876654E7 )
 )
 game (
-	name "Sudoku (World) (v0.2) (Proto)"
-	rom ( name "Sudoku (World) (v0.2) (Proto) (Aftermarket) (Unl).sms" size 32768 crc B4F2A97E md5 5DE9AC0BEE8B66D590E4AE3503B36053 sha1 7340855912180E6B5790FF7C2F60D719763A9C85 )
+	name "Sudoku (World) (Proto)"
+	rom ( name "Sudoku (World) (Proto) (Aftermarket) (Unl).sms" size 32768 crc B4F2A97E md5 5DE9AC0BEE8B66D590E4AE3503B36053 sha1 7340855912180E6B5790FF7C2F60D719763A9C85 )
 )
 game (
 	name "Suho Jeonsa (Korea)"
@@ -4326,6 +4411,11 @@ game (
 	name "Super Arkanoid (Korea) (En)"
 	region "Korea"
 	rom ( name "Super Arkanoid (Korea) (En) (Unl).sms" size 32768 crc C9DD4E5F md5 8DAAB9AC07E896995C3454FF92DE6480 sha1 704D263FA53F152B34C6D01FDC11D17A5F17D78B )
+)
+game (
+	name "Super Basketball (USA) (Auto Demo)"
+	region "USA"
+	rom ( name "Super Basketball (USA) (Auto Demo).sms" size 65536 crc 0DBF3B4A md5 5528631A82D25D4EB8F0E9014FD6360C sha1 616B95BAAD61086F08D8688C2BF06838B902AC75 )
 )
 game (
 	name "Super Bioman I (Korea) (En)"
@@ -4526,8 +4616,8 @@ game (
 	rom ( name "Sushi Nights (World) (v1.05) (Aftermarket) (Unl).sms" size 131072 crc 1F698972 md5 B0CB6B17EF99AAF67964EC1F47962D66 sha1 C416282872741FDA77897A64575E515E5CFFE6D8 )
 )
 game (
-	name "Sutoroku (World) (v0.2) (Proto)"
-	rom ( name "Sutoroku (World) (v0.2) (Proto) (Aftermarket) (Unl).sms" size 49152 crc F4804329 md5 AC1EF42D0CBF8C8E73A3B7AF59B2E7AC sha1 F0E6925CC69040174CD296A034E0278435C80C49 )
+	name "Sutoroku (World) (Proto)"
+	rom ( name "Sutoroku (World) (Proto) (Aftermarket) (Unl).sms" size 49152 crc F4804329 md5 AC1EF42D0CBF8C8E73A3B7AF59B2E7AC sha1 F0E6925CC69040174CD296A034E0278435C80C49 )
 )
 game (
 	name "Svellas (World)"
@@ -4640,8 +4730,8 @@ game (
 	rom ( name "Terminator, The (Europe).sms" size 262144 crc EDC5C012 md5 F224907676A09C7F0404C95C316F1503 sha1 EAF733D385E61526B90C1B194BF605078D43E2D3 )
 )
 game (
-	name "Tetracycline (World) (v0.4) (Proto)"
-	rom ( name "Tetracycline (World) (v0.4) (Proto) (Aftermarket) (Unl).sms" size 32768 crc A0BF829B md5 64C5E8FD0F981AAC62F8505B740378EC sha1 3D0D82E4401C0D2F89130326D95A09F528AC2010 )
+	name "Tetracycline (World) (Proto)"
+	rom ( name "Tetracycline (World) (Proto) (Aftermarket) (Unl).sms" size 32768 crc A0BF829B md5 64C5E8FD0F981AAC62F8505B740378EC sha1 3D0D82E4401C0D2F89130326D95A09F528AC2010 )
 )
 game (
 	name "Three Dragon Story, The (Korea) (En)"
@@ -4674,8 +4764,8 @@ game (
 	rom ( name "Time Soldiers (USA, Europe, Brazil) (En).sms" size 262144 crc 51BD14BE md5 DBC9260009DD0838D0E31DE51D57D078 sha1 89842CB30CC3BA626901A5DA41481F6D157EBD15 )
 )
 game (
-	name "Tiny Caveman (World) (v0.1) (Proto)"
-	rom ( name "Tiny Caveman (World) (v0.1) (Proto) (Aftermarket) (Unl).sms" size 32768 crc 44D0DF0C md5 10338B57C2DECD3B51FB2C23B6B6C55E sha1 27BD2A5C818B4A2AC520D9D5128A73D5114CC8BB )
+	name "Tiny Caveman (World) (Proto)"
+	rom ( name "Tiny Caveman (World) (Proto) (Aftermarket) (Unl).sms" size 32768 crc 44D0DF0C md5 10338B57C2DECD3B51FB2C23B6B6C55E sha1 27BD2A5C818B4A2AC520D9D5128A73D5114CC8BB )
 )
 game (
 	name "Tom & Jerry (Europe, Brazil) (En) (Beta)"
@@ -4732,8 +4822,8 @@ game (
 	rom ( name "Ultima IV - Quest of the Avatar (Europe, Brazil) (En) (Beta).sms" size 524288 crc DE9F8517 md5 D92B72C87179B718C8B1506B347C2E36 sha1 BB1AE06B62A9F7D3259C51EEE4CFDED781EB5D30 )
 )
 game (
-	name "Ultimate Dungeon Escape (World) (v0.9) (Proto)"
-	rom ( name "Ultimate Dungeon Escape (World) (v0.9) (Proto) (Aftermarket) (Unl).sms" size 32768 crc C75B7E8B md5 E3F0844153C21702369E62752BCBCBAF sha1 C7B90DA0080A6A90B0C4C7EFB96B9D7F93CD9538 )
+	name "Ultimate Dungeon Escape (World) (Proto)"
+	rom ( name "Ultimate Dungeon Escape (World) (Proto) (Aftermarket) (Unl).sms" size 32768 crc C75B7E8B md5 E3F0844153C21702369E62752BCBCBAF sha1 C7B90DA0080A6A90B0C4C7EFB96B9D7F93CD9538 )
 )
 game (
 	name "Ultimate Soccer (Europe, Brazil) (En,Fr,De,Es,It)"
@@ -4752,6 +4842,14 @@ game (
 	name "Vampire (Europe, Brazil) (En) (Beta)"
 	region "Europe"
 	rom ( name "Vampire (Europe, Brazil) (En) (Beta).sms" size 262144 crc 20F40CAE md5 6CCF82FF6296FA9365B919DE424DD3D9 sha1 D03FB8FB31D6C49CE92E0A4C952768896F798DD5 )
+)
+game (
+	name "Van Halen (World) (Demo 1)"
+	rom ( name "Van Halen (World) (Demo 1) (Aftermarket) (Unl).sms" size 262144 crc B45D035D md5 C8495337C79EBFFD30D8BC95EC5095FA sha1 BE1647958A3F36F186EBEBE22902488A57D4B968 )
+)
+game (
+	name "Van Halen (World) (Demo 2)"
+	rom ( name "Van Halen (World) (Demo 2) (Aftermarket) (Unl).sms" size 1048576 crc 49D80029 md5 1AEF21627D3B9C82A7E81A2E47388D72 sha1 4295EC9E2D22D50CC83B7997C6C9C76A08176183 )
 )
 game (
 	name "Versus (World) (v1.00)"
@@ -4778,8 +4876,8 @@ game (
 	rom ( name "Vexed (World) (v1.15) (Aftermarket) (Unl).sms" size 32768 crc 47C39BAC md5 2CDE86C5890081DE8C16FF598A756BE3 sha1 DE0059BBD7B11BB29CA690A1E9E5ED9E0FC89943 )
 )
 game (
-	name "Video Poker (World)"
-	rom ( name "Video Poker (World) (Aftermarket) (Unl).sms" size 49152 crc 49007FD6 md5 99EB2BCF8A482E05C46BC0AE3D20EB54 sha1 9E791472F6109D1854BE2636D21C1CCEB2D8736A )
+	name "Video Poker (World) (Proto)"
+	rom ( name "Video Poker (World) (Proto) (Aftermarket) (Unl).sms" size 49152 crc 49007FD6 md5 99EB2BCF8A482E05C46BC0AE3D20EB54 sha1 9E791472F6109D1854BE2636D21C1CCEB2D8736A )
 )
 game (
 	name "Vigilante (USA, Europe, Brazil) (En)"
@@ -4860,24 +4958,28 @@ game (
 	rom ( name "Wimbledon II (Europe, Brazil) (En).sms" size 262144 crc 7F3AFE58 md5 41FA7C376327E7FA851103C0407E8E53 sha1 55DD4AAA92DE4BDAA1D8B6463A34887F4A8BAA28 )
 )
 game (
-	name "Wing Warriors (World) (v1.00)"
-	rom ( name "Wing Warriors (World) (v1.00) (Aftermarket) (Unl).sms" size 131072 crc 77390425 md5 6C14F25C97D82D8D10A2E5B8128B01A2 sha1 A5B7AE345F5A3566814F44A4529F5474EF063EF3 )
+	name "Wing Warriors (World)"
+	rom ( name "Wing Warriors (World) (Aftermarket) (Unl).sms" size 131072 crc A1B7E4D7 md5 EBE750F276951B4BDBD8B200C5DC5782 sha1 1C72331A43E9A7998B52DB0634120C60DCDD8849 )
+)
+game (
+	name "Wing Warriors (World) (Beta 1)"
+	rom ( name "Wing Warriors (World) (Beta 1) (Aftermarket) (Unl).sms" size 131072 crc 77390425 md5 6C14F25C97D82D8D10A2E5B8128B01A2 sha1 A5B7AE345F5A3566814F44A4529F5474EF063EF3 )
+)
+game (
+	name "Wing Warriors (World) (Beta 2)"
+	rom ( name "Wing Warriors (World) (Beta 2) (Aftermarket) (Unl).sms" size 131072 crc EC1ACCDC md5 BDAE4042A7CEF61E0EE22346FA8C3A6D sha1 695610392A8CA4367A2B45412AE3A539D6BE19DC )
+)
+game (
+	name "Wing Warriors (World) (Beta 3)"
+	rom ( name "Wing Warriors (World) (Beta 3) (Aftermarket) (Unl).sms" size 131072 crc 14E13A82 md5 C9E9E97F6D5712AB26BFCAEEE5C41B2A sha1 9EC29FD9C5537B3E936DEF1B4054E14ECD05F99A )
 )
 game (
 	name "Wing Warriors (World) (v1.01)"
-	rom ( name "Wing Warriors (World) (v1.01) (Aftermarket) (Unl).sms" size 131072 crc EC1ACCDC md5 BDAE4042A7CEF61E0EE22346FA8C3A6D sha1 695610392A8CA4367A2B45412AE3A539D6BE19DC )
+	rom ( name "Wing Warriors (World) (v1.01) (Aftermarket) (Unl).sms" size 131072 crc 11D3D834 md5 4FA61721BA5BA41F1200CD20D1C27A30 sha1 661C5ABFABD09651C05C4FAB00BB81B117037535 )
 )
 game (
 	name "Wing Warriors (World) (v1.02)"
-	rom ( name "Wing Warriors (World) (v1.02) (Aftermarket) (Unl).sms" size 131072 crc 14E13A82 md5 C9E9E97F6D5712AB26BFCAEEE5C41B2A sha1 9EC29FD9C5537B3E936DEF1B4054E14ECD05F99A )
-)
-game (
-	name "Wing Warriors (World) (v1.03)"
-	rom ( name "Wing Warriors (World) (v1.03) (Aftermarket) (Unl).sms" size 131072 crc A1B7E4D7 md5 EBE750F276951B4BDBD8B200C5DC5782 sha1 1C72331A43E9A7998B52DB0634120C60DCDD8849 )
-)
-game (
-	name "Wing Warriors (World) (v1.04)"
-	rom ( name "Wing Warriors (World) (v1.04) (Aftermarket) (Unl).sms" size 131072 crc 11D3D834 md5 4FA61721BA5BA41F1200CD20D1C27A30 sha1 661C5ABFABD09651C05C4FAB00BB81B117037535 )
+	rom ( name "Wing Warriors (World) (v1.02) (Aftermarket) (Unl).sms" size 131072 crc B930E0CF md5 476BFB90381F5C0C109B5BF315D5C313 sha1 BB4E73190C771E16470ECDD7684A0593DD1599AB )
 )
 game (
 	name "Winter Olympics (Brazil) (En,Fr,De,Es,It,Pt,Sv,No)"
@@ -4890,8 +4992,8 @@ game (
 	rom ( name "Winter Olympics (Europe) (En,Fr,De,Es,It,Pt,Sv,No).sms" size 524288 crc A20290B6 md5 6046D9EE439F3C76EB6713EEA8BA984B sha1 20B73D53E6868957F07B1A813B853943BFB90307 )
 )
 game (
-	name "Winter Shooter (World) (v0.3) (Proto)"
-	rom ( name "Winter Shooter (World) (v0.3) (Proto) (Aftermarket) (Unl).sms" size 32768 crc 75600FDE md5 C85EF4683D979B097D368204A164FB1C sha1 98EB59DCA09EEA13BA25DDF0332AAC5D26E62CE5 )
+	name "Winter Shooter (World) (Proto)"
+	rom ( name "Winter Shooter (World) (Proto) (Aftermarket) (Unl).sms" size 32768 crc 75600FDE md5 C85EF4683D979B097D368204A164FB1C sha1 98EB59DCA09EEA13BA25DDF0332AAC5D26E62CE5 )
 )
 game (
 	name "Wolfchild (Europe, Brazil) (En)"

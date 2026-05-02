@@ -1,7 +1,7 @@
 clrmamepro (
 	name "Nintendo - Wii"
 	description "Nintendo - Wii"
-	version "2026.03.30"
+	version "2026.05.02"
 	homepage "http://github.com/robloach/libretro-dats"
 )
 
@@ -6675,10 +6675,10 @@ game (
 	rom ( name "Expeditie Robinson (Netherlands).iso" size 4699979776 crc D8319080 md5 2353C533DEEFA997B5BFB191FA1E6AC7 sha1 52F90EBD2DCB9A006D085558DC8698EE342662A5 serial "RVL-RLNH-HOL" )
 )
 game (
-	name "Eyeshield 21 - Field Saikyou no Senshi-tachi (Japan)"
+	name "Eyeshield 21 - Field Saikyou no Senshitachi (Japan)"
 	region "Japan"
 	serial "RVL-RS7J-JPN"
-	rom ( name "Eyeshield 21 - Field Saikyou no Senshi-tachi (Japan).iso" size 4699979776 crc 11853987 md5 18C567E7AE4CC309CD311CE4805CCDE2 sha1 06AD55EEC1405E9F2B69BBC7E322184DC148B6C6 serial "RVL-RS7J-JPN" )
+	rom ( name "Eyeshield 21 - Field Saikyou no Senshitachi (Japan).iso" size 4699979776 crc 11853987 md5 18C567E7AE4CC309CD311CE4805CCDE2 sha1 06AD55EEC1405E9F2B69BBC7E322184DC148B6C6 serial "RVL-RS7J-JPN" )
 )
 game (
 	name "F1 2009 (Europe) (En,Fr,De,Es,It)"
@@ -7646,10 +7646,10 @@ game (
 	rom ( name "Furu Furu Park (USA).iso" size 4699979776 crc 8739EDC6 md5 E819C803415F5BDE6409F4CD17C7F3EE sha1 508593505516C15ECE814F14F26A68AD20887EAF serial "RVL-RFRE-USA" )
 )
 game (
-	name "Fushigi no Dungeon - Fuurai no Shiren 3 - Karakuri Yashiki no Nemuri-hime (Japan)"
+	name "Fushigi no Dungeon - Fuurai no Shiren 3 - Karakuri Yashiki no Nemurihime (Japan)"
 	region "Japan"
 	serial "RVL-RFSJ-JPN"
-	rom ( name "Fushigi no Dungeon - Fuurai no Shiren 3 - Karakuri Yashiki no Nemuri-hime (Japan).iso" size 4699979776 crc 561D83A1 md5 BB1E406B21F517A9CAF5AC796059685B sha1 F3A196DD1FCB0AB2B689BF12DEA6ECAD2A107225 serial "RVL-RFSJ-JPN" )
+	rom ( name "Fushigi no Dungeon - Fuurai no Shiren 3 - Karakuri Yashiki no Nemurihime (Japan).iso" size 4699979776 crc 561D83A1 md5 BB1E406B21F517A9CAF5AC796059685B sha1 F3A196DD1FCB0AB2B689BF12DEA6ECAD2A107225 serial "RVL-RFSJ-JPN" )
 )
 game (
 	name "G.I. Joe - The Rise of Cobra (Europe) (En,Fr,De,Es,It)"
@@ -11189,6 +11189,12 @@ game (
 game (
 	name "Legend of Spyro, The - The Eternal Night (Europe) (En,Fr,De,Es,It,Nl)"
 	region "Europe"
+	serial "RVL-RO7P-EUR"
+	rom ( name "Legend of Spyro, The - The Eternal Night (Europe) (En,Fr,De,Es,It,Nl).iso" size 4699979776 crc 60A23D49 md5 59DF4404A0BFE9CD555FAAC0B4F92712 sha1 52E258000CBAC266DE41AF6CEEEE8C03EA6C898F serial "RVL-RO7P-EUR" )
+)
+game (
+	name "Legend of Spyro, The - The Eternal Night (Europe) (En,Fr,De,Es,It,Nl)"
+	region "Europe"
 	serial "RVL-RO7P-EUR-B0"
 	rom ( name "Legend of Spyro, The - The Eternal Night (Europe) (En,Fr,De,Es,It,Nl).iso" size 4699979776 crc 60A23D49 md5 59DF4404A0BFE9CD555FAAC0B4F92712 sha1 52E258000CBAC266DE41AF6CEEEE8C03EA6C898F serial "RVL-RO7P-EUR-B0" )
 )
@@ -13186,10 +13192,10 @@ game (
 	rom ( name "Monster 4x4 - World Circuit (USA) (En,Fr,Es).iso" size 4699979776 crc 213F5F8E md5 E9CCA5830A96FB28F1A559D676B94C5D sha1 BB7127BB76B14354A5CBC730E7D3DDB935EA3933 serial "RVL-RM4E-USA-BO" )
 )
 game (
-	name "Monster High - 13 Wishes (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)"
+	name "Monster High - 13 Wishes (Europe, Australia) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)"
 	region "Europe"
 	serial "RVL-SNYP-EUR-B0"
-	rom ( name "Monster High - 13 Wishes (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).iso" size 4699979776 crc 2B9B5B01 md5 6A3508DA2E148A6FC72EABC603EB1FB1 sha1 6FCFE134B111220B862191AA948F32DB6497C08A serial "RVL-SNYP-EUR-B0" )
+	rom ( name "Monster High - 13 Wishes (Europe, Australia) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).iso" size 4699979776 crc 2B9B5B01 md5 6A3508DA2E148A6FC72EABC603EB1FB1 sha1 6FCFE134B111220B862191AA948F32DB6497C08A serial "RVL-SNYP-EUR-B0" )
 )
 game (
 	name "Monster High - 13 Wishes (USA) (En,Fr,Es)"
@@ -13234,10 +13240,10 @@ game (
 	rom ( name "Monster High - Scuola da Paura (Italy) (En,Fr,De,Es,It,Nl).iso" size 4699979776 crc 980ABAF4 md5 9E8162636D13C1358B1D249B823A95B3 sha1 22FB426DB1411537A09298B9231240381EF81D42 serial "RVL-SAOX-EUZ-B0" )
 )
 game (
-	name "Monster High - Skultimate Roller Maze (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)"
+	name "Monster High - Skultimate Roller Maze (Europe, Australia) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)"
 	region "Europe"
 	serial "RVL-SU5P-EUR-B0"
-	rom ( name "Monster High - Skultimate Roller Maze (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).iso" size 4699979776 crc 1B9ABB46 md5 827AD039211FCEF488AF93685505B8F1 sha1 B68E311907D9648597F3C7E9CF693676E79E2902 serial "RVL-SU5P-EUR-B0" )
+	rom ( name "Monster High - Skultimate Roller Maze (Europe, Australia) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).iso" size 4699979776 crc 1B9ABB46 md5 827AD039211FCEF488AF93685505B8F1 sha1 B68E311907D9648597F3C7E9CF693676E79E2902 serial "RVL-SU5P-EUR-B0" )
 )
 game (
 	name "Monster High - Skultimate Roller Maze (USA) (En,Fr,Es)"
@@ -13842,6 +13848,12 @@ game (
 	region "Europe"
 	serial "RVL-RQGP-EUR"
 	rom ( name "MySims Racing (Europe) (En,Fr,De,Es,It,Nl).iso" size 4699979776 crc 2C8D2F2D md5 D8657E87B8CACE078E4ED604BA15C1A1 sha1 8CE16FE4C2AE8E0AF7EFA243AE09BD61C2B8232F serial "RVL-RQGP-EUR" )
+)
+game (
+	name "MySims Racing (Europe) (En,Fr,De,Es,It,Nl)"
+	region "Europe"
+	serial "RVL-RQGP-FRA"
+	rom ( name "MySims Racing (Europe) (En,Fr,De,Es,It,Nl).iso" size 4699979776 crc 2C8D2F2D md5 D8657E87B8CACE078E4ED604BA15C1A1 sha1 8CE16FE4C2AE8E0AF7EFA243AE09BD61C2B8232F serial "RVL-RQGP-FRA" )
 )
 game (
 	name "MySims Racing (USA) (En,Fr,Es)"
@@ -14959,10 +14971,10 @@ game (
 	rom ( name "Nickelodeon SpongeBob SquarePants - Plankton's Robotic Revenge (USA) (En,Fr).iso" size 4699979776 crc 75880432 md5 6339254663CDDC3BB173CD366ACB03F5 sha1 F06C43F532A2A2F087859ADB421AD22E442424B4 serial "RVL-SVDE-USA-B0" )
 )
 game (
-	name "Nickelodeon SpongeBob SquarePants - SpongeBob to Nakama-tachi - Toybot no Kougeki (Japan)"
+	name "Nickelodeon SpongeBob SquarePants - SpongeBob to Nakamatachi - Toybot no Kougeki (Japan)"
 	region "Japan"
 	serial "RVL-RN3J-JPN"
-	rom ( name "Nickelodeon SpongeBob SquarePants - SpongeBob to Nakama-tachi - Toybot no Kougeki (Japan).iso" size 4699979776 crc 4B95B4B7 md5 4FD7F197F8B5A92F67C5877B6DC261C1 sha1 9EEE566B4362F828D8F2F091B710D26D8B43A619 serial "RVL-RN3J-JPN" )
+	rom ( name "Nickelodeon SpongeBob SquarePants - SpongeBob to Nakamatachi - Toybot no Kougeki (Japan).iso" size 4699979776 crc 4B95B4B7 md5 4FD7F197F8B5A92F67C5877B6DC261C1 sha1 9EEE566B4362F828D8F2F091B710D26D8B43A619 serial "RVL-RN3J-JPN" )
 )
 game (
 	name "Nickelodeon SpongeBob SquarePants - SpongeBob's Truth or Square (Europe) (En,De,It,Nl)"
@@ -17117,6 +17129,12 @@ game (
 	rom ( name "Rayman - Raving Rabbids 2 (Europe) (En,Fr,De,Es,It,Nl) (Rev 2).iso" size 4699979776 crc 2E6D2D3A md5 266CFFBEC661D6371C26F23CE8A68823 sha1 68E89F5E437DC28E896E1729718A26A791B22D53 serial "RVL-RY2P-EUR" )
 )
 game (
+	name "Rayman - Raving Rabbids 2 (Europe) (En,Fr,De,Es,It,Nl) (Rev 2)"
+	region "Europe"
+	serial "RVL-RY2P-EUR-B1"
+	rom ( name "Rayman - Raving Rabbids 2 (Europe) (En,Fr,De,Es,It,Nl) (Rev 2).iso" size 4699979776 crc 2E6D2D3A md5 266CFFBEC661D6371C26F23CE8A68823 sha1 68E89F5E437DC28E896E1729718A26A791B22D53 serial "RVL-RY2P-EUR-B1" )
+)
+game (
 	name "Rayman - Raving Rabbids 2 (Korea)"
 	region "Korea"
 	serial "RVL-RY2K-KOR"
@@ -18376,10 +18394,22 @@ game (
 	rom ( name "Sengoku Basara 2 - Heroes - Double Pack (Japan) (Sengoku Basara 2 - Heroes).iso" size 4699979776 crc 64BEC0C5 md5 D1424093E34C85620DD53153304107E8 sha1 819B180E1DF65DC942A5D8D06990369D77A7AF69 serial "RVL-RBSJ-0-JPN" )
 )
 game (
+	name "Sengoku Basara 2 - Heroes - Double Pack (Japan) (Sengoku Basara 2 - Heroes)"
+	region "Japan"
+	serial "RVL-RBSJ-0-JPN-B0"
+	rom ( name "Sengoku Basara 2 - Heroes - Double Pack (Japan) (Sengoku Basara 2 - Heroes).iso" size 4699979776 crc 64BEC0C5 md5 D1424093E34C85620DD53153304107E8 sha1 819B180E1DF65DC942A5D8D06990369D77A7AF69 serial "RVL-RBSJ-0-JPN-B0" )
+)
+game (
 	name "Sengoku Basara 2 - Heroes - Double Pack (Japan) (Sengoku Basara 2)"
 	region "Japan"
 	serial "RVL-RBSJ-1-JPN"
 	rom ( name "Sengoku Basara 2 - Heroes - Double Pack (Japan) (Sengoku Basara 2).iso" size 4699979776 crc 8AA47A01 md5 88A3D5CC846FE66109C3D4791645B381 sha1 9506A00F21B31EC256C64DCE2FA7DAF776EC076B serial "RVL-RBSJ-1-JPN" )
+)
+game (
+	name "Sengoku Basara 2 - Heroes - Double Pack (Japan) (Sengoku Basara 2)"
+	region "Japan"
+	serial "RVL-RBSJ-1-JPN-B0"
+	rom ( name "Sengoku Basara 2 - Heroes - Double Pack (Japan) (Sengoku Basara 2).iso" size 4699979776 crc 8AA47A01 md5 88A3D5CC846FE66109C3D4791645B381 sha1 9506A00F21B31EC256C64DCE2FA7DAF776EC076B serial "RVL-RBSJ-1-JPN-B0" )
 )
 game (
 	name "Sengoku Basara 3 (Japan)"
@@ -19401,6 +19431,12 @@ game (
 	region "Europe"
 	serial "RVL-RSVP-EUR"
 	rom ( name "Sonic Unleashed (Europe) (En,Ja,Fr,De,Es,It).iso" size 4699979776 crc E3484C7A md5 AC7E0C7D9012F84A7828BC6C26E13ED2 sha1 02B33EBB0C5BCDF8ABDF9501D56C5A9698AD8FA4 serial "RVL-RSVP-EUR" )
+)
+game (
+	name "Sonic Unleashed (Europe) (En,Ja,Fr,De,Es,It)"
+	region "Europe"
+	serial "RVL-RSVP-EUR-B0"
+	rom ( name "Sonic Unleashed (Europe) (En,Ja,Fr,De,Es,It).iso" size 4699979776 crc E3484C7A md5 AC7E0C7D9012F84A7828BC6C26E13ED2 sha1 02B33EBB0C5BCDF8ABDF9501D56C5A9698AD8FA4 serial "RVL-RSVP-EUR-B0" )
 )
 game (
 	name "Sonic Unleashed (USA) (En,Ja,Fr,De,Es,It)"
@@ -21990,6 +22026,12 @@ game (
 	region "USA"
 	serial "RVL-SMRE-USA-B0"
 	rom ( name "WWE SmackDown vs. Raw 2011 (USA) (En,Fr,Es).iso" size 4699979776 crc 37C075C1 md5 CF71B519A1E3E6E45E8EDA10B9349FA9 sha1 2B32CDA189C1846A5A6CBCD18815126EC9388E88 serial "RVL-SMRE-USA-B0" )
+)
+game (
+	name "WWII Aces (USA)"
+	region "USA"
+	serial "RVL-RE3E-USA"
+	rom ( name "WWII Aces (USA).iso" size 4699979776 crc 490C19C2 md5 FBFE512F9B14419A794124C1690D7B37 sha1 61E11CE5DA42A93D370F4321D92081FE8647E47F serial "RVL-RE3E-USA" )
 )
 game (
 	name "WWII Aces (USA)"

@@ -1,7 +1,7 @@
 clrmamepro (
 	name "Nintendo - Nintendo 3DS"
 	description "Nintendo - Nintendo 3DS"
-	version "2026.03.30"
+	version "2026.05.02"
 	homepage "http://github.com/robloach/libretro-dats"
 )
 
@@ -4168,7 +4168,8 @@ game (
 game (
 	name "Imagine Collection (Europe) (En,Fr,De,Es,Nl,Sv,No,Da) (Rev 1)"
 	region "Europe"
-	rom ( name "Imagine Collection (Europe) (En,Fr,De,Es,Nl,Sv,No,Da) (Rev 1).3ds" size 1073741824 crc FF7666F8 md5 C27F6990DE3FD38B02A875E9843C382F sha1 0BC679209340C1992737659C297E6671CE6CCC0A )
+	serial "CTR-P-BCLP"
+	rom ( name "Imagine Collection (Europe) (En,Fr,De,Es,Nl,Sv,No,Da) (Rev 1).3ds" size 1073741824 crc FF7666F8 md5 C27F6990DE3FD38B02A875E9843C382F sha1 0BC679209340C1992737659C297E6671CE6CCC0A serial "CTR-P-BCLP" )
 )
 game (
 	name "Inazuma Eleven 1-2-3!! - Endou Mamoru Densetsu (Japan)"
@@ -4577,6 +4578,12 @@ game (
 	region "USA"
 	serial "CTR-P-AKDE"
 	rom ( name "Kid Icarus - Uprising (USA) (En,Fr,Es).3ds" size 2147483648 crc 2FAC4E91 md5 4C2516A9A0A3ECB4BB09BE00AEF125BB sha1 C17CE30DB3E395F4555C744E79B6F827F8B20C57 serial "CTR-P-AKDE" )
+)
+game (
+	name "Kid Icarus - Uprising (USA) (En,Fr,Es) (Rev 1)"
+	region "USA"
+	serial "CTR-P-AKDE"
+	rom ( name "Kid Icarus - Uprising (USA) (En,Fr,Es) (Rev 1).3ds" size 2147483648 crc 8331957B md5 AA89E5B71A1D9BBA8743DB708F168295 sha1 9787171920C48C0459C9D147B9777BD390767746 serial "CTR-P-AKDE" )
 )
 game (
 	name "Kingdom Hearts 3D - Dream Drop Distance (Europe) (En,Fr,De)"
@@ -5995,6 +6002,12 @@ game (
 	rom ( name "Mario & Sonic at London Olympics (Japan) (Rev 1).3ds" size 536870912 crc 044B7ADA md5 3D4287EB3ED31E64A6BC03731BE791D8 sha1 3444808F0CD2A601E0FBA6CA3AA740949091658D serial "CTR-P-ACMJ" )
 )
 game (
+	name "Mario & Sonic at London Olympics (Japan) (Rev 2)"
+	region "Japan"
+	serial "CTR-P-ACMJ"
+	rom ( name "Mario & Sonic at London Olympics (Japan) (Rev 2).3ds" size 536870912 crc FF4E5160 md5 0610299767FD2940205055E368738892 sha1 AF013B58E5D6CE2AF0FEB8C5D04973EE700E8A95 serial "CTR-P-ACMJ" )
+)
+game (
 	name "Mario & Sonic at Rio Olympics (Japan) (Rev 1)"
 	region "Japan"
 	serial "CTR-P-BGXJ"
@@ -6866,6 +6879,11 @@ game (
 	region "Japan"
 	serial "CTR-P-BM7J"
 	rom ( name "My Melody - Negai ga Kanau Fushigi na Hako (Japan).3ds" size 134217728 crc 77FF1F5F md5 236E0B6491F8EB327E4C78928114A2D3 sha1 710B3BF33F072E9BD7CA6CBEC94FC54FD8CACA3E serial "CTR-P-BM7J" )
+)
+game (
+	name "My Melody - Negai ga Kanau Fushigi na Hako (Japan) (Proto)"
+	region "Japan"
+	rom ( name "My Melody - Negai ga Kanau Fushigi na Hako (Japan) (Proto).3ds" size 134217728 crc 5F7C299E md5 9A7FAEDE745477847BD326A33665D78A sha1 443B6ED12F355EDC7C0EF4FB4B7339921CF285AD )
 )
 game (
 	name "My Pet Puppy 3D (USA)"
@@ -12173,10 +12191,22 @@ game (
 	rom ( name "Youkai Watch Busters 2 - Hihou Densetsu Banbarayaa - Magnum (Japan).3ds" size 2147483648 crc 2AC9CB11 md5 8D59D06675AE643F9C893D137E547477 sha1 466B62624DE4941FB66B8C77E08D54C6E0002A79 serial "CTR-P-BYMJ" )
 )
 game (
+	name "Youkai Watch Busters 2 - Hihou Densetsu Banbarayaa - Magnum (Japan) (Rev 1)"
+	region "Japan"
+	serial "CTR-P-BYMJ"
+	rom ( name "Youkai Watch Busters 2 - Hihou Densetsu Banbarayaa - Magnum (Japan) (Rev 1).3ds" size 2147483648 crc 01D88F59 md5 ED700771917BEC779F6CCF9884EBA6A8 sha1 D27F6E53BC6A38D25119F05D7AB570842E7A03A6 serial "CTR-P-BYMJ" )
+)
+game (
 	name "Youkai Watch Busters 2 - Hihou Densetsu Banbarayaa - Sword (Japan)"
 	region "Japan"
 	serial "CTR-P-BYNJ"
 	rom ( name "Youkai Watch Busters 2 - Hihou Densetsu Banbarayaa - Sword (Japan).3ds" size 2147483648 crc 9C270055 md5 8D7D49E172D41FBEFA1EACEEDC76D6F9 sha1 AAD6B8F4D7386C07FE380E03D8EB4670D5B34259 serial "CTR-P-BYNJ" )
+)
+game (
+	name "Youkai Watch Busters 2 - Hihou Densetsu Banbarayaa - Sword (Japan) (Rev 1)"
+	region "Japan"
+	serial "CTR-P-BYNJ"
+	rom ( name "Youkai Watch Busters 2 - Hihou Densetsu Banbarayaa - Sword (Japan) (Rev 1).3ds" size 2147483648 crc 728DB131 md5 350CC639085AF4F7C5050794C5BEE30D sha1 CBB13159916D6A204F8AAFD52462553BFBFD0DBF serial "CTR-P-BYNJ" )
 )
 game (
 	name "Young Justice - Legacy (USA) (En,Fr,Es)"

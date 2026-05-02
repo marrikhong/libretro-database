@@ -1,7 +1,7 @@
 clrmamepro (
 	name "NEC - PC Engine SuperGrafx"
 	description "NEC - PC Engine SuperGrafx"
-	version "2026.03.30"
+	version "2026.05.02"
 	homepage "http://github.com/robloach/libretro-dats"
 )
 

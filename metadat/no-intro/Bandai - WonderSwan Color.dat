@@ -1,7 +1,7 @@
 clrmamepro (
 	name "Bandai - WonderSwan Color"
 	description "Bandai - WonderSwan Color"
-	version "2026.03.30"
+	version "2026.05.02"
 	homepage "http://github.com/robloach/libretro-dats"
 )
 
@@ -509,9 +509,9 @@ game (
 	rom ( name "Kidou Senshi Gundam - Giren no Yabou - Tokubetsu Hen - Aoki Hoshi no Hasha (Japan).wsc" size 4194304 crc D4061551 md5 399E48A3347C378554DE65848F1F496C sha1 20B671BC14A8AB6373DEECC641479D09658AC21F )
 )
 game (
-	name "Kidou Senshi Gundam Seed (Japan)"
+	name "Kidou Senshi Gundam SEED (Japan)"
 	region "Japan"
-	rom ( name "Kidou Senshi Gundam Seed (Japan).wsc" size 4194304 crc BCE15137 md5 8E7AABF85435384BD5E80A1EB6E6409A sha1 E933FF8EACE56A462019AE4654B0BAB1B21B1D6C )
+	rom ( name "Kidou Senshi Gundam SEED (Japan).wsc" size 4194304 crc BCE15137 md5 8E7AABF85435384BD5E80A1EB6E6409A sha1 E933FF8EACE56A462019AE4654B0BAB1B21B1D6C )
 )
 game (
 	name "Kidou Senshi Gundam Vol. 1 - Side 7 (Japan)"

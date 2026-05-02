@@ -1,7 +1,7 @@
 clrmamepro (
 	name "Commodore - CD32"
 	description "Commodore - CD32"
-	version "2026.03.30"
+	version "2026.05.02"
 	homepage "http://github.com/robloach/libretro-dats"
 )
 
@@ -191,6 +191,10 @@ game (
 game (
 	name "CD32 Gamer - Playable Game Demos, Demos, Multimedia & Shareware - Volume 15 (UK)"
 	rom ( name "CD32 Gamer - Playable Game Demos, Demos, Multimedia & Shareware - Volume 15 (UK) (Track 01).bin" size 28837872 crc BBB64661 md5 73CD1F1B697D5824126DDBBCF51A47E5 sha1 BB5FC5FC81114ED66203DC72517705485FD81697 )
+)
+game (
+	name "CD32 Gamer - Playable Game Demos, Demos, Multimedia & Shareware - Volume 17 (UK)"
+	rom ( name "CD32 Gamer - Playable Game Demos, Demos, Multimedia & Shareware - Volume 17 (UK).bin" size 14097888 crc 2D2E027F md5 24950F3833128F328D664CE7DF2AAA42 sha1 71545E3BEF81CD186EA3F2D8D52B5B529260824B )
 )
 game (
 	name "CD32 Gamer - Playable Game Demos, Demos, Multimedia & Shareware - Volume 18 (UK)"
@@ -809,6 +813,18 @@ game (
 	name "Skeleton Krew (Europe)"
 	region "Europe"
 	rom ( name "Skeleton Krew (Europe) (Track 1).bin" size 6051696 crc E16CBDA4 md5 02753B80952737900E440425F4283400 sha1 C70432DD05965DC900CF0E9C26506B7BE06A76F3 )
+)
+game (
+	name "Sleepwalker & Pinball Fantasies (Europe)"
+	region "Europe"
+	serial "CDAC-055300"
+	rom ( name "Sleepwalker & Pinball Fantasies (Europe) (Track 01).bin" size 71093904 crc E2D8CB92 md5 55D0192CE6A1247850AB1FBAD32CAB27 sha1 93B55CEC8B63B8D8D2064782CA8E38A0CBC3931D serial "CDAC-055300" )
+)
+game (
+	name "Sleepwalker & Pinball Fantasies (Europe)"
+	region "Europe"
+	serial "P/N-365365-01"
+	rom ( name "Sleepwalker & Pinball Fantasies (Europe) (Track 01).bin" size 71093904 crc E2D8CB92 md5 55D0192CE6A1247850AB1FBAD32CAB27 sha1 93B55CEC8B63B8D8D2064782CA8E38A0CBC3931D serial "P/N-365365-01" )
 )
 game (
 	name "Sleepwalker (Europe)"

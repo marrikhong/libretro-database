@@ -1,7 +1,7 @@
 clrmamepro (
 	name "Sega - Game Gear"
 	description "Sega - Game Gear"
-	version "2026.03.30"
+	version "2026.05.02"
 	homepage "http://github.com/robloach/libretro-dats"
 )
 
@@ -893,6 +893,13 @@ game (
 )
 game (
 	name "Dangerous Demolition (World)"
+	releaseyear "2026"
+	releasemonth "02"
+	releaseday "05"
+	rom ( name "Dangerous Demolition (World) (2026-02-05) (Aftermarket) (Unl).gg" size 49152 crc 4C1DD4BA md5 C4077616427DA428901CE1667911D620 sha1 096C473B626348179E932822A6D08E9F7D238A8C )
+)
+game (
+	name "Dangerous Demolition (World)"
 	rom ( name "Dangerous Demolition (World) (Aftermarket) (Unl).gg" size 32768 crc 638C4252 md5 D643D140B0A6E7691FF61DB20896F92E sha1 1FC86E872798466A4E5191E01F3AF2D76D3BFEDD )
 )
 game (
@@ -1165,9 +1172,9 @@ game (
 	rom ( name "FIFA International Soccer (Japan).gg" size 524288 crc 78159325 md5 6B60449B8C589AA2361FF6E67EAE18F6 sha1 70385B99320F91FEF54EA88123761AF9D7FF54C5 )
 )
 game (
-	name "FIFA International Soccer (USA, Europe)"
+	name "FIFA International Soccer (USA, Europe) (En,Fr,De,Es)"
 	region "USA"
-	rom ( name "FIFA International Soccer (USA, Europe).gg" size 524288 crc E632A3A2 md5 9A70ADE3CC8647EE1A926AE71BB7FE52 sha1 0725626FC9988B690FC1FC77B294D31B78CBFB5A )
+	rom ( name "FIFA International Soccer (USA, Europe) (En,Fr,De,Es).gg" size 524288 crc E632A3A2 md5 9A70ADE3CC8647EE1A926AE71BB7FE52 sha1 0725626FC9988B690FC1FC77B294D31B78CBFB5A )
 )
 game (
 	name "FIFA Soccer 96 (USA, Europe) (En,Fr,De,Es)"
@@ -2657,9 +2664,9 @@ game (
 	rom ( name "Pengo (Europe).gg" size 32768 crc 0DA23CC1 md5 F431BC2798FA03D51A9C45D107C66BCF sha1 E42F85FEB631712B8615A0B19BFBF6432633BA00 )
 )
 game (
-	name "Pengo (Japan)"
+	name "Pengo (Japan) (En)"
 	region "Japan"
-	rom ( name "Pengo (Japan).gg" size 32768 crc CE863DBA md5 95CEA3A33A3F5915942904B4817B2010 sha1 5883E2D19AB7126D52ABC177A97D44BC88C319DE )
+	rom ( name "Pengo (Japan) (En).gg" size 32768 crc CE863DBA md5 95CEA3A33A3F5915942904B4817B2010 sha1 5883E2D19AB7126D52ABC177A97D44BC88C319DE )
 )
 game (
 	name "Pet Club - Inu Daisuki! (Japan)"
@@ -2814,9 +2821,9 @@ game (
 	rom ( name "Pro Yakyuu GG League (Japan).gg" size 262144 crc 2DA8E943 md5 527449BC2AAC2C8A16853FAC63E60AF6 sha1 BF78122A549AD9B016E3704690C7EEA1574AF140 )
 )
 game (
-	name "Psychic World (Japan) (En)"
+	name "Psychic World (Japan)"
 	region "Japan"
-	rom ( name "Psychic World (Japan) (En).gg" size 131072 crc AFCC7828 md5 A764B44555AADB48C519E7C85BDF7895 sha1 1C0074C811ED4EB369BE31C1BC7D851E40AE8797 )
+	rom ( name "Psychic World (Japan).gg" size 131072 crc AFCC7828 md5 A764B44555AADB48C519E7C85BDF7895 sha1 1C0074C811ED4EB369BE31C1BC7D851E40AE8797 )
 )
 game (
 	name "Psychic World (USA, Europe, Brazil) (En) (Rev 1)"
@@ -2889,9 +2896,9 @@ game (
 	rom ( name "R.C. Grand Prix (USA) (Beta).gg" size 262144 crc CCA47191 md5 28E6F7AB8C60B3D3251E64481C13734E sha1 957ED8FD68E5A8C34C3E53CCEE8522A7F2DE3FF7 )
 )
 game (
-	name "Rastan Saga (Japan)"
+	name "Rastan Saga (Japan) (En)"
 	region "Japan"
-	rom ( name "Rastan Saga (Japan).sms" size 262144 crc 9C76FB3A md5 FD82AF26EBBED24F57C4EEA8EDDF3136 sha1 96BF8A67919218AAC91FB74CDE80A16F90DF77D5 )
+	rom ( name "Rastan Saga (Japan) (En).sms" size 262144 crc 9C76FB3A md5 FD82AF26EBBED24F57C4EEA8EDDF3136 sha1 96BF8A67919218AAC91FB74CDE80A16F90DF77D5 )
 )
 game (
 	name "Revenge of Drancon (USA, Brazil) (En)"
@@ -3414,6 +3421,10 @@ game (
 	name "Spider-Man - X-Men - Arcade's Revenge (USA)"
 	region "USA"
 	rom ( name "Spider-Man - X-Men - Arcade's Revenge (USA).gg" size 524288 crc 742A372B md5 912075356CC3BB5BBAB641E61D3904D7 sha1 4006A23571F194E1FCB3563557DECD5D11E7B5C2 )
+)
+game (
+	name "Spider-Man - X-Men - Arcade's Revenge (World) (Marvel MaXimum Collection)"
+	rom ( name "Spider-Man - X-Men - Arcade's Revenge (World) (Marvel MaXimum Collection).gg" size 524288 crc 7CA0FB6B md5 C7850A354D01346AF335667D68BEAC60 sha1 08C5062D34D91007CE6860938E78BD5F61809202 )
 )
 game (
 	name "Spirou (Europe) (Proto)"

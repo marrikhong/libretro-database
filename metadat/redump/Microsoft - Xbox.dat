@@ -1,7 +1,7 @@
 clrmamepro (
 	name "Microsoft - Xbox"
 	description "Microsoft - Xbox"
-	version "2026.03.30"
+	version "2026.05.02"
 	homepage "http://github.com/robloach/libretro-dats"
 )
 
@@ -64,6 +64,12 @@ game (
 	region "Europe"
 	serial "EA-038"
 	rom ( name "007 - Nightfire (Europe) (En,Fr,De,Es,It,Nl,Sv).iso" size 7825162240 crc 105268A3 md5 02C76DD0C0DE8579B2413F40D2D6CF65 sha1 5E47F870FE7A0BCA17C86FFBDC81F7497F931307 serial "EA-038" )
+)
+game (
+	name "007 - Nightfire (Korea)"
+	region "Korea"
+	serial "EA-038"
+	rom ( name "007 - Nightfire (Korea).iso" size 7825162240 crc 16045272 md5 5EE37E7517876C35263F05724700802B sha1 32B00E08640F137FA8541224BA69B3E09F5C547D serial "EA-038" )
 )
 game (
 	name "007 - Nightfire (USA)"
@@ -174,10 +180,10 @@ game (
 	rom ( name "AFL Live Premiership Edition (Australia).iso" size 7825162240 crc 191FA1C4 md5 F622033FC8AE91392EF9AB29C7087C36 sha1 42185ECF7789E59918E20CE970E64E5F778E31DB serial "AC-035" )
 )
 game (
-	name "AFL Live Premiership Edition (Australia) (Rev 1)"
+	name "AFL Live Premiership Edition (Australia) (Rerelease)"
 	region "Australia"
 	serial "TQ-245"
-	rom ( name "AFL Live Premiership Edition (Australia) (Rev 1).iso" size 7825162240 crc F7E0BBD5 md5 50B784CB60D73762B090C920FF3F7D38 sha1 99F951B6FE84543B08592A6B40634D18E7B5E884 serial "TQ-245" )
+	rom ( name "AFL Live Premiership Edition (Australia) (Rerelease).iso" size 7825162240 crc F7E0BBD5 md5 50B784CB60D73762B090C920FF3F7D38 sha1 99F951B6FE84543B08592A6B40634D18E7B5E884 serial "TQ-245" )
 )
 game (
 	name "AFL Premiership (Australia)"
@@ -5197,6 +5203,12 @@ game (
 	rom ( name "Harry Potter and the Chamber of Secrets (Europe) (En,Fr,De,Es,It).iso" size 7825162240 crc 9CCD6B8F md5 0519C4BA92892F8A261980F4D44DD727 sha1 470B9603BB4443F7BE8E6187060AB42325605589 serial "EA-014" )
 )
 game (
+	name "Harry Potter and the Chamber of Secrets (Korea)"
+	region "Korea"
+	serial "EA-014"
+	rom ( name "Harry Potter and the Chamber of Secrets (Korea).iso" size 7825162240 crc B7DABBDF md5 EFD399698B940F5EFB67D3C92C445BE1 sha1 79B8DAF161B7FD4B67D0D49FAAEDDCF616DD9F77 serial "EA-014" )
+)
+game (
 	name "Harry Potter and the Chamber of Secrets (USA) (En,Fr,De,Es,It)"
 	region "USA"
 	serial "EA-014"
@@ -6678,6 +6690,12 @@ game (
 	region "France"
 	serial "IM-206"
 	rom ( name "Magazine Officiel Xbox, Le - Hors-serie Numero 10 (France).iso" size 7825162240 crc 15CDDA99 md5 7FBB7BDDD418FBB395268C37EEA6B8E5 sha1 322A42E0F4A90A7877F1B6CCE04E4CE8C09398C3 serial "IM-206" )
+)
+game (
+	name "Magazine Officiel Xbox, Le - Hors-serie Numero 9 (France)"
+	region "France"
+	serial "IM-001"
+	rom ( name "Magazine Officiel Xbox, Le - Hors-serie Numero 9 (France).iso" size 7825162240 crc 23BAC424 md5 3401A11A47CCF360D34BD79BF4374743 sha1 F825C7CF254F9B13CFCF34B045D97541E70F0373 serial "IM-001" )
 )
 game (
 	name "Magazine Officiel Xbox, Le - Hors-serie Solutions Numero 08 (France)"
@@ -8342,6 +8360,12 @@ game (
 	rom ( name "Need for Speed - Hot Pursuit 2 (Europe) (En,Fr,De).iso" size 7825162240 crc CB278D9F md5 7B0F93B07763269363EA7BCBAB41B4D2 sha1 A2E032B5A4EBEDB6DF15ABA70897E13AEAEE7FC8 serial "EA-040" )
 )
 game (
+	name "Need for Speed - Hot Pursuit 2 (Korea)"
+	region "Korea"
+	serial "EA-040"
+	rom ( name "Need for Speed - Hot Pursuit 2 (Korea).iso" size 7825162240 crc B437AA0C md5 CE627783A440587F4F3BCDD3E6BA4668 sha1 AA8ECFFF46F188F3293542496EDA7489B8BD7DEC serial "EA-040" )
+)
+game (
 	name "Need for Speed - Hot Pursuit 2 (USA)"
 	region "USA"
 	serial "EA-040"
@@ -8600,10 +8624,10 @@ game (
 	rom ( name "Ninja Gaiden Black (Europe) (En,Fr,De,Es,It).iso" size 7825162240 crc D9AB0CB0 md5 69B1F43ABBC2B793241AFF8C85CAD37C sha1 0A1B3FE12EF367B7C031A3327598DDAFF4966548 serial "TC-013" )
 )
 game (
-	name "Ninja Gaiden Black (Japan) (En,Ja)"
+	name "Ninja Gaiden Black (Japan, Korea) (En,Ja)"
 	region "Japan"
 	serial "TC-013"
-	rom ( name "Ninja Gaiden Black (Japan) (En,Ja).iso" size 7825162240 crc 9FBFBC3E md5 9E09BA06BAB10C53B8460F4C43B98B18 sha1 8581D5D0E2F90DCBCB63BD94BCB958A764F6D3A5 serial "TC-013" )
+	rom ( name "Ninja Gaiden Black (Japan, Korea) (En,Ja).iso" size 7825162240 crc 9FBFBC3E md5 9E09BA06BAB10C53B8460F4C43B98B18 sha1 8581D5D0E2F90DCBCB63BD94BCB958A764F6D3A5 serial "TC-013" )
 )
 game (
 	name "Ninja Gaiden Black (USA) (En,Ja)"
@@ -9670,9 +9694,10 @@ game (
 	rom ( name "Official Xbox Magazine Game Disc 64 (USA).iso" size 7825162240 crc F1AE07C1 md5 954B26D30A186204D33580480B71502E sha1 5DB4F2B59D897EC433368B2D175F8C384326D289 serial "IM-223" )
 )
 game (
-	name "Official Xbox Playable Cheats, The (UK)"
+	name "Official Xbox Playable Cheats, The (Europe)"
+	region "Europe"
 	serial "IM-001"
-	rom ( name "Official Xbox Playable Cheats, The (UK).iso" size 7825162240 crc 1CB40D67 md5 DEF3E67560B71E059CB95E7C8E457CB4 sha1 E4B051D1BFB11F6841010EE5AA87F316F12125D2 serial "IM-001" )
+	rom ( name "Official Xbox Playable Cheats, The (Europe).iso" size 7825162240 crc 1CB40D67 md5 DEF3E67560B71E059CB95E7C8E457CB4 sha1 E4B051D1BFB11F6841010EE5AA87F316F12125D2 serial "IM-001" )
 )
 game (
 	name "Official Xbox Starter Pack 2004, The (UK)"
@@ -11273,10 +11298,10 @@ game (
 	rom ( name "SWAT - Global Strike Team (Europe) (En,Fr,Es).iso" size 7825162240 crc 1A76DDF0 md5 D6A1745E32B83C1E61B320E93CB72692 sha1 060F06740713026622F4157B55DB6D2EC42F2AE1 serial "VV-037" )
 )
 game (
-	name "SWAT - Global Strike Team (USA)"
+	name "SWAT - Global Strike Team (USA, Japan)"
 	region "USA"
 	serial "VV-037"
-	rom ( name "SWAT - Global Strike Team (USA).iso" size 7825162240 crc E6DDD33F md5 B98D4AE9C34DEECB660B55CF19E108DF sha1 897E5314FFDFC391DFABA4F205F6A3D751CE9564 serial "VV-037" )
+	rom ( name "SWAT - Global Strike Team (USA, Japan).iso" size 7825162240 crc E6DDD33F md5 B98D4AE9C34DEECB660B55CF19E108DF sha1 897E5314FFDFC391DFABA4F205F6A3D751CE9564 serial "VV-037" )
 )
 game (
 	name "SX Superstar (Europe) (En,Fr,De,Es)"
@@ -11760,10 +11785,10 @@ game (
 	rom ( name "Sid Meier's Pirates! (USA, Europe) (En,Fr,De,Es,It).iso" size 7825162240 crc 736D9B22 md5 01C3A48A21F029BB0217154825AD9A15 sha1 21821784F827A9469EDE5683DEC102F7A2888CDC serial "TT-143" )
 )
 game (
-	name "Signore degli Anelli, Il - Il ritorno del Re (Italy)"
+	name "Signore degli Anelli, Il - Il Ritorno del Re (Italy)"
 	region "Italy"
 	serial "EA-062"
-	rom ( name "Signore degli Anelli, Il - Il ritorno del Re (Italy).iso" size 7825162240 crc 1C25F950 md5 84A5DDB7A8EC0CB5ED1ABAEC180608BB sha1 C881C5BBBAA12ED63AB4BBB25A4DDB10C16FBF7B serial "EA-062" )
+	rom ( name "Signore degli Anelli, Il - Il Ritorno del Re (Italy).iso" size 7825162240 crc 1C25F950 md5 84A5DDB7A8EC0CB5ED1ABAEC180608BB sha1 C881C5BBBAA12ED63AB4BBB25A4DDB10C16FBF7B serial "EA-062" )
 )
 game (
 	name "Signore degli Anelli, Il - La Terza Era (Italy)"
@@ -11850,6 +11875,12 @@ game (
 	rom ( name "Sims 2, The (USA).iso" size 7825162240 crc 8591048D md5 DA71CA22733A23921B4619B0795F973E sha1 B3500290CAF12D1FD95FB4F1717A6F6329FDEBFF serial "EA-907" )
 )
 game (
+	name "Sims, The (Asia)"
+	region "Asia"
+	serial "EA-047"
+	rom ( name "Sims, The (Asia).iso" size 7825162240 crc 7B8C9AEE md5 03475350AE9425AB4C2351B1209BAAEF sha1 226464EF162AD3EA2CF8811F2A39FA6F711B1235 serial "EA-047" )
+)
+game (
 	name "Sims, The (Europe) (En,Fr,De,Es,It)"
 	region "Europe"
 	serial "EA-047"
@@ -11872,6 +11903,12 @@ game (
 	region "Europe"
 	serial "EA-067"
 	rom ( name "Sims, The - Bustin' Out (Europe) (En,Fr,De,Es,It,Nl).iso" size 7825162240 crc 7F0CEB52 md5 A18EF51A31C143D8FAF13B592FE68B67 sha1 4F73A5A52B35FFD780EAE0D093B4CF747D1E7BE7 serial "EA-067" )
+)
+game (
+	name "Sims, The - Bustin' Out (Korea)"
+	region "Korea"
+	serial "EA-067"
+	rom ( name "Sims, The - Bustin' Out (Korea).iso" size 7825162240 crc E28D436E md5 21FD6B8BF6C34EBE4C7554A5A0D17F5D sha1 AE6FE32FA7FBFB0802081FDAB60B32FFD39715C4 serial "EA-067" )
 )
 game (
 	name "Sims, The - Bustin' Out (USA)"
@@ -14158,6 +14195,12 @@ game (
 	region "Europe"
 	serial "AC-012"
 	rom ( name "Urban Freestyle Soccer (Europe) (En,Fr,De,Es,It).iso" size 7825162240 crc 065E74E9 md5 DB5192396235049BD41D523CE0AD7EA6 sha1 EEB6BE1BBDD36AA5DD4DD6DF4B6275470B889AEA serial "AC-012" )
+)
+game (
+	name "Urbz, The - Sims in the City (Asia)"
+	region "Asia"
+	serial "EA-096"
+	rom ( name "Urbz, The - Sims in the City (Asia).iso" size 7825162240 crc 618AD499 md5 DA66178F46C3ACB74EA30E475DBE002A sha1 6BDD50E5374FBEBAAE4E2C07EBC3514214EB8DE2 serial "EA-096" )
 )
 game (
 	name "Urbz, The - Sims in the City (Europe) (En,Fr,De,Es,It,Nl,Sv)"

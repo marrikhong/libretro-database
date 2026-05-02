@@ -1,7 +1,7 @@
 clrmamepro (
 	name "Sony - PlayStation"
 	description "Sony - PlayStation"
-	version "2026.03.30"
+	version "2026.05.02"
 	homepage "http://github.com/robloach/libretro-dats"
 )
 
@@ -293,8 +293,8 @@ game (
 game (
 	name "16 Tales 4 (USA)"
 	region "USA"
-	serial "LSP-99012401"
-	rom ( name "16 Tales 4 (USA).bin" size 620125968 crc C7804475 md5 20B892D7CC5AF4DF4FCBCA28B9B41461 sha1 D1C40CABD2A6189F2AFFD993E5DF2E673ABBF924 serial "LSP-99012401" )
+	serial "LSP-990124-0.1"
+	rom ( name "16 Tales 4 (USA).bin" size 620125968 crc C7804475 md5 20B892D7CC5AF4DF4FCBCA28B9B41461 sha1 D1C40CABD2A6189F2AFFD993E5DF2E673ABBF924 serial "LSP-990124-0.1" )
 )
 game (
 	name "19-ji 03-pun - Ueno-hatsu Yakou Ressha (Japan)"
@@ -1460,10 +1460,10 @@ game (
 	rom ( name "Adidas Power Soccer International '97 (Europe) (En,Fr,De,Es,It,Nl) (Track 1).bin" size 488811456 crc E856A2BB md5 FA1BCF0222B56B49B364D36236ABB8E6 sha1 CC89ACD8BC98457AC2CD05CAD04388F831965DAE serial "SLES-00270" )
 )
 game (
-	name "Adlib Ouji - ...to Fuyukai na Nakama-tachi! (Japan)"
+	name "Adlib Ouji - ...to Fuyukai na Nakamatachi! (Japan)"
 	region "Japan"
 	serial "SLPS-03510"
-	rom ( name "Adlib Ouji - ...to Fuyukai na Nakama-tachi! (Japan) (Track 1).bin" size 47183472 crc F165EBFF md5 C102986F515735F9FC7AB52CFC69C678 sha1 E9D875611100A4A8BC7F0C29862060CC5581B937 serial "SLPS-03510" )
+	rom ( name "Adlib Ouji - ...to Fuyukai na Nakamatachi! (Japan) (Track 1).bin" size 47183472 crc F165EBFF md5 C102986F515735F9FC7AB52CFC69C678 sha1 E9D875611100A4A8BC7F0C29862060CC5581B937 serial "SLPS-03510" )
 )
 game (
 	name "Advan Racing (Japan)"
@@ -1732,10 +1732,10 @@ game (
 	rom ( name "Aitakute... - Your Smiles in My Heart - Oroshitate no Diary - Introduction Disc (Japan) (Track 1).bin" size 644720832 crc B591AFA2 md5 4FB7981AC5B565B0B8D79D93C529D13E sha1 CA9F57992D2AF0CEA3157A304A26D03CB1EBC7B6 serial "SLPM-80162" )
 )
 game (
-	name "Akagawa Jirou - Majo-tachi no Nemuri - Fukkatsusai (Japan)"
+	name "Akagawa Jirou - Majotachi no Nemuri - Fukkatsusai (Japan)"
 	region "Japan"
 	serial "SLPS-01863"
-	rom ( name "Akagawa Jirou - Majo-tachi no Nemuri - Fukkatsusai (Japan) (Track 1).bin" size 179071872 crc CFCAD40F md5 00208FC1319DE95E23F2D0232B959A50 sha1 1A8803A08115A911E5D18A5E435B568EF5466879 serial "SLPS-01863" )
+	rom ( name "Akagawa Jirou - Majotachi no Nemuri - Fukkatsusai (Japan) (Track 1).bin" size 179071872 crc CFCAD40F md5 00208FC1319DE95E23F2D0232B959A50 sha1 1A8803A08115A911E5D18A5E435B568EF5466879 serial "SLPS-01863" )
 )
 game (
 	name "Akagawa Jirou - Yasoukyoku (Japan)"
@@ -3033,10 +3033,10 @@ game (
 	rom ( name "Aoki Ookami to Shiroki Mejika - Genchou Hishi (Japan) (Track 1).bin" size 77451360 crc A0D52C0E md5 6F7070BA26A0AEB0A022C666403171BC sha1 53138CE069E18D86E93A10449C3CF6B237636FDE serial "SLPS-01579" )
 )
 game (
-	name "Aozora to Nakama-tachi - Yume no Bouken Plus (Japan)"
+	name "Aozora to Nakamatachi - Yume no Bouken Plus (Japan)"
 	region "Japan"
 	serial "SLPS-03564"
-	rom ( name "Aozora to Nakama-tachi - Yume no Bouken Plus (Japan).bin" size 364266000 crc 278C3A84 md5 723727D8190B479BDB514E76CF8DEDA6 sha1 FFDE7BA73094E32827010EA9C59CB14B7C81E7CF serial "SLPS-03564" )
+	rom ( name "Aozora to Nakamatachi - Yume no Bouken Plus (Japan).bin" size 364266000 crc 278C3A84 md5 723727D8190B479BDB514E76CF8DEDA6 sha1 FFDE7BA73094E32827010EA9C59CB14B7C81E7CF serial "SLPS-03564" )
 )
 game (
 	name "Ape Escape (Europe)"
@@ -4931,58 +4931,58 @@ game (
 	rom ( name "Back to School Special - PlayStation Demo Disc (Asia) (Track 1).bin" size 318498432 crc B0F7D78E md5 40782865D299407024CE6CB0C81DB1D6 sha1 920CAB22A0C130EC6E7B067963B1C2B0C3903E40 serial "PAPX-90088" )
 )
 game (
-	name "BackGuiner - Yomigaeru Yuusha-tachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 1)"
+	name "BackGuiner - Yomigaeru Yuushatachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 1)"
 	region "Japan"
 	serial "SLPS-01446"
-	rom ( name "BackGuiner - Yomigaeru Yuusha-tachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 1).bin" size 738024672 crc 38AA0173 md5 603633152D5A67D7212575ADB00D367A sha1 5600903D511872086F039E58A9B50FDA44F602F8 serial "SLPS-01446" )
+	rom ( name "BackGuiner - Yomigaeru Yuushatachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 1).bin" size 738024672 crc 38AA0173 md5 603633152D5A67D7212575ADB00D367A sha1 5600903D511872086F039E58A9B50FDA44F602F8 serial "SLPS-01446" )
 )
 game (
-	name "BackGuiner - Yomigaeru Yuusha-tachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 1)"
+	name "BackGuiner - Yomigaeru Yuushatachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 1)"
 	region "Japan"
 	serial "SLPS-01446-0"
-	rom ( name "BackGuiner - Yomigaeru Yuusha-tachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 1).bin" size 738024672 crc 38AA0173 md5 603633152D5A67D7212575ADB00D367A sha1 5600903D511872086F039E58A9B50FDA44F602F8 serial "SLPS-01446-0" )
+	rom ( name "BackGuiner - Yomigaeru Yuushatachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 1).bin" size 738024672 crc 38AA0173 md5 603633152D5A67D7212575ADB00D367A sha1 5600903D511872086F039E58A9B50FDA44F602F8 serial "SLPS-01446-0" )
 )
 game (
-	name "BackGuiner - Yomigaeru Yuusha-tachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 2)"
+	name "BackGuiner - Yomigaeru Yuushatachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 2)"
 	region "Japan"
 	serial "SLPS-01447"
-	rom ( name "BackGuiner - Yomigaeru Yuusha-tachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 2).bin" size 705816384 crc 9DF4CDDD md5 E3B79FF9E430DA79BEBDB959A73DA428 sha1 C7B2FA82BC914FF70280E6105A993ACC072DB37A serial "SLPS-01447" )
+	rom ( name "BackGuiner - Yomigaeru Yuushatachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 2).bin" size 705816384 crc 9DF4CDDD md5 E3B79FF9E430DA79BEBDB959A73DA428 sha1 C7B2FA82BC914FF70280E6105A993ACC072DB37A serial "SLPS-01447" )
 )
 game (
-	name "BackGuiner - Yomigaeru Yuusha-tachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 2)"
+	name "BackGuiner - Yomigaeru Yuushatachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 2)"
 	region "Japan"
 	serial "SLPS-01447-1"
-	rom ( name "BackGuiner - Yomigaeru Yuusha-tachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 2).bin" size 705816384 crc 9DF4CDDD md5 E3B79FF9E430DA79BEBDB959A73DA428 sha1 C7B2FA82BC914FF70280E6105A993ACC072DB37A serial "SLPS-01447-1" )
+	rom ( name "BackGuiner - Yomigaeru Yuushatachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 2).bin" size 705816384 crc 9DF4CDDD md5 E3B79FF9E430DA79BEBDB959A73DA428 sha1 C7B2FA82BC914FF70280E6105A993ACC072DB37A serial "SLPS-01447-1" )
 )
 game (
-	name "BackGuiner - Yomigaeru Yuusha-tachi - Kakusei-hen - Guiner Tensei (Japan) (Disc 1)"
+	name "BackGuiner - Yomigaeru Yuushatachi - Kakusei-hen - Guiner Tensei (Japan) (Disc 1)"
 	region "Japan"
 	serial "SLPS-01217"
-	rom ( name "BackGuiner - Yomigaeru Yuusha-tachi - Kakusei-hen - Guiner Tensei (Japan) (Disc 1).bin" size 741007008 crc 269B6A9F md5 6F914AABA899F7CE69E6CDFC9E4E1B68 sha1 847F599A4966E4EE706572E6A5078A4C68A42EE7 serial "SLPS-01217" )
+	rom ( name "BackGuiner - Yomigaeru Yuushatachi - Kakusei-hen - Guiner Tensei (Japan) (Disc 1).bin" size 741007008 crc 269B6A9F md5 6F914AABA899F7CE69E6CDFC9E4E1B68 sha1 847F599A4966E4EE706572E6A5078A4C68A42EE7 serial "SLPS-01217" )
 )
 game (
-	name "BackGuiner - Yomigaeru Yuusha-tachi - Kakusei-hen - Guiner Tensei (Japan) (Disc 1)"
+	name "BackGuiner - Yomigaeru Yuushatachi - Kakusei-hen - Guiner Tensei (Japan) (Disc 1)"
 	region "Japan"
 	serial "SLPS-01217-0"
-	rom ( name "BackGuiner - Yomigaeru Yuusha-tachi - Kakusei-hen - Guiner Tensei (Japan) (Disc 1).bin" size 741007008 crc 269B6A9F md5 6F914AABA899F7CE69E6CDFC9E4E1B68 sha1 847F599A4966E4EE706572E6A5078A4C68A42EE7 serial "SLPS-01217-0" )
+	rom ( name "BackGuiner - Yomigaeru Yuushatachi - Kakusei-hen - Guiner Tensei (Japan) (Disc 1).bin" size 741007008 crc 269B6A9F md5 6F914AABA899F7CE69E6CDFC9E4E1B68 sha1 847F599A4966E4EE706572E6A5078A4C68A42EE7 serial "SLPS-01217-0" )
 )
 game (
-	name "BackGuiner - Yomigaeru Yuusha-tachi - Kakusei-hen - Guiner Tensei (Japan) (Disc 2)"
+	name "BackGuiner - Yomigaeru Yuushatachi - Kakusei-hen - Guiner Tensei (Japan) (Disc 2)"
 	region "Japan"
 	serial "SLPS-01218"
-	rom ( name "BackGuiner - Yomigaeru Yuusha-tachi - Kakusei-hen - Guiner Tensei (Japan) (Disc 2).bin" size 720779808 crc A30FB7AF md5 17A97A5626246E1601B9EC3B0551B650 sha1 45AB6CE32712AF716627B86004854359E0065258 serial "SLPS-01218" )
+	rom ( name "BackGuiner - Yomigaeru Yuushatachi - Kakusei-hen - Guiner Tensei (Japan) (Disc 2).bin" size 720779808 crc A30FB7AF md5 17A97A5626246E1601B9EC3B0551B650 sha1 45AB6CE32712AF716627B86004854359E0065258 serial "SLPS-01218" )
 )
 game (
-	name "BackGuiner - Yomigaeru Yuusha-tachi - Kakusei-hen - Guiner Tensei (Japan) (Disc 2)"
+	name "BackGuiner - Yomigaeru Yuushatachi - Kakusei-hen - Guiner Tensei (Japan) (Disc 2)"
 	region "Japan"
 	serial "SLPS-01218-1"
-	rom ( name "BackGuiner - Yomigaeru Yuusha-tachi - Kakusei-hen - Guiner Tensei (Japan) (Disc 2).bin" size 720779808 crc A30FB7AF md5 17A97A5626246E1601B9EC3B0551B650 sha1 45AB6CE32712AF716627B86004854359E0065258 serial "SLPS-01218-1" )
+	rom ( name "BackGuiner - Yomigaeru Yuushatachi - Kakusei-hen - Guiner Tensei (Japan) (Disc 2).bin" size 720779808 crc A30FB7AF md5 17A97A5626246E1601B9EC3B0551B650 sha1 45AB6CE32712AF716627B86004854359E0065258 serial "SLPS-01218-1" )
 )
 game (
-	name "BackGuiner - Yomigaeru Yuusha-tachi - Service Disc (Japan)"
+	name "BackGuiner - Yomigaeru Yuushatachi - Service Disc (Japan)"
 	region "Japan"
 	serial "SLPS-01448"
-	rom ( name "BackGuiner - Yomigaeru Yuusha-tachi - Service Disc (Japan).bin" size 562951200 crc D6E6A75D md5 A394CE44E34BDB0ECF10F18447080FC5 sha1 2036BD26E0544693567EF00A5B92A0CDB28FD6FF serial "SLPS-01448" )
+	rom ( name "BackGuiner - Yomigaeru Yuushatachi - Service Disc (Japan).bin" size 562951200 crc D6E6A75D md5 A394CE44E34BDB0ECF10F18447080FC5 sha1 2036BD26E0544693567EF00A5B92A0CDB28FD6FF serial "SLPS-01448" )
 )
 game (
 	name "Backgammon (Japan)"
@@ -5060,10 +5060,10 @@ game (
 	rom ( name "Bakuryuu (Japan) (Beta) (1999-11-27).bin" size 163901472 crc D2F3284A md5 747A0071378F38EC5305080198EB41C7 sha1 5EFC98744E38C541078FFCCCD68A6646A8F6B5DA serial "SLPS-02429" )
 )
 game (
-	name "Bakushou!! All Yoshimoto Quiz-ou Kettei-sen DX (Japan)"
+	name "Bakushou!! All Yoshimoto Quiz-ou Ketteisen DX (Japan)"
 	region "Japan"
 	serial "SLPS-00158"
-	rom ( name "Bakushou!! All Yoshimoto Quiz-ou Kettei-sen DX (Japan).bin" size 634026288 crc EAF1273E md5 8162F971FA5205A9E76F4E5097B5FB69 sha1 139641F2C92728AD5E289A444BED717C022BDED8 serial "SLPS-00158" )
+	rom ( name "Bakushou!! All Yoshimoto Quiz-ou Ketteisen DX (Japan).bin" size 634026288 crc EAF1273E md5 8162F971FA5205A9E76F4E5097B5FB69 sha1 139641F2C92728AD5E289A444BED717C022BDED8 serial "SLPS-00158" )
 )
 game (
 	name "Bakusou Dekotora Densetsu - Otoko Ippiki Yume Kaidou (Japan)"
@@ -6320,10 +6320,10 @@ game (
 	rom ( name "Bishoujo Senshi Sailor Moon SuperS - Shin Shuyaku Soudatsusen (Japan) (Shokai Genteiban) (Track 01).bin" size 276795120 crc 997BF5E0 md5 D798F49C70D02E5C86EC754A65D4A1E8 sha1 C9A22FB9324B9BBEDF0111F8E0F282FFD796EEBB serial "SLPS-00260" )
 )
 game (
-	name "Bistro, The - Ryouri & Wine no Shokunin-tachi (Japan)"
+	name "Bistro, The - Ryouri & Wine no Shokunintachi (Japan)"
 	region "Japan"
 	serial "SLPS-02294"
-	rom ( name "Bistro, The - Ryouri & Wine no Shokunin-tachi (Japan) (Track 1).bin" size 105306096 crc D0E7D4D9 md5 3BF9A935D991059BFB8E96D2CDE6F430 sha1 36F417029ABFA72D27FB812C2F974F2CE7EBFB11 serial "SLPS-02294" )
+	rom ( name "Bistro, The - Ryouri & Wine no Shokunintachi (Japan) (Track 1).bin" size 105306096 crc D0E7D4D9 md5 3BF9A935D991059BFB8E96D2CDE6F430 sha1 36F417029ABFA72D27FB812C2F974F2CE7EBFB11 serial "SLPS-02294" )
 )
 game (
 	name "Black Bass with Blue Marlin (USA)"
@@ -8549,16 +8549,16 @@ game (
 	rom ( name "Capcom Generation - Dai-4-shuu Kokou no Eiyuu (Japan).bin" size 367803408 crc 148E9C5D md5 CEFA150C215BB2F11F9FCEE4A43748E8 sha1 6EE8A74402294D3186FA53B430A6D219935E1F36 serial "SLPS-01701" )
 )
 game (
-	name "Capcom Generation - Dai-5-shuu Kakutouka-tachi (Japan)"
+	name "Capcom Generation - Dai-5-shuu Kakutoukatachi (Japan)"
 	region "Japan"
 	serial "SLPM-87365"
-	rom ( name "Capcom Generation - Dai-5-shuu Kakutouka-tachi (Japan) (Track 1).bin" size 458181360 crc 1230599C md5 9B7FE9D5F3B4381DF6F1CF181DF880C2 sha1 C9179D34DDF904CD308869BF89311C997D7D2885 serial "SLPM-87365" )
+	rom ( name "Capcom Generation - Dai-5-shuu Kakutoukatachi (Japan) (Track 1).bin" size 458181360 crc 1230599C md5 9B7FE9D5F3B4381DF6F1CF181DF880C2 sha1 C9179D34DDF904CD308869BF89311C997D7D2885 serial "SLPM-87365" )
 )
 game (
-	name "Capcom Generation - Dai-5-shuu Kakutouka-tachi (Japan)"
+	name "Capcom Generation - Dai-5-shuu Kakutoukatachi (Japan)"
 	region "Japan"
 	serial "SLPS-01725"
-	rom ( name "Capcom Generation - Dai-5-shuu Kakutouka-tachi (Japan) (Track 1).bin" size 458181360 crc 1230599C md5 9B7FE9D5F3B4381DF6F1CF181DF880C2 sha1 C9179D34DDF904CD308869BF89311C997D7D2885 serial "SLPS-01725" )
+	rom ( name "Capcom Generation - Dai-5-shuu Kakutoukatachi (Japan) (Track 1).bin" size 458181360 crc 1230599C md5 9B7FE9D5F3B4381DF6F1CF181DF880C2 sha1 C9179D34DDF904CD308869BF89311C997D7D2885 serial "SLPS-01725" )
 )
 game (
 	name "Capcom Generations (Europe) (Disc 1) (Wings of Destiny)"
@@ -8964,6 +8964,12 @@ game (
 	region "Germany"
 	serial "SLES-02825"
 	rom ( name "Catan - Die erste Insel (Germany) (Track 1).bin" size 265660752 crc 91000F37 md5 D90D59FFCE104A91AC729EDAE1697A13 sha1 2BF9B13706AEB21D94606CABFB0B61E14C7CC2FA serial "SLES-02825" )
+)
+game (
+	name "Catherine Catherine - Enfants Terrible - Visual Disc (Japan)"
+	region "Japan"
+	serial "SLPM-80330"
+	rom ( name "Catherine Catherine - Enfants Terrible - Visual Disc (Japan).bin" size 287510832 crc 56307A01 md5 D5A721D7583968E75F974AE5B562B548 sha1 9D270DB29E00DB9D2B7DC1D74EC2877B6C5D165C serial "SLPM-80330" )
 )
 game (
 	name "Cellophanes (Japan)"
@@ -14453,6 +14459,12 @@ game (
 	rom ( name "Deep, The - Ushinawareta Shinkai (Japan).bin" size 271665408 crc 6DBC5B64 md5 CFB23428337A95F1375E8809A0812D97 sha1 F45DA0CE000E6B6A83FA0A6C8AC478E1AF81DB89 serial "SLPS-00501" )
 )
 game (
+	name "Deep, The - Ushinawareta Shinkai (Japan) (Global Game Selection 2000)"
+	region "Japan"
+	serial "SLPM-86455"
+	rom ( name "Deep, The - Ushinawareta Shinkai (Japan) (Global Game Selection 2000).bin" size 271665408 crc 5B2DAC31 md5 FAE6EAF333FFA0E229D722C6353B8722 sha1 E941CA9E471A87A25E9B93E86CD56D7AA99D858A serial "SLPM-86455" )
+)
+game (
 	name "Defcon 5 (Europe)"
 	region "Europe"
 	serial "SLES-00081"
@@ -14645,10 +14657,10 @@ game (
 	rom ( name "Demo One (Version 7) (Europe) (En,Fr,De,Es,It).bin" size 665982912 crc B14BF8CB md5 7E77A2BCA7C99AFC7CD5F9B4A79DAD00 sha1 9AB6C251DB15DE51420B241C912779D508F4B159 serial "PBPX-95008" )
 )
 game (
-	name "DemoDemo PlayStation Soukan-gou Vol. 1 (Japan)"
+	name "DemoDemo PlayStation Soukangou Vol. 1 (Japan)"
 	region "Japan"
 	serial "PCPX-96003"
-	rom ( name "DemoDemo PlayStation Soukan-gou Vol. 1 (Japan) (Track 1).bin" size 335343456 crc 390E7100 md5 5E399E6D3D910EA2666C6B7B97994C0C sha1 9666C0AA68E14E503D2FD01D3DB4F0419160C3A5 serial "PCPX-96003" )
+	rom ( name "DemoDemo PlayStation Soukangou Vol. 1 (Japan) (Track 1).bin" size 335343456 crc 390E7100 md5 5E399E6D3D910EA2666C6B7B97994C0C sha1 9666C0AA68E14E503D2FD01D3DB4F0419160C3A5 serial "PCPX-96003" )
 )
 game (
 	name "DemoDemo PlayStation Special (Japan)"
@@ -18518,118 +18530,118 @@ game (
 	rom ( name "Dragon Quest Characters - Torneko no Daibouken 2 - Fushigi no Dungeon (Japan) (Track 1).bin" size 589625232 crc C2D34849 md5 7F34EE2198A1513B1231E5DBFCCF58A0 sha1 D677286B68CA677D294701050E3C3A1F77270711 serial "SLPM-86293" )
 )
 game (
-	name "Dragon Quest IV - Michibikareshi Mono-tachi (Japan)"
+	name "Dragon Quest IV - Michibikareshi Monotachi (Japan)"
 	region "Japan"
 	serial "SLPM-86916"
-	rom ( name "Dragon Quest IV - Michibikareshi Mono-tachi (Japan).bin" size 368057424 crc 3D67C858 md5 F3D566CCE1AE08A9FFA4699EFDF1590E sha1 85064625AFA12219880FC8D07047A3CC1C595CB9 serial "SLPM-86916" )
+	rom ( name "Dragon Quest IV - Michibikareshi Monotachi (Japan).bin" size 368057424 crc 3D67C858 md5 F3D566CCE1AE08A9FFA4699EFDF1590E sha1 85064625AFA12219880FC8D07047A3CC1C595CB9 serial "SLPM-86916" )
 )
 game (
-	name "Dragon Quest IV - Michibikareshi Mono-tachi (Japan)"
+	name "Dragon Quest IV - Michibikareshi Monotachi (Japan)"
 	region "Japan"
 	serial "SLPM-87377"
-	rom ( name "Dragon Quest IV - Michibikareshi Mono-tachi (Japan).bin" size 368057424 crc 3D67C858 md5 F3D566CCE1AE08A9FFA4699EFDF1590E sha1 85064625AFA12219880FC8D07047A3CC1C595CB9 serial "SLPM-87377" )
+	rom ( name "Dragon Quest IV - Michibikareshi Monotachi (Japan).bin" size 368057424 crc 3D67C858 md5 F3D566CCE1AE08A9FFA4699EFDF1590E sha1 85064625AFA12219880FC8D07047A3CC1C595CB9 serial "SLPM-87377" )
 )
 game (
-	name "Dragon Quest Monsters 1 & 2 - Hoshifuri no Yuusha to Bokujou no Nakama-tachi (Japan)"
+	name "Dragon Quest Monsters 1 & 2 - Hoshifuri no Yuusha to Bokujou no Nakamatachi (Japan)"
 	region "Japan"
 	serial "SLPM-87050"
-	rom ( name "Dragon Quest Monsters 1 & 2 - Hoshifuri no Yuusha to Bokujou no Nakama-tachi (Japan).bin" size 260975568 crc ACED2A81 md5 BBFE2D982557401536874C856B555AD0 sha1 433EE5ACE196F509A1A1FB1992CD621124E57C3A serial "SLPM-87050" )
+	rom ( name "Dragon Quest Monsters 1 & 2 - Hoshifuri no Yuusha to Bokujou no Nakamatachi (Japan).bin" size 260975568 crc ACED2A81 md5 BBFE2D982557401536874C856B555AD0 sha1 433EE5ACE196F509A1A1FB1992CD621124E57C3A serial "SLPM-87050" )
 )
 game (
-	name "Dragon Quest VII - Eden no Senshi-tachi (Japan) (Disc 1) (Rev 1)"
+	name "Dragon Quest VII - Eden no Senshitachi (Japan) (Disc 1) (Rev 1)"
 	region "Japan"
 	serial "SLPM-87352"
-	rom ( name "Dragon Quest VII - Eden no Senshi-tachi (Japan) (Disc 1) (Rev 1).bin" size 713189904 crc 65320AA5 md5 9B42B12AC5E45672C79D7C61EC22AB95 sha1 555E499BD4F9E0EF39E4AD4E8791EDEFA5E2685A serial "SLPM-87352" )
+	rom ( name "Dragon Quest VII - Eden no Senshitachi (Japan) (Disc 1) (Rev 1).bin" size 713189904 crc 65320AA5 md5 9B42B12AC5E45672C79D7C61EC22AB95 sha1 555E499BD4F9E0EF39E4AD4E8791EDEFA5E2685A serial "SLPM-87352" )
 )
 game (
-	name "Dragon Quest VII - Eden no Senshi-tachi (Japan) (Disc 1) (Rev 1)"
+	name "Dragon Quest VII - Eden no Senshitachi (Japan) (Disc 1) (Rev 1)"
 	region "Japan"
 	serial "SLPM-87352-0"
-	rom ( name "Dragon Quest VII - Eden no Senshi-tachi (Japan) (Disc 1) (Rev 1).bin" size 713189904 crc 65320AA5 md5 9B42B12AC5E45672C79D7C61EC22AB95 sha1 555E499BD4F9E0EF39E4AD4E8791EDEFA5E2685A serial "SLPM-87352-0" )
+	rom ( name "Dragon Quest VII - Eden no Senshitachi (Japan) (Disc 1) (Rev 1).bin" size 713189904 crc 65320AA5 md5 9B42B12AC5E45672C79D7C61EC22AB95 sha1 555E499BD4F9E0EF39E4AD4E8791EDEFA5E2685A serial "SLPM-87352-0" )
 )
 game (
-	name "Dragon Quest VII - Eden no Senshi-tachi (Japan) (Disc 1) (Rev 1)"
+	name "Dragon Quest VII - Eden no Senshitachi (Japan) (Disc 1) (Rev 1)"
 	region "Japan"
 	serial "SLPM-87378"
-	rom ( name "Dragon Quest VII - Eden no Senshi-tachi (Japan) (Disc 1) (Rev 1).bin" size 713189904 crc 65320AA5 md5 9B42B12AC5E45672C79D7C61EC22AB95 sha1 555E499BD4F9E0EF39E4AD4E8791EDEFA5E2685A serial "SLPM-87378" )
+	rom ( name "Dragon Quest VII - Eden no Senshitachi (Japan) (Disc 1) (Rev 1).bin" size 713189904 crc 65320AA5 md5 9B42B12AC5E45672C79D7C61EC22AB95 sha1 555E499BD4F9E0EF39E4AD4E8791EDEFA5E2685A serial "SLPM-87378" )
 )
 game (
-	name "Dragon Quest VII - Eden no Senshi-tachi (Japan) (Disc 1) (Rev 1)"
+	name "Dragon Quest VII - Eden no Senshitachi (Japan) (Disc 1) (Rev 1)"
 	region "Japan"
 	serial "SLPM-87378-0"
-	rom ( name "Dragon Quest VII - Eden no Senshi-tachi (Japan) (Disc 1) (Rev 1).bin" size 713189904 crc 65320AA5 md5 9B42B12AC5E45672C79D7C61EC22AB95 sha1 555E499BD4F9E0EF39E4AD4E8791EDEFA5E2685A serial "SLPM-87378-0" )
+	rom ( name "Dragon Quest VII - Eden no Senshitachi (Japan) (Disc 1) (Rev 1).bin" size 713189904 crc 65320AA5 md5 9B42B12AC5E45672C79D7C61EC22AB95 sha1 555E499BD4F9E0EF39E4AD4E8791EDEFA5E2685A serial "SLPM-87378-0" )
 )
 game (
-	name "Dragon Quest VII - Eden no Senshi-tachi (Japan) (Disc 2) (Rev 1)"
+	name "Dragon Quest VII - Eden no Senshitachi (Japan) (Disc 2) (Rev 1)"
 	region "Japan"
 	serial "SLPM-87353"
-	rom ( name "Dragon Quest VII - Eden no Senshi-tachi (Japan) (Disc 2) (Rev 1).bin" size 678439104 crc C0FC283E md5 FFE5729A7230AB71CCC81D58EA85CB93 sha1 12D6BB004362C3914F94EBDE40AA0A041722CE7E serial "SLPM-87353" )
+	rom ( name "Dragon Quest VII - Eden no Senshitachi (Japan) (Disc 2) (Rev 1).bin" size 678439104 crc C0FC283E md5 FFE5729A7230AB71CCC81D58EA85CB93 sha1 12D6BB004362C3914F94EBDE40AA0A041722CE7E serial "SLPM-87353" )
 )
 game (
-	name "Dragon Quest VII - Eden no Senshi-tachi (Japan) (Disc 2) (Rev 1)"
+	name "Dragon Quest VII - Eden no Senshitachi (Japan) (Disc 2) (Rev 1)"
 	region "Japan"
 	serial "SLPM-87353-1"
-	rom ( name "Dragon Quest VII - Eden no Senshi-tachi (Japan) (Disc 2) (Rev 1).bin" size 678439104 crc C0FC283E md5 FFE5729A7230AB71CCC81D58EA85CB93 sha1 12D6BB004362C3914F94EBDE40AA0A041722CE7E serial "SLPM-87353-1" )
+	rom ( name "Dragon Quest VII - Eden no Senshitachi (Japan) (Disc 2) (Rev 1).bin" size 678439104 crc C0FC283E md5 FFE5729A7230AB71CCC81D58EA85CB93 sha1 12D6BB004362C3914F94EBDE40AA0A041722CE7E serial "SLPM-87353-1" )
 )
 game (
-	name "Dragon Quest VII - Eden no Senshi-tachi (Japan) (Disc 2) (Rev 1)"
+	name "Dragon Quest VII - Eden no Senshitachi (Japan) (Disc 2) (Rev 1)"
 	region "Japan"
 	serial "SLPM-87379"
-	rom ( name "Dragon Quest VII - Eden no Senshi-tachi (Japan) (Disc 2) (Rev 1).bin" size 678439104 crc C0FC283E md5 FFE5729A7230AB71CCC81D58EA85CB93 sha1 12D6BB004362C3914F94EBDE40AA0A041722CE7E serial "SLPM-87379" )
+	rom ( name "Dragon Quest VII - Eden no Senshitachi (Japan) (Disc 2) (Rev 1).bin" size 678439104 crc C0FC283E md5 FFE5729A7230AB71CCC81D58EA85CB93 sha1 12D6BB004362C3914F94EBDE40AA0A041722CE7E serial "SLPM-87379" )
 )
 game (
-	name "Dragon Quest VII - Eden no Senshi-tachi (Japan) (Disc 2) (Rev 1)"
+	name "Dragon Quest VII - Eden no Senshitachi (Japan) (Disc 2) (Rev 1)"
 	region "Japan"
 	serial "SLPM-87379-1"
-	rom ( name "Dragon Quest VII - Eden no Senshi-tachi (Japan) (Disc 2) (Rev 1).bin" size 678439104 crc C0FC283E md5 FFE5729A7230AB71CCC81D58EA85CB93 sha1 12D6BB004362C3914F94EBDE40AA0A041722CE7E serial "SLPM-87379-1" )
+	rom ( name "Dragon Quest VII - Eden no Senshitachi (Japan) (Disc 2) (Rev 1).bin" size 678439104 crc C0FC283E md5 FFE5729A7230AB71CCC81D58EA85CB93 sha1 12D6BB004362C3914F94EBDE40AA0A041722CE7E serial "SLPM-87379-1" )
 )
 game (
-	name "Dragon Quest VII - Eden no Senshi-tachi (Japan, Asia) (Disc 1)"
+	name "Dragon Quest VII - Eden no Senshitachi (Japan, Asia) (Disc 1)"
 	region "Japan"
 	serial "SCPS-45504"
-	rom ( name "Dragon Quest VII - Eden no Senshi-tachi (Japan, Asia) (Disc 1).bin" size 713189904 crc 040DEB1C md5 5F19D7FAF39A93FC78B2E18FE63684F7 sha1 D7E11E89AF01F40CA3F327B2842306F9DC942FB5 serial "SCPS-45504" )
+	rom ( name "Dragon Quest VII - Eden no Senshitachi (Japan, Asia) (Disc 1).bin" size 713189904 crc 040DEB1C md5 5F19D7FAF39A93FC78B2E18FE63684F7 sha1 D7E11E89AF01F40CA3F327B2842306F9DC942FB5 serial "SCPS-45504" )
 )
 game (
-	name "Dragon Quest VII - Eden no Senshi-tachi (Japan, Asia) (Disc 1)"
+	name "Dragon Quest VII - Eden no Senshitachi (Japan, Asia) (Disc 1)"
 	region "Japan"
 	serial "SCPS-45504-0"
-	rom ( name "Dragon Quest VII - Eden no Senshi-tachi (Japan, Asia) (Disc 1).bin" size 713189904 crc 040DEB1C md5 5F19D7FAF39A93FC78B2E18FE63684F7 sha1 D7E11E89AF01F40CA3F327B2842306F9DC942FB5 serial "SCPS-45504-0" )
+	rom ( name "Dragon Quest VII - Eden no Senshitachi (Japan, Asia) (Disc 1).bin" size 713189904 crc 040DEB1C md5 5F19D7FAF39A93FC78B2E18FE63684F7 sha1 D7E11E89AF01F40CA3F327B2842306F9DC942FB5 serial "SCPS-45504-0" )
 )
 game (
-	name "Dragon Quest VII - Eden no Senshi-tachi (Japan, Asia) (Disc 1)"
+	name "Dragon Quest VII - Eden no Senshitachi (Japan, Asia) (Disc 1)"
 	region "Japan"
 	serial "SLPM-86500"
-	rom ( name "Dragon Quest VII - Eden no Senshi-tachi (Japan, Asia) (Disc 1).bin" size 713189904 crc 040DEB1C md5 5F19D7FAF39A93FC78B2E18FE63684F7 sha1 D7E11E89AF01F40CA3F327B2842306F9DC942FB5 serial "SLPM-86500" )
+	rom ( name "Dragon Quest VII - Eden no Senshitachi (Japan, Asia) (Disc 1).bin" size 713189904 crc 040DEB1C md5 5F19D7FAF39A93FC78B2E18FE63684F7 sha1 D7E11E89AF01F40CA3F327B2842306F9DC942FB5 serial "SLPM-86500" )
 )
 game (
-	name "Dragon Quest VII - Eden no Senshi-tachi (Japan, Asia) (Disc 1)"
+	name "Dragon Quest VII - Eden no Senshitachi (Japan, Asia) (Disc 1)"
 	region "Japan"
 	serial "SLPM-86500-0"
-	rom ( name "Dragon Quest VII - Eden no Senshi-tachi (Japan, Asia) (Disc 1).bin" size 713189904 crc 040DEB1C md5 5F19D7FAF39A93FC78B2E18FE63684F7 sha1 D7E11E89AF01F40CA3F327B2842306F9DC942FB5 serial "SLPM-86500-0" )
+	rom ( name "Dragon Quest VII - Eden no Senshitachi (Japan, Asia) (Disc 1).bin" size 713189904 crc 040DEB1C md5 5F19D7FAF39A93FC78B2E18FE63684F7 sha1 D7E11E89AF01F40CA3F327B2842306F9DC942FB5 serial "SLPM-86500-0" )
 )
 game (
-	name "Dragon Quest VII - Eden no Senshi-tachi (Japan, Asia) (Disc 2)"
+	name "Dragon Quest VII - Eden no Senshitachi (Japan, Asia) (Disc 2)"
 	region "Japan"
 	serial "SCPS-45505"
-	rom ( name "Dragon Quest VII - Eden no Senshi-tachi (Japan, Asia) (Disc 2).bin" size 678439104 crc C89B1909 md5 759EE47A11C499DAF20AAEFC7B15014F sha1 8C26C60E2F687185C74386964028CAE123A03E88 serial "SCPS-45505" )
+	rom ( name "Dragon Quest VII - Eden no Senshitachi (Japan, Asia) (Disc 2).bin" size 678439104 crc C89B1909 md5 759EE47A11C499DAF20AAEFC7B15014F sha1 8C26C60E2F687185C74386964028CAE123A03E88 serial "SCPS-45505" )
 )
 game (
-	name "Dragon Quest VII - Eden no Senshi-tachi (Japan, Asia) (Disc 2)"
+	name "Dragon Quest VII - Eden no Senshitachi (Japan, Asia) (Disc 2)"
 	region "Japan"
 	serial "SCPS-45505-1"
-	rom ( name "Dragon Quest VII - Eden no Senshi-tachi (Japan, Asia) (Disc 2).bin" size 678439104 crc C89B1909 md5 759EE47A11C499DAF20AAEFC7B15014F sha1 8C26C60E2F687185C74386964028CAE123A03E88 serial "SCPS-45505-1" )
+	rom ( name "Dragon Quest VII - Eden no Senshitachi (Japan, Asia) (Disc 2).bin" size 678439104 crc C89B1909 md5 759EE47A11C499DAF20AAEFC7B15014F sha1 8C26C60E2F687185C74386964028CAE123A03E88 serial "SCPS-45505-1" )
 )
 game (
-	name "Dragon Quest VII - Eden no Senshi-tachi (Japan, Asia) (Disc 2)"
+	name "Dragon Quest VII - Eden no Senshitachi (Japan, Asia) (Disc 2)"
 	region "Japan"
 	serial "SLPM-86501"
-	rom ( name "Dragon Quest VII - Eden no Senshi-tachi (Japan, Asia) (Disc 2).bin" size 678439104 crc C89B1909 md5 759EE47A11C499DAF20AAEFC7B15014F sha1 8C26C60E2F687185C74386964028CAE123A03E88 serial "SLPM-86501" )
+	rom ( name "Dragon Quest VII - Eden no Senshitachi (Japan, Asia) (Disc 2).bin" size 678439104 crc C89B1909 md5 759EE47A11C499DAF20AAEFC7B15014F sha1 8C26C60E2F687185C74386964028CAE123A03E88 serial "SLPM-86501" )
 )
 game (
-	name "Dragon Quest VII - Eden no Senshi-tachi (Japan, Asia) (Disc 2)"
+	name "Dragon Quest VII - Eden no Senshitachi (Japan, Asia) (Disc 2)"
 	region "Japan"
 	serial "SLPM-86501-1"
-	rom ( name "Dragon Quest VII - Eden no Senshi-tachi (Japan, Asia) (Disc 2).bin" size 678439104 crc C89B1909 md5 759EE47A11C499DAF20AAEFC7B15014F sha1 8C26C60E2F687185C74386964028CAE123A03E88 serial "SLPM-86501-1" )
+	rom ( name "Dragon Quest VII - Eden no Senshitachi (Japan, Asia) (Disc 2).bin" size 678439104 crc C89B1909 md5 759EE47A11C499DAF20AAEFC7B15014F sha1 8C26C60E2F687185C74386964028CAE123A03E88 serial "SLPM-86501-1" )
 )
 game (
 	name "Dragon Seeds (USA)"
@@ -18924,6 +18936,12 @@ game (
 	region "Europe"
 	serial "SLES-01816-P"
 	rom ( name "Driver (Europe).bin" size 747479712 crc ADE80E3D md5 9D77CF2610E29C4ADA694784275CEF5E sha1 9491292CB9BCE6B1621F9E51C795240456388F72 serial "SLES-01816-P" )
+)
+game (
+	name "Driver (France)"
+	region "France"
+	serial "SLES-01976"
+	rom ( name "Driver (France).bin" size 734383776 crc BB68BF52 md5 A2946C01182676BE64FDA9F114848BB0 sha1 F51316C56CBF61D7A6E5E3F76033BDB84FE44681 serial "SLES-01976" )
 )
 game (
 	name "Driver (France)"
@@ -21458,10 +21476,10 @@ game (
 	rom ( name "Euro Demo 22 (France) (Track 1).bin" size 485497488 crc E7E8EFB6 md5 9B6AF0275F26DA2057A8003CBD9937FE sha1 FC2FEC349727EE0C8F0611A3EEA77BC17345D16B serial "SCED-01115" )
 )
 game (
-	name "Euro Demo 23 (Europe)"
+	name "Euro Demo 23 (Europe, Australia)"
 	region "Europe"
 	serial "SCED-00819"
-	rom ( name "Euro Demo 23 (Europe) (Track 1).bin" size 225775536 crc 35183515 md5 449F128D028E4FFCCB96AA469424BDDC sha1 8C269B95E2AF57C8DDDE7A14CD73FD1094FA9469 serial "SCED-00819" )
+	rom ( name "Euro Demo 23 (Europe, Australia) (Track 1).bin" size 225775536 crc 35183515 md5 449F128D028E4FFCCB96AA469424BDDC sha1 8C269B95E2AF57C8DDDE7A14CD73FD1094FA9469 serial "SCED-00819" )
 )
 game (
 	name "Euro Demo 23 (France)"
@@ -21542,10 +21560,10 @@ game (
 	rom ( name "Euro Demo 29 (France) (Track 01).bin" size 370113072 crc 37D42E51 md5 B1D0AC95C1A360E867A836B26738190C sha1 85FF5BCDE6FEC353D41E54CA51589AC424AC659E serial "SCED-01849" )
 )
 game (
-	name "Euro Demo 30 (Europe)"
+	name "Euro Demo 30 (Europe, Australia)"
 	region "Europe"
 	serial "SCED-00826"
-	rom ( name "Euro Demo 30 (Europe) (Track 1).bin" size 188211744 crc A6199C1D md5 AEEDECED47E9FA4FEDF4530B9E7567B5 sha1 B8FEB2FC609E422EB2260A846022C2901E2EE7C1 serial "SCED-00826" )
+	rom ( name "Euro Demo 30 (Europe, Australia) (Track 1).bin" size 188211744 crc A6199C1D md5 AEEDECED47E9FA4FEDF4530B9E7567B5 sha1 B8FEB2FC609E422EB2260A846022C2901E2EE7C1 serial "SCED-00826" )
 )
 game (
 	name "Euro Demo 30 (France)"
@@ -21554,10 +21572,10 @@ game (
 	rom ( name "Euro Demo 30 (France) (Track 1).bin" size 357003024 crc FBCBE105 md5 5F8F7D88520474B45D503EBA7D1E232A sha1 7D8838ADA2A1CB8A013328C5DE67F18CC902CC33 serial "SCED-01850" )
 )
 game (
-	name "Euro Demo 31 (Europe)"
+	name "Euro Demo 31 (Europe, Australia)"
 	region "Europe"
 	serial "SCED-00827"
-	rom ( name "Euro Demo 31 (Europe) (Track 1).bin" size 251948592 crc 883D7FE9 md5 99213CE9FD7F6AB000C3A79E7396261C sha1 789B54173DFFEFDBB66CE259FE0BD4305FC79C43 serial "SCED-00827" )
+	rom ( name "Euro Demo 31 (Europe, Australia) (Track 1).bin" size 251948592 crc 883D7FE9 md5 99213CE9FD7F6AB000C3A79E7396261C sha1 789B54173DFFEFDBB66CE259FE0BD4305FC79C43 serial "SCED-00827" )
 )
 game (
 	name "Euro Demo 31 (France)"
@@ -21566,10 +21584,10 @@ game (
 	rom ( name "Euro Demo 31 (France) (Track 1).bin" size 311124912 crc 99990AAF md5 7E27BE0C29F20FD748B61337133841C7 sha1 28762D39447D380BF6DB4375875E4B73F6ED304B serial "SCED-01851" )
 )
 game (
-	name "Euro Demo 32 (Europe)"
+	name "Euro Demo 32 (Europe, Australia)"
 	region "Europe"
 	serial "SCED-00828"
-	rom ( name "Euro Demo 32 (Europe) (Track 1).bin" size 363398112 crc 37FDD032 md5 BCE2F7F0F38FCDFA7F106B455BA8023D sha1 75585E2BA4B363A3FAAA8C44EDFA90F96C89EB7F serial "SCED-00828" )
+	rom ( name "Euro Demo 32 (Europe, Australia) (Track 1).bin" size 363398112 crc 37FDD032 md5 BCE2F7F0F38FCDFA7F106B455BA8023D sha1 75585E2BA4B363A3FAAA8C44EDFA90F96C89EB7F serial "SCED-00828" )
 )
 game (
 	name "Euro Demo 32 (France)"
@@ -21590,10 +21608,10 @@ game (
 	rom ( name "Euro Demo 33 (France) (Track 1).bin" size 496086192 crc B4023C02 md5 19BCA593EC8706B34DDCBD1F005E8287 sha1 747E4AC941DEA8364B3C56DC15982D16BDF79B93 serial "SCED-01853" )
 )
 game (
-	name "Euro Demo 34 (Europe)"
+	name "Euro Demo 34 (Europe, Australia)"
 	region "Europe"
 	serial "SCED-01144"
-	rom ( name "Euro Demo 34 (Europe) (Track 01).bin" size 342488832 crc E87C7390 md5 3CDC808E8A007FCBA49D920101BA0734 sha1 993ED3C66947F8430275B65BEF150F74C46D7280 serial "SCED-01144" )
+	rom ( name "Euro Demo 34 (Europe, Australia) (Track 01).bin" size 342488832 crc E87C7390 md5 3CDC808E8A007FCBA49D920101BA0734 sha1 993ED3C66947F8430275B65BEF150F74C46D7280 serial "SCED-01144" )
 )
 game (
 	name "Euro Demo 34 (France)"
@@ -21668,10 +21686,10 @@ game (
 	rom ( name "Euro Demo 40 (France) (Track 1).bin" size 386969856 crc 5A11BFA9 md5 2C32C402E80384EFB12907B6C041215A sha1 34BCDC0F91D33D2ACEA25D88A0D0B0BF48B64DFD serial "SCED-01860" )
 )
 game (
-	name "Euro Demo 41 (Europe)"
+	name "Euro Demo 41 (Europe, Australia)"
 	region "Europe"
 	serial "SCED-01151"
-	rom ( name "Euro Demo 41 (Europe) (Track 1).bin" size 368360832 crc 4DA3A180 md5 EFF0A2668741964362B09FF24B2BC235 sha1 834EDBD504C7C197D24FB49A16D7A65035A71837 serial "SCED-01151" )
+	rom ( name "Euro Demo 41 (Europe, Australia) (Track 1).bin" size 368360832 crc 4DA3A180 md5 EFF0A2668741964362B09FF24B2BC235 sha1 834EDBD504C7C197D24FB49A16D7A65035A71837 serial "SCED-01151" )
 )
 game (
 	name "Euro Demo 41 (France)"
@@ -21680,10 +21698,10 @@ game (
 	rom ( name "Euro Demo 41 (France) (Track 1).bin" size 417515280 crc AC61562A md5 E1395D50A2A81EE7B8AA259A4E98ED40 sha1 B93AE5067D7F85EC9C12797631F772B358FCE4F0 serial "SCED-01861" )
 )
 game (
-	name "Euro Demo 42 (Europe)"
+	name "Euro Demo 42 (Europe, Australia)"
 	region "Europe"
 	serial "SCED-01152"
-	rom ( name "Euro Demo 42 (Europe) (Track 01).bin" size 326168304 crc 738A3744 md5 2B2570C46D624B72D3E714ADC63767EF sha1 EA41D00409C1B9CD161537BCECD6E49FE373BAD8 serial "SCED-01152" )
+	rom ( name "Euro Demo 42 (Europe, Australia) (Track 01).bin" size 326168304 crc 738A3744 md5 2B2570C46D624B72D3E714ADC63767EF sha1 EA41D00409C1B9CD161537BCECD6E49FE373BAD8 serial "SCED-01152" )
 )
 game (
 	name "Euro Demo 42 (France)"
@@ -21704,10 +21722,10 @@ game (
 	rom ( name "Euro Demo 43 (France) (Track 1).bin" size 429602208 crc 7C4DB31A md5 D8CDC3FE2D9B7113B388D5A6836C3FF6 sha1 1AE5F9F33A572DBF5921564CECD08E272BE9432E serial "SCED-02647" )
 )
 game (
-	name "Euro Demo 44 (Europe)"
+	name "Euro Demo 44 (Europe, Australia)"
 	region "Europe"
 	serial "SCED-01818"
-	rom ( name "Euro Demo 44 (Europe) (Track 1).bin" size 257729808 crc 01A23866 md5 14F5B8895F1B8586F4B11B6628ED520E sha1 3059475F6DFE45F7E741CF00DC044E1E55AF674B serial "SCED-01818" )
+	rom ( name "Euro Demo 44 (Europe, Australia) (Track 1).bin" size 257729808 crc 01A23866 md5 14F5B8895F1B8586F4B11B6628ED520E sha1 3059475F6DFE45F7E741CF00DC044E1E55AF674B serial "SCED-01818" )
 )
 game (
 	name "Euro Demo 44 (France)"
@@ -21764,10 +21782,10 @@ game (
 	rom ( name "Euro Demo 48 (France).bin" size 479274096 crc FC770922 md5 1B4A5CA696CF26DF96A7358883EBBC22 sha1 8CF4FB7848AE8569841CD2BAF0FA134A1559B388 serial "SCED-02652" )
 )
 game (
-	name "Euro Demo 49 (Europe)"
+	name "Euro Demo 49 (Europe, Australia)"
 	region "Europe"
 	serial "SCED-01823"
-	rom ( name "Euro Demo 49 (Europe).bin" size 449932896 crc 8E8C8E91 md5 29A6AC455DE88AB1BBD4F05476FB490E sha1 D61FB2222B7586A897E1FC832D02D5D1CE7EF75D serial "SCED-01823" )
+	rom ( name "Euro Demo 49 (Europe, Australia).bin" size 449932896 crc 8E8C8E91 md5 29A6AC455DE88AB1BBD4F05476FB490E sha1 D61FB2222B7586A897E1FC832D02D5D1CE7EF75D serial "SCED-01823" )
 )
 game (
 	name "Euro Demo 49 (France)"
@@ -21884,10 +21902,10 @@ game (
 	rom ( name "Euro Demo 59 (Europe) (Track 1).bin" size 461521200 crc 19C0CAEB md5 145C545B8FF16CEDD8474F82168A4F42 sha1 161536A8520DCD16E2EC030D2D80A953ACC5C903 serial "SCED-02633" )
 )
 game (
-	name "Euro Demo 60 (Europe)"
+	name "Euro Demo 60 (Europe, Australia)"
 	region "Europe"
 	serial "SCED-02634"
-	rom ( name "Euro Demo 60 (Europe) (Track 1).bin" size 406378560 crc 8AF98376 md5 BBB50C6E5911F6F1FF9DEA6D82902FBA sha1 966C36A7EF4C86186C2EF4CF47ADB3B46BF18CA4 serial "SCED-02634" )
+	rom ( name "Euro Demo 60 (Europe, Australia) (Track 1).bin" size 406378560 crc 8AF98376 md5 BBB50C6E5911F6F1FF9DEA6D82902FBA sha1 966C36A7EF4C86186C2EF4CF47ADB3B46BF18CA4 serial "SCED-02634" )
 )
 game (
 	name "Euro Demo 61 (Europe)"
@@ -21902,28 +21920,28 @@ game (
 	rom ( name "Euro Demo 61 (Europe) (EDC) (Track 1).bin" size 425243952 crc BE6F42AF md5 05F01B20B4AAF3021B2B80D98578AF50 sha1 FBA403D0AD35122933DE644EDD8161B5519B699B serial "SCED-02635" )
 )
 game (
-	name "Euro Demo 62 (Europe)"
-	region "Europe"
-	serial "SCED-02636"
-	rom ( name "Euro Demo 62 (Europe) (Track 1).bin" size 398224176 crc 5C25C29C md5 2583AE3304E98CE099094B574ED5FD89 sha1 1CF9563D6F5D43CA99C1D0D6AF04B4692D6366C3 serial "SCED-02636" )
-)
-game (
 	name "Euro Demo 62 (Europe) (EDC)"
 	region "Europe"
 	serial "SCED-02636"
 	rom ( name "Euro Demo 62 (Europe) (EDC) (Track 1).bin" size 398224176 crc 8A9FEAB7 md5 1994785E4EA6896F988A435B6EA35B0F sha1 2497AE6857A811BC8343C482DACF5ADF1436A791 serial "SCED-02636" )
 )
 game (
-	name "Euro Demo 63 (Europe)"
+	name "Euro Demo 62 (Europe, Australia)"
 	region "Europe"
-	serial "SCED-02637"
-	rom ( name "Euro Demo 63 (Europe) (Track 1).bin" size 309226848 crc 052B02E1 md5 B6C5FD900136A338C0ABDACD02DB4F0D sha1 3618DBA52600F4628B9341883AA558B695A71B33 serial "SCED-02637" )
+	serial "SCED-02636"
+	rom ( name "Euro Demo 62 (Europe, Australia) (Track 1).bin" size 398224176 crc 5C25C29C md5 2583AE3304E98CE099094B574ED5FD89 sha1 1CF9563D6F5D43CA99C1D0D6AF04B4692D6366C3 serial "SCED-02636" )
 )
 game (
-	name "Euro Demo 64 (Europe)"
+	name "Euro Demo 63 (Europe, Australia)"
+	region "Europe"
+	serial "SCED-02637"
+	rom ( name "Euro Demo 63 (Europe, Australia) (Track 1).bin" size 309226848 crc 052B02E1 md5 B6C5FD900136A338C0ABDACD02DB4F0D sha1 3618DBA52600F4628B9341883AA558B695A71B33 serial "SCED-02637" )
+)
+game (
+	name "Euro Demo 64 (Europe, Australia)"
 	region "Europe"
 	serial "SCED-02638"
-	rom ( name "Euro Demo 64 (Europe).bin" size 605324832 crc A7F5B789 md5 CD051CA1CEEEF678859B27963B7AA235 sha1 3F8D1B9000760484BAAD66EEEE202A4B3F8B4AD4 serial "SCED-02638" )
+	rom ( name "Euro Demo 64 (Europe, Australia).bin" size 605324832 crc A7F5B789 md5 CD051CA1CEEEF678859B27963B7AA235 sha1 3F8D1B9000760484BAAD66EEEE202A4B3F8B4AD4 serial "SCED-02638" )
 )
 game (
 	name "Euro Demo 65 (Europe)"
@@ -21944,10 +21962,10 @@ game (
 	rom ( name "Euro Demo 67 (Europe).bin" size 468624240 crc A4BCD531 md5 A5BA5209235C8D9D440C9FF57BC4FACB sha1 4D06555014B6383945CA4A11E7D95597C9939007 serial "SCED-02641" )
 )
 game (
-	name "Euro Demo 68 (Europe)"
+	name "Euro Demo 68 (Europe, Australia)"
 	region "Europe"
 	serial "SCED-02642"
-	rom ( name "Euro Demo 68 (Europe).bin" size 707587440 crc A746FFCC md5 0A1EA42A6B1F55FB50B50AC9FBB3C4EC sha1 1484FEBC18DC86BAAF4ACB55EE2B8B523F195D86 serial "SCED-02642" )
+	rom ( name "Euro Demo 68 (Europe, Australia).bin" size 707587440 crc A746FFCC md5 0A1EA42A6B1F55FB50B50AC9FBB3C4EC sha1 1484FEBC18DC86BAAF4ACB55EE2B8B523F195D86 serial "SCED-02642" )
 )
 game (
 	name "Euro Demo 69 (Europe)"
@@ -21974,10 +21992,10 @@ game (
 	rom ( name "Euro Demo 72 (Europe).bin" size 410805024 crc 10563E15 md5 F7807C2370BADA4A3517C417E76867AC sha1 A87E32666A8873BB5A7EE8CA611D6BB5FB46F29D serial "SCED-02646" )
 )
 game (
-	name "Euro Demo 73 (Europe)"
+	name "Euro Demo 73 (Europe, Australia)"
 	region "Europe"
 	serial "SCED-03450"
-	rom ( name "Euro Demo 73 (Europe).bin" size 675501456 crc 0A80EBB0 md5 F21D9BC50039E0C97852A04255B21C52 sha1 1BB4B42A81E2CC558F5BA4CFC53605034808FA28 serial "SCED-03450" )
+	rom ( name "Euro Demo 73 (Europe, Australia).bin" size 675501456 crc 0A80EBB0 md5 F21D9BC50039E0C97852A04255B21C52 sha1 1BB4B42A81E2CC558F5BA4CFC53605034808FA28 serial "SCED-03450" )
 )
 game (
 	name "Euro Demo 74 (Europe)"
@@ -23722,124 +23740,124 @@ game (
 	rom ( name "Famires, The - Shijou Saikyou no Menu (Japan) (Major Wave).bin" size 198480576 crc 1ECFD292 md5 390EE5664AC62E0A80FF7CD87B4FE810 sha1 95EF39ED6F349432101A1328F18F2554E609DBFD serial "SLPM-87254" )
 )
 game (
-	name "Famitsu Wave 10gatsu-gou Vol. 15 (Japan)"
-	region "Japan"
-	serial "SLPM-80483"
-	rom ( name "Famitsu Wave 10gatsu-gou Vol. 15 (Japan) (Track 1).bin" size 588872592 crc 1D71418F md5 F78D13B83685A2656C78E13E143A353F sha1 6A0F1F7611AD9D50688BC3EC33D354F0E6608C93 serial "SLPM-80483" )
-)
-game (
-	name "Famitsu Wave 11gatsu-gou Vol. 16 (Japan)"
-	region "Japan"
-	serial "SLPM-80498"
-	rom ( name "Famitsu Wave 11gatsu-gou Vol. 16 (Japan).bin" size 601371120 crc CDC9E236 md5 2ED99E9D9FB2B5E230EE7F61EA49C410 sha1 4F8C6CBED47E464AA02ABCAC433CF2EE835E3DAC serial "SLPM-80498" )
-)
-game (
-	name "Famitsu Wave 11gatsu-gou Vol. 4 (Japan)"
-	region "Japan"
-	serial "SLPM-80312"
-	rom ( name "Famitsu Wave 11gatsu-gou Vol. 4 (Japan) (Track 1).bin" size 494559744 crc 7E8E7544 md5 2053E38785BB282184323C3F06D0F2C9 sha1 F5A4A632F296C4168339E77CDA18DCD1C8ABA118 serial "SLPM-80312" )
-)
-game (
-	name "Famitsu Wave 12gatsu-gou Vol. 17 (Japan)"
-	region "Japan"
-	serial "SLPM-80502"
-	rom ( name "Famitsu Wave 12gatsu-gou Vol. 17 (Japan) (Track 1).bin" size 413589792 crc 09137326 md5 A141C86B1883E7E481694BEBEC31AC6E sha1 08B5D39D28C0CFC036D350E51C5DEFFF97EFCA68 serial "SLPM-80502" )
-)
-game (
-	name "Famitsu Wave 12gatsu-gou Vol. 5 (Japan)"
-	region "Japan"
-	serial "SLPM-80339"
-	rom ( name "Famitsu Wave 12gatsu-gou Vol. 5 (Japan) (Track 1).bin" size 519086400 crc 82F89DD2 md5 F58AD00A8504189C88640A615329A073 sha1 195AB6A60B028867FF35F14B259B026D29352272 serial "SLPM-80339" )
-)
-game (
-	name "Famitsu Wave 1gatsu-gou Vol. 18 (Japan)"
+	name "Famitsu Wave 1-gatsugou Vol. 18 (Japan)"
 	region "Japan"
 	serial "SLPM-80518"
-	rom ( name "Famitsu Wave 1gatsu-gou Vol. 18 (Japan) (Track 1).bin" size 544455072 crc 6E90FD9B md5 AF5716BEB0E7605FE06326367D474875 sha1 86C306ED3EF83752F5215A3930DEC1B0C38CA7D7 serial "SLPM-80518" )
+	rom ( name "Famitsu Wave 1-gatsugou Vol. 18 (Japan) (Track 1).bin" size 544455072 crc 6E90FD9B md5 AF5716BEB0E7605FE06326367D474875 sha1 86C306ED3EF83752F5215A3930DEC1B0C38CA7D7 serial "SLPM-80518" )
 )
 game (
-	name "Famitsu Wave 1gatsu-gou Vol. 6 (Japan)"
+	name "Famitsu Wave 1-gatsugou Vol. 6 (Japan)"
 	region "Japan"
 	serial "SLPM-80352"
-	rom ( name "Famitsu Wave 1gatsu-gou Vol. 6 (Japan) (Track 1).bin" size 449796480 crc 1FD0F86B md5 646A01D0680B4DEEA2DFCA1B29F80B20 sha1 341D7AC58C5ADBEC2A668338AD75994E4FDF17C0 serial "SLPM-80352" )
+	rom ( name "Famitsu Wave 1-gatsugou Vol. 6 (Japan) (Track 1).bin" size 449796480 crc 1FD0F86B md5 646A01D0680B4DEEA2DFCA1B29F80B20 sha1 341D7AC58C5ADBEC2A668338AD75994E4FDF17C0 serial "SLPM-80352" )
 )
 game (
-	name "Famitsu Wave 2gatsu-gou Vol. 19 (Japan)"
+	name "Famitsu Wave 10-gatsugou Vol. 15 (Japan)"
+	region "Japan"
+	serial "SLPM-80483"
+	rom ( name "Famitsu Wave 10-gatsugou Vol. 15 (Japan) (Track 1).bin" size 588872592 crc 1D71418F md5 F78D13B83685A2656C78E13E143A353F sha1 6A0F1F7611AD9D50688BC3EC33D354F0E6608C93 serial "SLPM-80483" )
+)
+game (
+	name "Famitsu Wave 11-gatsugou Vol. 16 (Japan)"
+	region "Japan"
+	serial "SLPM-80498"
+	rom ( name "Famitsu Wave 11-gatsugou Vol. 16 (Japan).bin" size 601371120 crc CDC9E236 md5 2ED99E9D9FB2B5E230EE7F61EA49C410 sha1 4F8C6CBED47E464AA02ABCAC433CF2EE835E3DAC serial "SLPM-80498" )
+)
+game (
+	name "Famitsu Wave 11-gatsugou Vol. 4 (Japan)"
+	region "Japan"
+	serial "SLPM-80312"
+	rom ( name "Famitsu Wave 11-gatsugou Vol. 4 (Japan) (Track 1).bin" size 494559744 crc 7E8E7544 md5 2053E38785BB282184323C3F06D0F2C9 sha1 F5A4A632F296C4168339E77CDA18DCD1C8ABA118 serial "SLPM-80312" )
+)
+game (
+	name "Famitsu Wave 12-gatsugou Vol. 17 (Japan)"
+	region "Japan"
+	serial "SLPM-80502"
+	rom ( name "Famitsu Wave 12-gatsugou Vol. 17 (Japan) (Track 1).bin" size 413589792 crc 09137326 md5 A141C86B1883E7E481694BEBEC31AC6E sha1 08B5D39D28C0CFC036D350E51C5DEFFF97EFCA68 serial "SLPM-80502" )
+)
+game (
+	name "Famitsu Wave 12-gatsugou Vol. 5 (Japan)"
+	region "Japan"
+	serial "SLPM-80339"
+	rom ( name "Famitsu Wave 12-gatsugou Vol. 5 (Japan) (Track 1).bin" size 519086400 crc 82F89DD2 md5 F58AD00A8504189C88640A615329A073 sha1 195AB6A60B028867FF35F14B259B026D29352272 serial "SLPM-80339" )
+)
+game (
+	name "Famitsu Wave 2-gatsugou Vol. 19 (Japan)"
 	region "Japan"
 	serial "SLPM-80530"
-	rom ( name "Famitsu Wave 2gatsu-gou Vol. 19 (Japan) (Track 1).bin" size 572429760 crc 6C6490D5 md5 9A5040451B35744DC69966F03387612A sha1 9DFD7F4FDB8473738E96C655719A8DE95D25E956 serial "SLPM-80530" )
+	rom ( name "Famitsu Wave 2-gatsugou Vol. 19 (Japan) (Track 1).bin" size 572429760 crc 6C6490D5 md5 9A5040451B35744DC69966F03387612A sha1 9DFD7F4FDB8473738E96C655719A8DE95D25E956 serial "SLPM-80530" )
 )
 game (
-	name "Famitsu Wave 2gatsu-gou Vol. 7 (Japan)"
+	name "Famitsu Wave 2-gatsugou Vol. 7 (Japan)"
 	region "Japan"
 	serial "SLPM-80366"
-	rom ( name "Famitsu Wave 2gatsu-gou Vol. 7 (Japan) (Track 1).bin" size 403791360 crc 416CA403 md5 ADE025579C57A5413EC8EBA7E68116E2 sha1 D0B350903B175E5120ACE262DCB19AA87EAC4914 serial "SLPM-80366" )
+	rom ( name "Famitsu Wave 2-gatsugou Vol. 7 (Japan) (Track 1).bin" size 403791360 crc 416CA403 md5 ADE025579C57A5413EC8EBA7E68116E2 sha1 D0B350903B175E5120ACE262DCB19AA87EAC4914 serial "SLPM-80366" )
 )
 game (
-	name "Famitsu Wave 3gatsu-gou Vol. 20 (Japan)"
+	name "Famitsu Wave 3-gatsugou Vol. 20 (Japan)"
 	region "Japan"
 	serial "SLPM-80543"
-	rom ( name "Famitsu Wave 3gatsu-gou Vol. 20 (Japan) (Track 1).bin" size 429853872 crc 5B6A249F md5 E3A3E38B004F7C177EEF61E3141550B9 sha1 25EE076B59FA76CF349227CADC18423F1783FE74 serial "SLPM-80543" )
+	rom ( name "Famitsu Wave 3-gatsugou Vol. 20 (Japan) (Track 1).bin" size 429853872 crc 5B6A249F md5 E3A3E38B004F7C177EEF61E3141550B9 sha1 25EE076B59FA76CF349227CADC18423F1783FE74 serial "SLPM-80543" )
 )
 game (
-	name "Famitsu Wave 3gatsu-gou Vol. 8 (Japan)"
+	name "Famitsu Wave 3-gatsugou Vol. 8 (Japan)"
 	region "Japan"
 	serial "SLPM-80383"
-	rom ( name "Famitsu Wave 3gatsu-gou Vol. 8 (Japan) (Track 1).bin" size 386824032 crc 9DF0D330 md5 368F709EA12AE2B8FA979FB5A5678823 sha1 B5B2294EC57D9325B563E20953E1379FE84F631D serial "SLPM-80383" )
+	rom ( name "Famitsu Wave 3-gatsugou Vol. 8 (Japan) (Track 1).bin" size 386824032 crc 9DF0D330 md5 368F709EA12AE2B8FA979FB5A5678823 sha1 B5B2294EC57D9325B563E20953E1379FE84F631D serial "SLPM-80383" )
 )
 game (
-	name "Famitsu Wave 4gatsu-gou Vol. 9 (Japan)"
+	name "Famitsu Wave 4-gatsugou Vol. 9 (Japan)"
 	region "Japan"
 	serial "SLPM-80394"
-	rom ( name "Famitsu Wave 4gatsu-gou Vol. 9 (Japan) (Track 1).bin" size 361027296 crc 1543AF3A md5 65FC38EC9F711478C838EE70B93C540F sha1 8DEE73E49898CF11FACD1CC717AFF2018E990B0D serial "SLPM-80394" )
+	rom ( name "Famitsu Wave 4-gatsugou Vol. 9 (Japan) (Track 1).bin" size 361027296 crc 1543AF3A md5 65FC38EC9F711478C838EE70B93C540F sha1 8DEE73E49898CF11FACD1CC717AFF2018E990B0D serial "SLPM-80394" )
 )
 game (
-	name "Famitsu Wave 5gatsu-gou Vol. 10 (Japan)"
+	name "Famitsu Wave 5-gatsugou Vol. 10 (Japan)"
 	region "Japan"
 	serial "SLPM-80411"
-	rom ( name "Famitsu Wave 5gatsu-gou Vol. 10 (Japan) (Track 1).bin" size 404962656 crc B47A53B8 md5 9B31A487807D8BA378ED8906CC70E3EB sha1 D59D9942F3E0638905E809A90A01B8954AA91021 serial "SLPM-80411" )
+	rom ( name "Famitsu Wave 5-gatsugou Vol. 10 (Japan) (Track 1).bin" size 404962656 crc B47A53B8 md5 9B31A487807D8BA378ED8906CC70E3EB sha1 D59D9942F3E0638905E809A90A01B8954AA91021 serial "SLPM-80411" )
 )
 game (
-	name "Famitsu Wave 6gatsu-gou Vol. 11 (Japan)"
+	name "Famitsu Wave 6-gatsugou Vol. 11 (Japan)"
 	region "Japan"
 	serial "SLPM-80423"
-	rom ( name "Famitsu Wave 6gatsu-gou Vol. 11 (Japan) (Track 1).bin" size 572422704 crc 6956B55D md5 03F700CE179B6DE53F5C4C82D2C000BA sha1 34AA3CBEACEF3C81E121E15E34F5046FC1D2C0D4 serial "SLPM-80423" )
+	rom ( name "Famitsu Wave 6-gatsugou Vol. 11 (Japan) (Track 1).bin" size 572422704 crc 6956B55D md5 03F700CE179B6DE53F5C4C82D2C000BA sha1 34AA3CBEACEF3C81E121E15E34F5046FC1D2C0D4 serial "SLPM-80423" )
 )
 game (
-	name "Famitsu Wave 7gatsu-gou Vol. 12 (Japan)"
+	name "Famitsu Wave 7-gatsugou Vol. 12 (Japan)"
 	region "Japan"
 	serial "SLPM-80434"
-	rom ( name "Famitsu Wave 7gatsu-gou Vol. 12 (Japan) (Track 1).bin" size 639823968 crc 7819F5AB md5 044045AAD0E20CB68B662E9BB5A1FFF3 sha1 E0190276ECC53E340AF027E3B4E173BF3A901CAE serial "SLPM-80434" )
+	rom ( name "Famitsu Wave 7-gatsugou Vol. 12 (Japan) (Track 1).bin" size 639823968 crc 7819F5AB md5 044045AAD0E20CB68B662E9BB5A1FFF3 sha1 E0190276ECC53E340AF027E3B4E173BF3A901CAE serial "SLPM-80434" )
 )
 game (
-	name "Famitsu Wave 8gatsu-gou Vol. 13 (Japan)"
+	name "Famitsu Wave 8-gatsugou Vol. 13 (Japan)"
 	region "Japan"
 	serial "SLPM-80450"
-	rom ( name "Famitsu Wave 8gatsu-gou Vol. 13 (Japan) (Track 1).bin" size 573730416 crc A607052D md5 72C38B5D3A1A6701867CF737C765181A sha1 EE41A4F10BC9BD722FF8EAF19FA6F03071153666 serial "SLPM-80450" )
+	rom ( name "Famitsu Wave 8-gatsugou Vol. 13 (Japan) (Track 1).bin" size 573730416 crc A607052D md5 72C38B5D3A1A6701867CF737C765181A sha1 EE41A4F10BC9BD722FF8EAF19FA6F03071153666 serial "SLPM-80450" )
 )
 game (
-	name "Famitsu Wave 9gatsu-gou Vol. 14 (Japan)"
+	name "Famitsu Wave 9-gatsugou Vol. 14 (Japan)"
 	region "Japan"
 	serial "SLPM-80465"
-	rom ( name "Famitsu Wave 9gatsu-gou Vol. 14 (Japan) (Track 1).bin" size 483512400 crc A208AA07 md5 3C039537BBB5666C8B3671DF258C4050 sha1 18410205CAC16CE6EE3FA02057C1EFA25EF3BE41 serial "SLPM-80465" )
+	rom ( name "Famitsu Wave 9-gatsugou Vol. 14 (Japan) (Track 1).bin" size 483512400 crc A208AA07 md5 3C039537BBB5666C8B3671DF258C4050 sha1 18410205CAC16CE6EE3FA02057C1EFA25EF3BE41 serial "SLPM-80465" )
 )
 game (
-	name "Famitsu Wave Soukan-gou Vol. 1 (Japan)"
+	name "Famitsu Wave Soukangou Vol. 1 (Japan)"
 	region "Japan"
 	serial "SLPM-80256"
-	rom ( name "Famitsu Wave Soukan-gou Vol. 1 (Japan).bin" size 559754832 crc 8293174C md5 49309B4236304CD3896C5DF150A977FC sha1 232EBA7D6F42598D679D82D49EEBA0126AFB4AE0 serial "SLPM-80256" )
+	rom ( name "Famitsu Wave Soukangou Vol. 1 (Japan).bin" size 559754832 crc 8293174C md5 49309B4236304CD3896C5DF150A977FC sha1 232EBA7D6F42598D679D82D49EEBA0126AFB4AE0 serial "SLPM-80256" )
 )
 game (
-	name "Famitsu Wave Soukan-gou Vol. 2 (Japan)"
+	name "Famitsu Wave Soukangou Vol. 2 (Japan)"
 	region "Japan"
 	serial "SLPM-80277"
-	rom ( name "Famitsu Wave Soukan-gou Vol. 2 (Japan).bin" size 592511136 crc 3F8ADB2B md5 FBF5458AB4940B0C2237842C8193CE0F sha1 2D1B20375DB047C3AFFABD3796A45285F674EF19 serial "SLPM-80277" )
+	rom ( name "Famitsu Wave Soukangou Vol. 2 (Japan).bin" size 592511136 crc 3F8ADB2B md5 FBF5458AB4940B0C2237842C8193CE0F sha1 2D1B20375DB047C3AFFABD3796A45285F674EF19 serial "SLPM-80277" )
 )
 game (
-	name "Famitsu Wave Soukan-gou Vol. 3 (Japan)"
+	name "Famitsu Wave Soukangou Vol. 3 (Japan)"
 	region "Japan"
 	serial "SLPM-80290"
-	rom ( name "Famitsu Wave Soukan-gou Vol. 3 (Japan) (Track 1).bin" size 464465904 crc 6463408C md5 05F4CD97C0B6B0D2CFA97A880145EF05 sha1 39DC88102BD7B556259DEC6C9C4824D6C601A716 serial "SLPM-80290" )
+	rom ( name "Famitsu Wave Soukangou Vol. 3 (Japan) (Track 1).bin" size 464465904 crc 6463408C md5 05F4CD97C0B6B0D2CFA97A880145EF05 sha1 39DC88102BD7B556259DEC6C9C4824D6C601A716 serial "SLPM-80290" )
 )
 game (
 	name "Fantastep (Japan)"
@@ -26501,6 +26519,24 @@ game (
 	rom ( name "Fisher's Road (Japan).bin" size 116950848 crc 5195A85E md5 A3962858FCEF9A4629A97352DDD4B050 sha1 4B653F49233FCF9FE8AC0A3E47D2DCCB37625CDD serial "SLPS-01943" )
 )
 game (
+	name "Fisher-Price Rescue Heroes - Helden in Gefahr (Germany)"
+	region "Germany"
+	serial "SLES-03726"
+	rom ( name "Fisher-Price Rescue Heroes - Helden in Gefahr (Germany) (Track 01).bin" size 231309792 crc 909787C7 md5 83AB989D0CE22D5E0189D0F27E190B2E sha1 47899B341347C9C4C8E9F184816D81CE47918EE6 serial "SLES-03726" )
+)
+game (
+	name "Fisher-Price Rescue Heroes - Molten Menace (Europe)"
+	region "Europe"
+	serial "SLES-03724"
+	rom ( name "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 01).bin" size 227603040 crc B948BC9B md5 679FDC7D42FB03FF8C3449DDD3CCD4BB sha1 BB7ACA56F9F9E02BD8A687F429013244FFC1FA67 serial "SLES-03724" )
+)
+game (
+	name "Fisher-Price Rescue Heroes - Molten Menace (USA)"
+	region "USA"
+	serial "SLUS-01373"
+	rom ( name "Fisher-Price Rescue Heroes - Molten Menace (USA) (Track 01).bin" size 125893152 crc 193B57C3 md5 01FE417695533BCB091A527F83D3C59A sha1 43E5B52E82040018030E93A208B93A5EAC7B2EAD serial "SLUS-01373" )
+)
+game (
 	name "Fisherman's Bait - A Bass Challenge (USA)"
 	region "USA"
 	serial "SLUS-00802"
@@ -28508,6 +28544,12 @@ game (
 	rom ( name "Game no Tatsujin (Japan) (Rev 1) (Track 1).bin" size 202025040 crc 4B0D4448 md5 C6E1E160F48594F9E05137DC17E20C48 sha1 105E6046A197B471FEBB383CD506167F4D76CB81 serial "SLPS-02052" )
 )
 game (
+	name "Game no Tatsujin (Japan) (Rev 1)"
+	region "Japan"
+	serial "SLPS-03298"
+	rom ( name "Game no Tatsujin (Japan) (Rev 1) (Track 1).bin" size 202025040 crc 4B0D4448 md5 C6E1E160F48594F9E05137DC17E20C48 sha1 105E6046A197B471FEBB383CD506167F4D76CB81 serial "SLPS-03298" )
+)
+game (
 	name "Game no Tatsujin 2 (Japan)"
 	region "Japan"
 	serial "SLPS-00213"
@@ -28944,10 +28986,10 @@ game (
 	rom ( name "Gekitou! Crush Gear Turbo (Japan).bin" size 271818288 crc 354DF4DD md5 7A472C79E601FD9A3C39065812EB3924 sha1 E1D5CF725D57C9F87585D91E27F25A896AD6CB44 serial "SLPS-03453" )
 )
 game (
-	name "Gekka no Kishi - Ouryuu-sen (Japan)"
+	name "Gekka no Kishi - Ouryuusen (Japan)"
 	region "Japan"
 	serial "SLPS-00421"
-	rom ( name "Gekka no Kishi - Ouryuu-sen (Japan).bin" size 116518080 crc C3CEC49F md5 C9CAD025535AC175D2BF290CD6536D9D sha1 37D7E499E22CB30856DE67FD712A8015846E6253 serial "SLPS-00421" )
+	rom ( name "Gekka no Kishi - Ouryuusen (Japan).bin" size 116518080 crc C3CEC49F md5 C9CAD025535AC175D2BF290CD6536D9D sha1 37D7E499E22CB30856DE67FD712A8015846E6253 serial "SLPS-00421" )
 )
 game (
 	name "Gen'ei Tougi - Shadow Struggle (Japan)"
@@ -30024,6 +30066,30 @@ game (
 	region "Europe"
 	serial "SLES-02397-0"
 	rom ( name "Grandia (Europe) (Disc 1).bin" size 693162624 crc 29AE8F2D md5 7474B953DB8F91DD79E08848E4A7831D sha1 6442E695FC4374F1A5C0DAB4E147C004BADD2092 serial "SLES-02397-0" )
+)
+game (
+	name "Grandia (Europe) (Disc 1)"
+	region "Europe"
+	serial "SLES-02397"
+	rom ( name "Grandia (Europe) (Disc 1).bin" size 693162624 crc 29AE8F2D md5 7474B953DB8F91DD79E08848E4A7831D sha1 6442E695FC4374F1A5C0DAB4E147C004BADD2092 serial "SLES-02397" )
+)
+game (
+	name "Grandia (Europe) (Disc 1)"
+	region "Europe"
+	serial "SLES-02397-0"
+	rom ( name "Grandia (Europe) (Disc 1).bin" size 693162624 crc 29AE8F2D md5 7474B953DB8F91DD79E08848E4A7831D sha1 6442E695FC4374F1A5C0DAB4E147C004BADD2092 serial "SLES-02397-0" )
+)
+game (
+	name "Grandia (Europe) (Disc 2)"
+	region "Europe"
+	serial "SLES-12397"
+	rom ( name "Grandia (Europe) (Disc 2).bin" size 678079248 crc 24F94122 md5 D8E208748574A51AE693F02E07986905 sha1 CF1D3CAE1EFCF94BC33E777921FAD165D7DEA40E serial "SLES-12397" )
+)
+game (
+	name "Grandia (Europe) (Disc 2)"
+	region "Europe"
+	serial "SLES-12397-1"
+	rom ( name "Grandia (Europe) (Disc 2).bin" size 678079248 crc 24F94122 md5 D8E208748574A51AE693F02E07986905 sha1 CF1D3CAE1EFCF94BC33E777921FAD165D7DEA40E serial "SLES-12397-1" )
 )
 game (
 	name "Grandia (Europe) (Disc 2)"
@@ -31200,6 +31266,12 @@ game (
 	rom ( name "Harukanaru Toki no Naka de (Japan).bin" size 509680752 crc B8AFC82B md5 2899DA739AB47BD9FD9CE47BA5485631 sha1 7197DD548FD0A8D3FC6CB9B9AB607608330F3BC8 serial "SLPM-86466" )
 )
 game (
+	name "Harukanaru Toki no Naka de (Japan)"
+	region "Japan"
+	serial "SLPM-87096"
+	rom ( name "Harukanaru Toki no Naka de (Japan).bin" size 509680752 crc B8AFC82B md5 2899DA739AB47BD9FD9CE47BA5485631 sha1 7197DD548FD0A8D3FC6CB9B9AB607608330F3BC8 serial "SLPM-87096" )
+)
+game (
 	name "Harukanaru Toki no Naka de (Japan) (Premium Box)"
 	region "Japan"
 	serial "SLPM-86465"
@@ -31210,6 +31282,12 @@ game (
 	region "Japan"
 	serial "SLPM-87242"
 	rom ( name "Harukanaru Toki no Naka de - Banjou Yuugi (Japan).bin" size 688315152 crc CBCC7D77 md5 461AC07B02E65E385A56B61212EAA3A8 sha1 BEA66A69B10D84613900B0F0E5CC49E1CBEE0FCF serial "SLPM-87242" )
+)
+game (
+	name "Harukanaru Toki no Naka de - Banjou Yuugi (Japan)"
+	region "Japan"
+	serial "SLPM-87351"
+	rom ( name "Harukanaru Toki no Naka de - Banjou Yuugi (Japan).bin" size 688315152 crc CBCC7D77 md5 461AC07B02E65E385A56B61212EAA3A8 sha1 BEA66A69B10D84613900B0F0E5CC49E1CBEE0FCF serial "SLPM-87351" )
 )
 game (
 	name "Harukanaru Toki no Naka de - Banjou Yuugi (Japan) (Premium Box)"
@@ -31326,10 +31404,10 @@ game (
 	rom ( name "Harvest Moon - Back to Nature (USA) (Trade Demo).bin" size 213989664 crc CA3E522D md5 17589B3CF7EA705AEA9F9477D3137980 sha1 3869CD05340BA3C9494AA1128AF7F16800117FA0 serial "SLUS-81115" )
 )
 game (
-	name "Hashiriya - Ookami-tachi no Densetsu (Japan)"
+	name "Hashiriya - Ookamitachi no Densetsu (Japan)"
 	region "Japan"
 	serial "SLPS-00704"
-	rom ( name "Hashiriya - Ookami-tachi no Densetsu (Japan) (Track 01).bin" size 69586272 crc 6B9A57DB md5 4538DFADCD41408A7231A31409EA5690 sha1 F4D65BF7CE26317C030B3A43490CF45916D6A7D5 serial "SLPS-00704" )
+	rom ( name "Hashiriya - Ookamitachi no Densetsu (Japan) (Track 01).bin" size 69586272 crc 6B9A57DB md5 4538DFADCD41408A7231A31409EA5690 sha1 F4D65BF7CE26317C030B3A43490CF45916D6A7D5 serial "SLPS-00704" )
 )
 game (
 	name "Hatsukoi Valentine (Japan)"
@@ -32274,10 +32352,10 @@ game (
 	rom ( name "Hissatsu Pachinko Station 9 - Ushiwaka to Lemi (Japan).bin" size 88406976 crc 9F951D7C md5 8E480E1AE4006090787AFF2AC73021CD sha1 5D3F935F9EA0E9A8E7B4217A00191AF7E8961288 serial "SLPS-02765" )
 )
 game (
-	name "Hissatsu Pachinko Station Classic - Fukkatsu! Natsukashi no Meiki-tachi (Japan)"
+	name "Hissatsu Pachinko Station Classic - Fukkatsu! Natsukashi no Meikitachi (Japan)"
 	region "Japan"
 	serial "SLPS-01963"
-	rom ( name "Hissatsu Pachinko Station Classic - Fukkatsu! Natsukashi no Meiki-tachi (Japan) (Track 1).bin" size 85036560 crc 40847EB2 md5 8B61E8C370393F37392212B3DD23E324 sha1 9C94527F96FB4969DF2DCC33D9CFB707F7712EC1 serial "SLPS-01963" )
+	rom ( name "Hissatsu Pachinko Station Classic - Fukkatsu! Natsukashi no Meikitachi (Japan) (Track 1).bin" size 85036560 crc 40847EB2 md5 8B61E8C370393F37392212B3DD23E324 sha1 9C94527F96FB4969DF2DCC33D9CFB707F7712EC1 serial "SLPS-01963" )
 )
 game (
 	name "Hissatsu Pachinko Station Classic 2 - Tsui ni yomigaeru!! Bakuretsu Meiki Fukkatsu (Japan)"
@@ -33848,6 +33926,12 @@ game (
 	rom ( name "Initial D (Japan).bin" size 537457872 crc 74C166EB md5 BC0B10868C2EC6900A21BB6C43FB2994 sha1 8CE1E804177CA4B5F67400833D09F8C885CE34B8 serial "SLPS-91181" )
 )
 game (
+	name "Initial D (Japan) (Taikenban)"
+	region "Japan"
+	serial "SLPM-80359"
+	rom ( name "Initial D (Japan) (Taikenban).bin" size 351873312 crc D620E4D9 md5 7AA75644DF339A2B3441B197910FE3C8 sha1 253BAECAA148F3100C873D075C7162B8E998F18A serial "SLPM-80359" )
+)
+game (
 	name "Inspector Gadget - Gadget's Crazy Maze (Europe) (En,Fr,De,Es,It,Nl)"
 	region "Europe"
 	serial "SLES-03084"
@@ -34251,8 +34335,14 @@ game (
 game (
 	name "Inuyasha - Sengoku Otogi Gassen (Japan)"
 	region "Japan"
+	serial "SLPS-03504"
+	rom ( name "Inuyasha - Sengoku Otogi Gassen (Japan).bin" size 667448208 crc E524F855 md5 A4ABFF5BAF1B398FD1BFED919D8B27AA sha1 B18043FDD5FF05D14BF05E98B39A3FB1D717FE78 serial "SLPS-03504" )
+)
+game (
+	name "Inuyasha - Sengoku Otogi Gassen (Japan) (Shokai Seisan Gentei Shiyou)"
+	region "Japan"
 	serial "SLPS-03503"
-	rom ( name "Inuyasha - Sengoku Otogi Gassen (Japan).bin" size 667448208 crc 4F4A1A02 md5 170A20D9EA2CB82D7561835CCAD0985F sha1 EF46E7D41F944F64F60CC40270822C952B05B024 serial "SLPS-03503" )
+	rom ( name "Inuyasha - Sengoku Otogi Gassen (Japan) (Shokai Seisan Gentei Shiyou).bin" size 667448208 crc 4F4A1A02 md5 170A20D9EA2CB82D7561835CCAD0985F sha1 EF46E7D41F944F64F60CC40270822C952B05B024 serial "SLPS-03503" )
 )
 game (
 	name "Invasion (Europe) (En,Fr,De,Es,It,Nl)"
@@ -34979,6 +35069,12 @@ game (
 	region "Japan"
 	serial "SLPM-86736"
 	rom ( name "Jikkyou Golf Master 2000 (Japan) (Rev 1).bin" size 545793360 crc 5861BBBE md5 DC19655581B59540B1C641E3006533CF sha1 60E448E642E95314A6BD6F47AC74D96481EFF874 serial "SLPM-86736" )
+)
+game (
+	name "Jikkyou Golf Master 2000 (Japan) (Taikenban)"
+	region "Japan"
+	serial "SLPM-80551"
+	rom ( name "Jikkyou Golf Master 2000 (Japan) (Taikenban).bin" size 391245792 crc FC7B8653 md5 69D234DA2ABD7F79ABE3A99A81659B8C sha1 EEE5E834499D2810E3409DF68D417C57E5901556 serial "SLPM-80551" )
 )
 game (
 	name "Jikkyou J.League 1999 - Perfect Striker (Japan)"
@@ -36719,6 +36815,12 @@ game (
 	rom ( name "Kids Station - Hello Kitty no Oshaberi ABC (Japan).bin" size 481038096 crc 68ED0063 md5 A28F879D04E3F5054C12815C7CD4CC9E sha1 4668B001E0D048D0078C156678080215BE06E49C serial "SLPM-86905" )
 )
 game (
+	name "Kids Station - Hello Kitty no Oshaberi ABC (Japan) (Controller Set)"
+	region "Japan"
+	serial "SLPM-86904"
+	rom ( name "Kids Station - Hello Kitty no Oshaberi ABC (Japan) (Controller Set).bin" size 481038096 crc 0E127C3A md5 C95C7F9834DDCE2818EBDC5A1B2279F8 sha1 84B567A36E769EAE46D41901F4F36EBF8DEADC91 serial "SLPM-86904" )
+)
+game (
 	name "Kids Station - Hello Kitty no Oshaberi Town (Japan)"
 	region "Japan"
 	serial "SLPM-86906"
@@ -36779,10 +36881,16 @@ game (
 	rom ( name "Kids Station - Kamen Rider Heroes (Japan) (Controller Set).bin" size 289902816 crc 36ACE2D0 md5 F9791BA697AFA6B8241828B171BD88DA sha1 CA5F04926315B50F3C0946B3DF7D4F25EC183DF5 serial "SLPS-03402" )
 )
 game (
-	name "Kids Station - Kikansha Thomas to Nakama-tachi (Japan)"
+	name "Kids Station - Kikansha Thomas to Nakamatachi (Japan)"
 	region "Japan"
 	serial "SLPS-02874"
-	rom ( name "Kids Station - Kikansha Thomas to Nakama-tachi (Japan).bin" size 155594208 crc BAA95561 md5 44AC6D89386DFD64ACF6A1654BC1C69F sha1 86C718B4848626AD5C73D94A04506A2F2E962C36 serial "SLPS-02874" )
+	rom ( name "Kids Station - Kikansha Thomas to Nakamatachi (Japan).bin" size 155594208 crc BAA95561 md5 44AC6D89386DFD64ACF6A1654BC1C69F sha1 86C718B4848626AD5C73D94A04506A2F2E962C36 serial "SLPS-02874" )
+)
+game (
+	name "Kids Station - Kikansha Thomas to Nakamatachi (Japan) (Controller Set)"
+	region "Japan"
+	serial "SLPS-02699"
+	rom ( name "Kids Station - Kikansha Thomas to Nakamatachi (Japan) (Controller Set).bin" size 155594208 crc 711B389D md5 F06DBB39BEF1320A4E4EC01C14B5A344 sha1 3A1299492F72ACD6AD90266F1050373F6A208990 serial "SLPS-02699" )
 )
 game (
 	name "Kids Station - Kuma no Pooh-san - Mori no Kyoushitsu (Japan)"
@@ -36845,16 +36953,16 @@ game (
 	rom ( name "Kids Station - Mickey & Minnie no Magical Kitchen (Japan) (En,Ja) (Controller Set) (Track 1).bin" size 329141232 crc ABAD139C md5 882021C9B4E6DDC2FF6FB034F353885A sha1 49A78857C1B67A42857AD7AA0CF5F3805160C287 serial "SLPM-87002" )
 )
 game (
-	name "Kids Station - Mickey to Nakama-tachi - Kazu Asobi Iro Iro (Japan)"
+	name "Kids Station - Mickey to Nakamatachi - Kazu Asobi Iro Iro (Japan)"
 	region "Japan"
 	serial "SLPM-86931"
-	rom ( name "Kids Station - Mickey to Nakama-tachi - Kazu Asobi Iro Iro (Japan).bin" size 148451184 crc 640BB338 md5 450F3708DDD25DBB52C44620D6B9B5EF sha1 19C3A3DDBBE574DCD362583F8EC1FCED5736500C serial "SLPM-86931" )
+	rom ( name "Kids Station - Mickey to Nakamatachi - Kazu Asobi Iro Iro (Japan).bin" size 148451184 crc 640BB338 md5 450F3708DDD25DBB52C44620D6B9B5EF sha1 19C3A3DDBBE574DCD362583F8EC1FCED5736500C serial "SLPM-86931" )
 )
 game (
-	name "Kids Station - Mickey to Nakama-tachi - Kazu Asobi Iro Iro (Japan) (Controller Set)"
+	name "Kids Station - Mickey to Nakamatachi - Kazu Asobi Iro Iro (Japan) (Controller Set)"
 	region "Japan"
 	serial "SLPM-86930"
-	rom ( name "Kids Station - Mickey to Nakama-tachi - Kazu Asobi Iro Iro (Japan) (Controller Set).bin" size 148451184 crc 0E1785CB md5 59E15FA09DB4B1BB80B3FAC9AE8BA51D sha1 BD0C550B7F58166A70506D3F87E020A82F7A097E serial "SLPM-86930" )
+	rom ( name "Kids Station - Mickey to Nakamatachi - Kazu Asobi Iro Iro (Japan) (Controller Set).bin" size 148451184 crc 0E1785CB md5 59E15FA09DB4B1BB80B3FAC9AE8BA51D sha1 BD0C550B7F58166A70506D3F87E020A82F7A097E serial "SLPM-86930" )
 )
 game (
 	name "Kids Station - Mini-Moni. ni Naru no da Pyon! (Japan)"
@@ -36905,16 +37013,16 @@ game (
 	rom ( name "Kids Station - Oja Majo DoReMi Dokkan! Maho-dou Eigo Festival (Japan) (Controller Set).bin" size 310376976 crc FB56F2A6 md5 BA47624E798E4E6A36ADEEB9325704B3 sha1 7952C5E8161695FD8DED43495661E73CBC89D7E2 serial "SLPS-03406" )
 )
 game (
-	name "Kids Station - Oshaberi Oekaki - Kikansha Thomas to Nakama-tachi (Japan)"
+	name "Kids Station - Oshaberi Oekaki - Kikansha Thomas to Nakamatachi (Japan)"
 	region "Japan"
 	serial "SLPS-03515"
-	rom ( name "Kids Station - Oshaberi Oekaki - Kikansha Thomas to Nakama-tachi (Japan).bin" size 211552992 crc D50573F3 md5 07C446E095259FC61273A7B011FED1A6 sha1 967C88F535329385418177FFEC9BCEDABC263D75 serial "SLPS-03515" )
+	rom ( name "Kids Station - Oshaberi Oekaki - Kikansha Thomas to Nakamatachi (Japan).bin" size 211552992 crc D50573F3 md5 07C446E095259FC61273A7B011FED1A6 sha1 967C88F535329385418177FFEC9BCEDABC263D75 serial "SLPS-03515" )
 )
 game (
-	name "Kids Station - Oshaberi Oekaki - Kikansha Thomas to Nakama-tachi (Japan) (Controller Set)"
+	name "Kids Station - Oshaberi Oekaki - Kikansha Thomas to Nakamatachi (Japan) (Controller Set)"
 	region "Japan"
 	serial "SLPS-03514"
-	rom ( name "Kids Station - Oshaberi Oekaki - Kikansha Thomas to Nakama-tachi (Japan) (Controller Set).bin" size 211552992 crc 68CA2FD1 md5 21512AE0D52EF2F4C5A2D3DD7D2F92E5 sha1 E5D71C381AD0493BFA5F0FAB8F1DB197D94F734C serial "SLPS-03514" )
+	rom ( name "Kids Station - Oshaberi Oekaki - Kikansha Thomas to Nakamatachi (Japan) (Controller Set).bin" size 211552992 crc 68CA2FD1 md5 21512AE0D52EF2F4C5A2D3DD7D2F92E5 sha1 E5D71C381AD0493BFA5F0FAB8F1DB197D94F734C serial "SLPS-03514" )
 )
 game (
 	name "Kids Station - Oshaberi Oekaki - Soreike! Anpanman (Japan)"
@@ -36993,6 +37101,12 @@ game (
 	region "Japan"
 	serial "SLPM-87169"
 	rom ( name "Kids Station - Ugoku Tomica Zukan (Japan).bin" size 400976016 crc 3745EBD3 md5 54385A931CB61B9DD4761D8BD1E23903 sha1 3DEB4FDFCAD6945CBCF6C2C064D676AB5A87FB45 serial "SLPM-87169" )
+)
+game (
+	name "Kids Station - Ugoku Tomica Zukan (Japan) (Controller Set)"
+	region "Japan"
+	serial "SLPM-87168"
+	rom ( name "Kids Station - Ugoku Tomica Zukan (Japan) (Controller Set).bin" size 400976016 crc 72FE9D24 md5 0C5D0C98CAD46AA2309904A853BC4FFE sha1 C23E96D291D924D38C8D62F1B2B1A81E7221BC6F serial "SLPM-87168" )
 )
 game (
 	name "Kids Station - Ultraman Cosmos - Yuusha no Chikai (Japan)"
@@ -37642,10 +37756,10 @@ game (
 	rom ( name "Klonoa - Door to Phantomile (USA).bin" size 736197168 crc 77E279E8 md5 ECB502CE253246899D23DB80847C56DC sha1 CB2DC62789092D8B480971427F9C85815E815DCE serial "SLUS-00585" )
 )
 game (
-	name "Klonoa Beach Volley - Saikyou Team Kettei-sen! (Japan)"
+	name "Klonoa Beach Volley - Saikyou Team Ketteisen! (Japan)"
 	region "Japan"
 	serial "SLPS-03433"
-	rom ( name "Klonoa Beach Volley - Saikyou Team Kettei-sen! (Japan).bin" size 661575264 crc 9034DA3C md5 D53B245A3638341779578DEE5A73E335 sha1 4CD2C71DA49E9AE82BE3EE41056280134B45C22C serial "SLPS-03433" )
+	rom ( name "Klonoa Beach Volley - Saikyou Team Ketteisen! (Japan).bin" size 661575264 crc 9034DA3C md5 D53B245A3638341779578DEE5A73E335 sha1 4CD2C71DA49E9AE82BE3EE41056280134B45C22C serial "SLPS-03433" )
 )
 game (
 	name "Klonoa Beach Volleyball (Europe) (En,Fr,De,Es,It)"
@@ -39746,10 +39860,10 @@ game (
 	rom ( name "Legend of Heroes I & II, The - Eiyuu Densetsu (Japan).bin" size 252498960 crc 4BDCBF59 md5 7B7CF3A179CF65ADBC62201808FBDD88 sha1 269032BA730F4DBE80B798A2C4C3B415E094F359 serial "SLPS-01323" )
 )
 game (
-	name "Legend of Heroes III, The - Shiroki Majo - Mou Hitotsu no Eiyuu-tachi no Monogatari (Japan)"
+	name "Legend of Heroes III, The - Shiroki Majo - Mou Hitotsu no Eiyuutachi no Monogatari (Japan)"
 	region "Japan"
 	serial "SLPS-01201"
-	rom ( name "Legend of Heroes III, The - Shiroki Majo - Mou Hitotsu no Eiyuu-tachi no Monogatari (Japan).bin" size 473742192 crc 10805100 md5 3661074303CAB6330F342992ED82643E sha1 1E9E1D83D0FAC933E2499A3EE8BDA810BFBB98AB serial "SLPS-01201" )
+	rom ( name "Legend of Heroes III, The - Shiroki Majo - Mou Hitotsu no Eiyuutachi no Monogatari (Japan).bin" size 473742192 crc 10805100 md5 3661074303CAB6330F342992ED82643E sha1 1E9E1D83D0FAC933E2499A3EE8BDA810BFBB98AB serial "SLPS-01201" )
 )
 game (
 	name "Legend of Heroes IV, The - Akai Shizuku (Japan)"
@@ -40961,6 +41075,12 @@ game (
 	rom ( name "Lunatic Dawn - Odyssey (Japan) (Track 1).bin" size 364087248 crc FA16BFB1 md5 DD53F1594971A9C7992E1718F04996A5 sha1 C097F13A7E6850A6C43BDC324A94A01A4660AB06 serial "SLPS-02420" )
 )
 game (
+	name "Lunatic Dawn - Odyssey (Japan)"
+	region "Japan"
+	serial "SLPS-02957"
+	rom ( name "Lunatic Dawn - Odyssey (Japan) (Track 1).bin" size 364087248 crc FA16BFB1 md5 DD53F1594971A9C7992E1718F04996A5 sha1 C097F13A7E6850A6C43BDC324A94A01A4660AB06 serial "SLPS-02957" )
+)
+game (
 	name "Lunatic Dawn III & Susume! Kaizoku Promotion Disc (Japan)"
 	region "Japan"
 	serial "SLPM-80353"
@@ -40987,6 +41107,18 @@ game (
 game (
 	name "Lupin 3sei - Cagliostro no Shiro - Saikai (Japan) (Disc 1)"
 	region "Japan"
+	serial "SLPS-00535"
+	rom ( name "Lupin 3sei - Cagliostro no Shiro - Saikai (Japan) (Disc 1).bin" size 624216096 crc CA217C39 md5 9354BC00A7133F75BB6850EE00D34765 sha1 70E64EA9C0C7379655832522EA882E32022B9EAF serial "SLPS-00535" )
+)
+game (
+	name "Lupin 3sei - Cagliostro no Shiro - Saikai (Japan) (Disc 1)"
+	region "Japan"
+	serial "SLPS-00535-0"
+	rom ( name "Lupin 3sei - Cagliostro no Shiro - Saikai (Japan) (Disc 1).bin" size 624216096 crc CA217C39 md5 9354BC00A7133F75BB6850EE00D34765 sha1 70E64EA9C0C7379655832522EA882E32022B9EAF serial "SLPS-00535-0" )
+)
+game (
+	name "Lupin 3sei - Cagliostro no Shiro - Saikai (Japan) (Disc 1)"
+	region "Japan"
 	serial "SLPS-91060"
 	rom ( name "Lupin 3sei - Cagliostro no Shiro - Saikai (Japan) (Disc 1).bin" size 624216096 crc CA217C39 md5 9354BC00A7133F75BB6850EE00D34765 sha1 70E64EA9C0C7379655832522EA882E32022B9EAF serial "SLPS-91060" )
 )
@@ -40999,6 +41131,18 @@ game (
 game (
 	name "Lupin 3sei - Cagliostro no Shiro - Saikai (Japan) (Disc 2)"
 	region "Japan"
+	serial "SLPS-00536"
+	rom ( name "Lupin 3sei - Cagliostro no Shiro - Saikai (Japan) (Disc 2).bin" size 693957600 crc EA61A008 md5 54AF8B546A8D2A5A29DC390FA731BD78 sha1 740037570415803A5BA5AE2CAEAF8A3746F65C68 serial "SLPS-00536" )
+)
+game (
+	name "Lupin 3sei - Cagliostro no Shiro - Saikai (Japan) (Disc 2)"
+	region "Japan"
+	serial "SLPS-00536-1"
+	rom ( name "Lupin 3sei - Cagliostro no Shiro - Saikai (Japan) (Disc 2).bin" size 693957600 crc EA61A008 md5 54AF8B546A8D2A5A29DC390FA731BD78 sha1 740037570415803A5BA5AE2CAEAF8A3746F65C68 serial "SLPS-00536-1" )
+)
+game (
+	name "Lupin 3sei - Cagliostro no Shiro - Saikai (Japan) (Disc 2)"
+	region "Japan"
 	serial "SLPS-91061"
 	rom ( name "Lupin 3sei - Cagliostro no Shiro - Saikai (Japan) (Disc 2).bin" size 693957600 crc EA61A008 md5 54AF8B546A8D2A5A29DC390FA731BD78 sha1 740037570415803A5BA5AE2CAEAF8A3746F65C68 serial "SLPS-91061" )
 )
@@ -41007,6 +41151,18 @@ game (
 	region "Japan"
 	serial "SLPS-91061-1"
 	rom ( name "Lupin 3sei - Cagliostro no Shiro - Saikai (Japan) (Disc 2).bin" size 693957600 crc EA61A008 md5 54AF8B546A8D2A5A29DC390FA731BD78 sha1 740037570415803A5BA5AE2CAEAF8A3746F65C68 serial "SLPS-91061-1" )
+)
+game (
+	name "Lupin 3sei - Cagliostro no Shiro - Saikai (Japan) (Disc 3)"
+	region "Japan"
+	serial "SLPS-00537"
+	rom ( name "Lupin 3sei - Cagliostro no Shiro - Saikai (Japan) (Disc 3).bin" size 616821408 crc D74605A2 md5 6AA310862895F39E2CDC72FCC1851724 sha1 1193AD806D23F7213B087B442EDEBA87BC03271A serial "SLPS-00537" )
+)
+game (
+	name "Lupin 3sei - Cagliostro no Shiro - Saikai (Japan) (Disc 3)"
+	region "Japan"
+	serial "SLPS-00537-2"
+	rom ( name "Lupin 3sei - Cagliostro no Shiro - Saikai (Japan) (Disc 3).bin" size 616821408 crc D74605A2 md5 6AA310862895F39E2CDC72FCC1851724 sha1 1193AD806D23F7213B087B442EDEBA87BC03271A serial "SLPS-00537-2" )
 )
 game (
 	name "Lupin 3sei - Cagliostro no Shiro - Saikai (Japan) (Disc 3)"
@@ -41613,16 +41769,16 @@ game (
 	rom ( name "Magical Drop III (Europe) (En,Fr,De,Es,It,Nl) (Disc 2) (Magical Drop +1).bin" size 517223616 crc EEE8C12C md5 F9A0757BE4E4CC145C59CD442B37AB3A sha1 D6F8F1299443284F48B2483A7713B29D90DED87B serial "SLES-12964-1" )
 )
 game (
-	name "Magical Drop III - Yokubari Tokudai-gou! (Japan)"
+	name "Magical Drop III - Yokubari Tokudaigou! (Japan)"
 	region "Japan"
 	serial "SLPM-86051"
-	rom ( name "Magical Drop III - Yokubari Tokudai-gou! (Japan).bin" size 473753952 crc 853D0725 md5 174191CCC03A08D1E4A73996BBF4A752 sha1 9A412F0D29B335D1D95A863057CFC03F8DC69F47 serial "SLPM-86051" )
+	rom ( name "Magical Drop III - Yokubari Tokudaigou! (Japan).bin" size 473753952 crc 853D0725 md5 174191CCC03A08D1E4A73996BBF4A752 sha1 9A412F0D29B335D1D95A863057CFC03F8DC69F47 serial "SLPM-86051" )
 )
 game (
-	name "Magical Drop III - Yokubari Tokudai-gou! (Japan)"
+	name "Magical Drop III - Yokubari Tokudaigou! (Japan)"
 	region "Japan"
 	serial "SLPS-01917"
-	rom ( name "Magical Drop III - Yokubari Tokudai-gou! (Japan).bin" size 473753952 crc 853D0725 md5 174191CCC03A08D1E4A73996BBF4A752 sha1 9A412F0D29B335D1D95A863057CFC03F8DC69F47 serial "SLPS-01917" )
+	rom ( name "Magical Drop III - Yokubari Tokudaigou! (Japan).bin" size 473753952 crc 853D0725 md5 174191CCC03A08D1E4A73996BBF4A752 sha1 9A412F0D29B335D1D95A863057CFC03F8DC69F47 serial "SLPS-01917" )
 )
 game (
 	name "Magical Drop Plus 1! (Japan)"
@@ -41750,10 +41906,10 @@ game (
 	rom ( name "Mahjong Toriatama Kikou (Japan).bin" size 329225904 crc 54C819C1 md5 74A492FA56A8169D9C2AA9BF0020A5F5 sha1 5281353E813585EEBEF0812F38D2A2BF8372254F serial "SLPS-03064" )
 )
 game (
-	name "Mahjong Uranai Fortuna - Tsuki no Megami-tachi (Japan)"
+	name "Mahjong Uranai Fortuna - Tsuki no Megamitachi (Japan)"
 	region "Japan"
 	serial "SLPS-03123"
-	rom ( name "Mahjong Uranai Fortuna - Tsuki no Megami-tachi (Japan) (Track 1).bin" size 477030288 crc 2EA66F26 md5 D2882E2AB38FE96240BD90FB656A9051 sha1 08FB47B117C34FF3ED232BF9244A49A13AC04DFE serial "SLPS-03123" )
+	rom ( name "Mahjong Uranai Fortuna - Tsuki no Megamitachi (Japan) (Track 1).bin" size 477030288 crc 2EA66F26 md5 D2882E2AB38FE96240BD90FB656A9051 sha1 08FB47B117C34FF3ED232BF9244A49A13AC04DFE serial "SLPS-03123" )
 )
 game (
 	name "Mahjong Xiezhenguan Taiwan 16 Zhang (Taiwan)"
@@ -41928,76 +42084,76 @@ game (
 	rom ( name "March Madness '98 (USA).bin" size 568165584 crc E338845C md5 B2F1E95A38A23EB2524065AAF33AD2C7 sha1 322D15496D1DEB3E357EE55BF152CC9E6CE078CA serial "SLUS-00526" )
 )
 game (
-	name "Maria - Kimi-tachi ga Umareta Wake (Japan) (Disc 1)"
+	name "Maria - Kimitachi ga Umareta Wake (Japan) (Disc 1)"
 	region "Japan"
 	serial "SLPS-01136"
-	rom ( name "Maria - Kimi-tachi ga Umareta Wake (Japan) (Disc 1).bin" size 272669712 crc B1DBDE4C md5 778AB1FAE98FA2992CA8C1EA00243359 sha1 58C769CF552EFA10FD1950D47F235E570A779B63 serial "SLPS-01136" )
+	rom ( name "Maria - Kimitachi ga Umareta Wake (Japan) (Disc 1).bin" size 272669712 crc B1DBDE4C md5 778AB1FAE98FA2992CA8C1EA00243359 sha1 58C769CF552EFA10FD1950D47F235E570A779B63 serial "SLPS-01136" )
 )
 game (
-	name "Maria - Kimi-tachi ga Umareta Wake (Japan) (Disc 1)"
+	name "Maria - Kimitachi ga Umareta Wake (Japan) (Disc 1)"
 	region "Japan"
 	serial "SLPS-01136-0"
-	rom ( name "Maria - Kimi-tachi ga Umareta Wake (Japan) (Disc 1).bin" size 272669712 crc B1DBDE4C md5 778AB1FAE98FA2992CA8C1EA00243359 sha1 58C769CF552EFA10FD1950D47F235E570A779B63 serial "SLPS-01136-0" )
+	rom ( name "Maria - Kimitachi ga Umareta Wake (Japan) (Disc 1).bin" size 272669712 crc B1DBDE4C md5 778AB1FAE98FA2992CA8C1EA00243359 sha1 58C769CF552EFA10FD1950D47F235E570A779B63 serial "SLPS-01136-0" )
 )
 game (
-	name "Maria - Kimi-tachi ga Umareta Wake (Japan) (Disc 1)"
+	name "Maria - Kimitachi ga Umareta Wake (Japan) (Disc 1)"
 	region "Japan"
 	serial "SLPS-91100"
-	rom ( name "Maria - Kimi-tachi ga Umareta Wake (Japan) (Disc 1).bin" size 272669712 crc B1DBDE4C md5 778AB1FAE98FA2992CA8C1EA00243359 sha1 58C769CF552EFA10FD1950D47F235E570A779B63 serial "SLPS-91100" )
+	rom ( name "Maria - Kimitachi ga Umareta Wake (Japan) (Disc 1).bin" size 272669712 crc B1DBDE4C md5 778AB1FAE98FA2992CA8C1EA00243359 sha1 58C769CF552EFA10FD1950D47F235E570A779B63 serial "SLPS-91100" )
 )
 game (
-	name "Maria - Kimi-tachi ga Umareta Wake (Japan) (Disc 1)"
+	name "Maria - Kimitachi ga Umareta Wake (Japan) (Disc 1)"
 	region "Japan"
 	serial "SLPS-91100-0"
-	rom ( name "Maria - Kimi-tachi ga Umareta Wake (Japan) (Disc 1).bin" size 272669712 crc B1DBDE4C md5 778AB1FAE98FA2992CA8C1EA00243359 sha1 58C769CF552EFA10FD1950D47F235E570A779B63 serial "SLPS-91100-0" )
+	rom ( name "Maria - Kimitachi ga Umareta Wake (Japan) (Disc 1).bin" size 272669712 crc B1DBDE4C md5 778AB1FAE98FA2992CA8C1EA00243359 sha1 58C769CF552EFA10FD1950D47F235E570A779B63 serial "SLPS-91100-0" )
 )
 game (
-	name "Maria - Kimi-tachi ga Umareta Wake (Japan) (Disc 2)"
+	name "Maria - Kimitachi ga Umareta Wake (Japan) (Disc 2)"
 	region "Japan"
 	serial "SLPS-01137"
-	rom ( name "Maria - Kimi-tachi ga Umareta Wake (Japan) (Disc 2).bin" size 675303888 crc 51F39B0D md5 490D3E432542749F425EAD6FECF4AD4E sha1 A0CA206564A33601078C64796F7415FF34320502 serial "SLPS-01137" )
+	rom ( name "Maria - Kimitachi ga Umareta Wake (Japan) (Disc 2).bin" size 675303888 crc 51F39B0D md5 490D3E432542749F425EAD6FECF4AD4E sha1 A0CA206564A33601078C64796F7415FF34320502 serial "SLPS-01137" )
 )
 game (
-	name "Maria - Kimi-tachi ga Umareta Wake (Japan) (Disc 2)"
+	name "Maria - Kimitachi ga Umareta Wake (Japan) (Disc 2)"
 	region "Japan"
 	serial "SLPS-01137-1"
-	rom ( name "Maria - Kimi-tachi ga Umareta Wake (Japan) (Disc 2).bin" size 675303888 crc 51F39B0D md5 490D3E432542749F425EAD6FECF4AD4E sha1 A0CA206564A33601078C64796F7415FF34320502 serial "SLPS-01137-1" )
+	rom ( name "Maria - Kimitachi ga Umareta Wake (Japan) (Disc 2).bin" size 675303888 crc 51F39B0D md5 490D3E432542749F425EAD6FECF4AD4E sha1 A0CA206564A33601078C64796F7415FF34320502 serial "SLPS-01137-1" )
 )
 game (
-	name "Maria - Kimi-tachi ga Umareta Wake (Japan) (Disc 2)"
+	name "Maria - Kimitachi ga Umareta Wake (Japan) (Disc 2)"
 	region "Japan"
 	serial "SLPS-91101"
-	rom ( name "Maria - Kimi-tachi ga Umareta Wake (Japan) (Disc 2).bin" size 675303888 crc 51F39B0D md5 490D3E432542749F425EAD6FECF4AD4E sha1 A0CA206564A33601078C64796F7415FF34320502 serial "SLPS-91101" )
+	rom ( name "Maria - Kimitachi ga Umareta Wake (Japan) (Disc 2).bin" size 675303888 crc 51F39B0D md5 490D3E432542749F425EAD6FECF4AD4E sha1 A0CA206564A33601078C64796F7415FF34320502 serial "SLPS-91101" )
 )
 game (
-	name "Maria - Kimi-tachi ga Umareta Wake (Japan) (Disc 2)"
+	name "Maria - Kimitachi ga Umareta Wake (Japan) (Disc 2)"
 	region "Japan"
 	serial "SLPS-91101-1"
-	rom ( name "Maria - Kimi-tachi ga Umareta Wake (Japan) (Disc 2).bin" size 675303888 crc 51F39B0D md5 490D3E432542749F425EAD6FECF4AD4E sha1 A0CA206564A33601078C64796F7415FF34320502 serial "SLPS-91101-1" )
+	rom ( name "Maria - Kimitachi ga Umareta Wake (Japan) (Disc 2).bin" size 675303888 crc 51F39B0D md5 490D3E432542749F425EAD6FECF4AD4E sha1 A0CA206564A33601078C64796F7415FF34320502 serial "SLPS-91101-1" )
 )
 game (
-	name "Maria - Kimi-tachi ga Umareta Wake (Japan) (Disc 3)"
+	name "Maria - Kimitachi ga Umareta Wake (Japan) (Disc 3)"
 	region "Japan"
 	serial "SLPS-01138"
-	rom ( name "Maria - Kimi-tachi ga Umareta Wake (Japan) (Disc 3).bin" size 652066128 crc 4416B372 md5 E8ECEFD4A70184F40F2922B4850AD42A sha1 B0BD245A704F6C682676CE35D1DD71D22ED93264 serial "SLPS-01138" )
+	rom ( name "Maria - Kimitachi ga Umareta Wake (Japan) (Disc 3).bin" size 652066128 crc 4416B372 md5 E8ECEFD4A70184F40F2922B4850AD42A sha1 B0BD245A704F6C682676CE35D1DD71D22ED93264 serial "SLPS-01138" )
 )
 game (
-	name "Maria - Kimi-tachi ga Umareta Wake (Japan) (Disc 3)"
+	name "Maria - Kimitachi ga Umareta Wake (Japan) (Disc 3)"
 	region "Japan"
 	serial "SLPS-01138-2"
-	rom ( name "Maria - Kimi-tachi ga Umareta Wake (Japan) (Disc 3).bin" size 652066128 crc 4416B372 md5 E8ECEFD4A70184F40F2922B4850AD42A sha1 B0BD245A704F6C682676CE35D1DD71D22ED93264 serial "SLPS-01138-2" )
+	rom ( name "Maria - Kimitachi ga Umareta Wake (Japan) (Disc 3).bin" size 652066128 crc 4416B372 md5 E8ECEFD4A70184F40F2922B4850AD42A sha1 B0BD245A704F6C682676CE35D1DD71D22ED93264 serial "SLPS-01138-2" )
 )
 game (
-	name "Maria - Kimi-tachi ga Umareta Wake (Japan) (Disc 3)"
+	name "Maria - Kimitachi ga Umareta Wake (Japan) (Disc 3)"
 	region "Japan"
 	serial "SLPS-91102"
-	rom ( name "Maria - Kimi-tachi ga Umareta Wake (Japan) (Disc 3).bin" size 652066128 crc 4416B372 md5 E8ECEFD4A70184F40F2922B4850AD42A sha1 B0BD245A704F6C682676CE35D1DD71D22ED93264 serial "SLPS-91102" )
+	rom ( name "Maria - Kimitachi ga Umareta Wake (Japan) (Disc 3).bin" size 652066128 crc 4416B372 md5 E8ECEFD4A70184F40F2922B4850AD42A sha1 B0BD245A704F6C682676CE35D1DD71D22ED93264 serial "SLPS-91102" )
 )
 game (
-	name "Maria - Kimi-tachi ga Umareta Wake (Japan) (Disc 3)"
+	name "Maria - Kimitachi ga Umareta Wake (Japan) (Disc 3)"
 	region "Japan"
 	serial "SLPS-91102-2"
-	rom ( name "Maria - Kimi-tachi ga Umareta Wake (Japan) (Disc 3).bin" size 652066128 crc 4416B372 md5 E8ECEFD4A70184F40F2922B4850AD42A sha1 B0BD245A704F6C682676CE35D1DD71D22ED93264 serial "SLPS-91102-2" )
+	rom ( name "Maria - Kimitachi ga Umareta Wake (Japan) (Disc 3).bin" size 652066128 crc 4416B372 md5 E8ECEFD4A70184F40F2922B4850AD42A sha1 B0BD245A704F6C682676CE35D1DD71D22ED93264 serial "SLPS-91102-2" )
 )
 game (
 	name "Maria 2 - Jutai Kokuchi no Nazo (Japan) (Disc 1)"
@@ -42464,16 +42620,16 @@ game (
 	rom ( name "Mass Destruction (USA) (Track 01).bin" size 93268560 crc 79FFDFFD md5 4987332F73CB18F2C64EF7980D947C00 sha1 930F2F8F2656A0C5FDA0044A89E7825B08F52E7F serial "SLUS-00462" )
 )
 game (
-	name "Master of Monsters - Akatsuki no Kenja-tachi (Japan)"
+	name "Master of Monsters - Akatsuki no Kenjatachi (Japan)"
 	region "Japan"
 	serial "SLPS-00916"
-	rom ( name "Master of Monsters - Akatsuki no Kenja-tachi (Japan) (Track 1).bin" size 181731984 crc 4A31E33B md5 F88F190F373E3ED8DEC9202DBBF8757E sha1 7A90E0AABAA703679FCB81CBC3E997A60AF3232B serial "SLPS-00916" )
+	rom ( name "Master of Monsters - Akatsuki no Kenjatachi (Japan) (Track 1).bin" size 181731984 crc 4A31E33B md5 F88F190F373E3ED8DEC9202DBBF8757E sha1 7A90E0AABAA703679FCB81CBC3E997A60AF3232B serial "SLPS-00916" )
 )
 game (
-	name "Master of Monsters - Akatsuki no Kenja-tachi (Japan) (Major Wave)"
+	name "Master of Monsters - Akatsuki no Kenjatachi (Japan) (Major Wave)"
 	region "Japan"
 	serial "SLPM-86542"
-	rom ( name "Master of Monsters - Akatsuki no Kenja-tachi (Japan) (Major Wave) (Track 1).bin" size 183185520 crc C1E37FFE md5 2F268E990E2847315597A3E09B66D362 sha1 C9DADD40E7E9648C5EF7A241AD4490EFBD1B3A52 serial "SLPM-86542" )
+	rom ( name "Master of Monsters - Akatsuki no Kenjatachi (Japan) (Major Wave) (Track 1).bin" size 183185520 crc C1E37FFE md5 2F268E990E2847315597A3E09B66D362 sha1 C9DADD40E7E9648C5EF7A241AD4490EFBD1B3A52 serial "SLPM-86542" )
 )
 game (
 	name "Master of Monsters - Disciples of Gaia (Europe) (En,Fr,De)"
@@ -45025,6 +45181,18 @@ game (
 	rom ( name "MiruMiru PlayStation Vol. 39 (Japan) (Track 1).bin" size 615445488 crc 8312C237 md5 DD038BBF4506D40233A9C91D47CAE715 sha1 D1B07E12272B2457CFE33EF6756CDF4865073A72 serial "PCPX-96175" )
 )
 game (
+	name "MiruMiru PlayStation Vol. 4 (Japan) (Disc 1)"
+	region "Japan"
+	serial "PCPX-96051"
+	rom ( name "MiruMiru PlayStation Vol. 4 (Japan) (Disc 1) (Track 1).bin" size 625963632 crc 235DA3FA md5 3696B9232A9025A12A11DEDA90643D33 sha1 6310595EDCD569D8F313735E4A3AEC0408A57F4A serial "PCPX-96051" )
+)
+game (
+	name "MiruMiru PlayStation Vol. 4 (Japan) (Disc 1)"
+	region "Japan"
+	serial "PCPX-96051-0"
+	rom ( name "MiruMiru PlayStation Vol. 4 (Japan) (Disc 1) (Track 1).bin" size 625963632 crc 235DA3FA md5 3696B9232A9025A12A11DEDA90643D33 sha1 6310595EDCD569D8F313735E4A3AEC0408A57F4A serial "PCPX-96051-0" )
+)
+game (
 	name "MiruMiru PlayStation Vol. 4 (Japan) (Disc 2)"
 	region "Japan"
 	serial "PCPX-96052"
@@ -45065,6 +45233,12 @@ game (
 	region "Japan"
 	serial "PCPX-96196"
 	rom ( name "MiruMiru PlayStation Vol. 43 (Japan) (Track 1).bin" size 273956256 crc D62623AC md5 23C9B66899E04D04DC13CF8756C2FC53 sha1 EFEAA0E5436601744EA95D6799FC488C9907CF1A serial "PCPX-96196" )
+)
+game (
+	name "MiruMiru PlayStation Vol. 44 (Japan)"
+	region "Japan"
+	serial "PCPX-96197"
+	rom ( name "MiruMiru PlayStation Vol. 44 (Japan) (Track 1).bin" size 198675792 crc 6EDEA91C md5 AA8312DE4D051D4589C27C70535D6441 sha1 EDC5E506705E311D5D77FA93C5CE1502B18F0BE4 serial "PCPX-96197" )
 )
 game (
 	name "MiruMiru PlayStation Vol. 9 (Japan)"
@@ -46621,6 +46795,12 @@ game (
 	region "Japan"
 	serial "SLPS-02470"
 	rom ( name "My Home Dream 2 - Niwatsuki Ikkodate de, Ikou! (Japan).bin" size 94663296 crc CEA2EB60 md5 88E894DD9CFA1F3F01A3F8596DCD1126 sha1 40037076E03339262A559CBAFC5158D27F5B4C32 serial "SLPS-02470" )
+)
+game (
+	name "My Home Dream 2 - Niwatsuki Ikkodate de, Ikou! (Japan) (Taikenban)"
+	region "Japan"
+	serial "SLPM-80529"
+	rom ( name "My Home Dream 2 - Niwatsuki Ikkodate de, Ikou! (Japan) (Taikenban).bin" size 247162272 crc E51C5695 md5 F0E3A6069107D6A7C81762201E505932 sha1 DA1167B017D75F0DFB402FFBF379D7FBB5BA0CBE serial "SLPM-80529" )
 )
 game (
 	name "Myaon o Sagase (Japan)"
@@ -49361,10 +49541,10 @@ game (
 	rom ( name "Nihon Sumou Kyoukai Kounin - Nihon Oozumou (Japan).bin" size 324999360 crc 74A163C3 md5 CCBEABE306C5C508CD82DA9E32653F10 sha1 1CDC540551E0146630D1C36144D083C3F7FD1BD6 serial "SLPM-86575" )
 )
 game (
-	name "Nijiiro Dodgeball - Otome-tachi no Seishun (Japan)"
+	name "Nijiiro Dodgeball - Otometachi no Seishun (Japan)"
 	region "Japan"
 	serial "SLPM-87039"
-	rom ( name "Nijiiro Dodgeball - Otome-tachi no Seishun (Japan) (Track 1).bin" size 259063392 crc 29A72D41 md5 28716D2447DAFC7ACD49C46E1AB017D3 sha1 CE99129F19B58480C30A513EFF4958EFD5B87AA2 serial "SLPM-87039" )
+	rom ( name "Nijiiro Dodgeball - Otometachi no Seishun (Japan) (Track 1).bin" size 259063392 crc 29A72D41 md5 28716D2447DAFC7ACD49C46E1AB017D3 sha1 CE99129F19B58480C30A513EFF4958EFD5B87AA2 serial "SLPM-87039" )
 )
 game (
 	name "Nijiiro Twinkle - Guru Guru Daisakusen (Japan)"
@@ -49428,6 +49608,12 @@ game (
 	region "Japan"
 	serial "SLPS-00172"
 	rom ( name "Ninkuu (Japan) (Track 1).bin" size 455591808 crc 2AEA8863 md5 CE97EB018A03A1968735078BCC9BD723 sha1 265D2AFC68AFE67B5873405B0D312B712A091BD1 serial "SLPS-00172" )
+)
+game (
+	name "Ninpuu Sentai Hurricanger & Kamen Rider Ryuuki (Japan) (2-dai Hero Special Disc Taikenban)"
+	region "Japan"
+	serial "SLPM-80639"
+	rom ( name "Ninpuu Sentai Hurricanger & Kamen Rider Ryuuki (Japan) (2-dai Hero Special Disc Taikenban) (Track 1).bin" size 288475152 crc 08F1CB7B md5 C917C574C1260B6B84BB7EE2EE56AF54 sha1 69EE2AEA312E109B49C34B4BEFA90B68309BAFD7 serial "SLPM-80639" )
 )
 game (
 	name "Ninpuu Sentai Hurricanger (Japan)"
@@ -51168,6 +51354,12 @@ game (
 	rom ( name "Ore no Ryouri (Japan) (Demo 2).bin" size 251115984 crc 99552596 md5 941665FF1321A41DC74BE62CD4B264A1 sha1 DE20A08259159E9F69417F5A4E8C9CB9A516CE5B serial "PAPX-90089" )
 )
 game (
+	name "Ore no Ryouri (Japan) (Demo 2)"
+	region "Japan"
+	serial "PAPX-90090"
+	rom ( name "Ore no Ryouri (Japan) (Demo 2).bin" size 251115984 crc 99552596 md5 941665FF1321A41DC74BE62CD4B264A1 sha1 DE20A08259159E9F69417F5A4E8C9CB9A516CE5B serial "PAPX-90090" )
+)
+game (
 	name "Ore no Shikabane o Koete Yuke (Japan)"
 	region "Japan"
 	serial "SCPS-10074"
@@ -52013,6 +52205,12 @@ game (
 	region "Japan"
 	serial "SLPS-02720"
 	rom ( name "Paca Paca Passion 2 (Japan).bin" size 235479888 crc 2EB7C837 md5 6E902845AAB6DB5CC058C928CC2256F0 sha1 233BE858EC7A5ED5B0129ECD0C574057C397063D serial "SLPS-02720" )
+)
+game (
+	name "Paca Paca Passion 2 (Japan) (Taikenban)"
+	region "Japan"
+	serial "SLPM-80546"
+	rom ( name "Paca Paca Passion 2 (Japan) (Taikenban).bin" size 234028704 crc 41600119 md5 AC6F872A1AE443D5CD734E48EA3EE215 sha1 E782F2BA2F08E58A1306FF10668A74D2970C9F8C serial "SLPM-80546" )
 )
 game (
 	name "Paca Paca Passion Special (Japan)"
@@ -53844,10 +54042,10 @@ game (
 	rom ( name "Play! '98 Fuyu Taikenban (Japan) (Red Disc).bin" size 595025424 crc D0DE55E5 md5 63D1A5253525D12F4C514C35D4A6C8D7 sha1 638959C3E8FF67FDB76DED53300C8FADA9E1A980 serial "PAPX-90061" )
 )
 game (
-	name "Play-Pre PlayStation Soukan Junbi-gou (Japan)"
+	name "Play-Pre PlayStation Soukan Junbigou (Japan)"
 	region "Japan"
 	serial "PCPD-99501"
-	rom ( name "Play-Pre PlayStation Soukan Junbi-gou (Japan).bin" size 211414224 crc 5A2BF97D md5 7AFE66942025269F1E078BABB734A2E7 sha1 B024A69D131C478F58C6C39FEBD5475E9A76B1D6 serial "PCPD-99501" )
+	rom ( name "Play-Pre PlayStation Soukan Junbigou (Japan).bin" size 211414224 crc 5A2BF97D md5 7AFE66942025269F1E078BABB734A2E7 sha1 B024A69D131C478F58C6C39FEBD5475E9A76B1D6 serial "PCPD-99501" )
 )
 game (
 	name "Play-Pre Plus 001 - 1999 October (Japan) (Disc 1)"
@@ -55150,6 +55348,18 @@ game (
 game (
 	name "PoPoLoCrois Monogatari II (Japan, Asia) (Disc 1)"
 	region "Japan"
+	serial "SCPS-91220"
+	rom ( name "PoPoLoCrois Monogatari II (Japan, Asia) (Disc 1).bin" size 660977856 crc D1195D21 md5 DF6581B73EEBCAA5CF066493D49DE828 sha1 1245E1378C78D5FCB40A0D0082AABBBAF4F18A7D serial "SCPS-91220" )
+)
+game (
+	name "PoPoLoCrois Monogatari II (Japan, Asia) (Disc 1)"
+	region "Japan"
+	serial "SCPS-91220-0"
+	rom ( name "PoPoLoCrois Monogatari II (Japan, Asia) (Disc 1).bin" size 660977856 crc D1195D21 md5 DF6581B73EEBCAA5CF066493D49DE828 sha1 1245E1378C78D5FCB40A0D0082AABBBAF4F18A7D serial "SCPS-91220-0" )
+)
+game (
+	name "PoPoLoCrois Monogatari II (Japan, Asia) (Disc 1)"
+	region "Japan"
 	serial "SCPS-91313"
 	rom ( name "PoPoLoCrois Monogatari II (Japan, Asia) (Disc 1).bin" size 660977856 crc D1195D21 md5 DF6581B73EEBCAA5CF066493D49DE828 sha1 1245E1378C78D5FCB40A0D0082AABBBAF4F18A7D serial "SCPS-91313" )
 )
@@ -55186,6 +55396,18 @@ game (
 game (
 	name "PoPoLoCrois Monogatari II (Japan, Asia) (Disc 2)"
 	region "Japan"
+	serial "SCPS-91221"
+	rom ( name "PoPoLoCrois Monogatari II (Japan, Asia) (Disc 2).bin" size 732958464 crc 1A6795BC md5 4FDFF32B0D997D25E3FB6163F379081C sha1 178ED1522CCA6164B13082758A2131536616BAA2 serial "SCPS-91221" )
+)
+game (
+	name "PoPoLoCrois Monogatari II (Japan, Asia) (Disc 2)"
+	region "Japan"
+	serial "SCPS-91221-1"
+	rom ( name "PoPoLoCrois Monogatari II (Japan, Asia) (Disc 2).bin" size 732958464 crc 1A6795BC md5 4FDFF32B0D997D25E3FB6163F379081C sha1 178ED1522CCA6164B13082758A2131536616BAA2 serial "SCPS-91221-1" )
+)
+game (
+	name "PoPoLoCrois Monogatari II (Japan, Asia) (Disc 2)"
+	region "Japan"
 	serial "SCPS-91314"
 	rom ( name "PoPoLoCrois Monogatari II (Japan, Asia) (Disc 2).bin" size 732958464 crc 1A6795BC md5 4FDFF32B0D997D25E3FB6163F379081C sha1 178ED1522CCA6164B13082758A2131536616BAA2 serial "SCPS-91314" )
 )
@@ -55218,6 +55440,18 @@ game (
 	region "Japan"
 	serial "SCPS-45485-2"
 	rom ( name "PoPoLoCrois Monogatari II (Japan, Asia) (Disc 3).bin" size 712223232 crc 3AB533CC md5 10D7E7D44B0D870615924729C4844EDC sha1 74F27430AA3533956BA4CE10C8E16DB64B8625B9 serial "SCPS-45485-2" )
+)
+game (
+	name "PoPoLoCrois Monogatari II (Japan, Asia) (Disc 3)"
+	region "Japan"
+	serial "SCPS-91222"
+	rom ( name "PoPoLoCrois Monogatari II (Japan, Asia) (Disc 3).bin" size 712223232 crc 3AB533CC md5 10D7E7D44B0D870615924729C4844EDC sha1 74F27430AA3533956BA4CE10C8E16DB64B8625B9 serial "SCPS-91222" )
+)
+game (
+	name "PoPoLoCrois Monogatari II (Japan, Asia) (Disc 3)"
+	region "Japan"
+	serial "SCPS-91222-2"
+	rom ( name "PoPoLoCrois Monogatari II (Japan, Asia) (Disc 3).bin" size 712223232 crc 3AB533CC md5 10D7E7D44B0D870615924729C4844EDC sha1 74F27430AA3533956BA4CE10C8E16DB64B8625B9 serial "SCPS-91222-2" )
 )
 game (
 	name "PoPoLoCrois Monogatari II (Japan, Asia) (Disc 3)"
@@ -55410,6 +55644,12 @@ game (
 	rom ( name "Point Blank 3 (USA).bin" size 126057792 crc 91F80F48 md5 5C0E405C7FB2DD9AE3057A3F93AA3739 sha1 C76656B89E708184C3336A5CC323D057D0E4A040 serial "SLUS-01354" )
 )
 game (
+	name "Poitter's Point (Japan)"
+	region "Japan"
+	serial "SLPM-86034"
+	rom ( name "Poitter's Point (Japan).bin" size 291767952 crc D6BD1C3A md5 13EB6F04E1F515CC104AB8DB75EFB190 sha1 D0A3BE4910EAC11E5008CC7B6E59761E6FDE6D79 serial "SLPM-86034" )
+)
+game (
 	name "Poitter's Point 2 - Sodom no Inbou (Japan, Asia)"
 	region "Japan"
 	serial "SCPS-45269"
@@ -55420,12 +55660,6 @@ game (
 	region "Japan"
 	serial "SLPM-86061"
 	rom ( name "Poitter's Point 2 - Sodom no Inbou (Japan, Asia).bin" size 438981984 crc 23EA3AF8 md5 C2F3F527F677484FC61ED9774E2EA1DD sha1 5FA947CB87F4232B1B191C9403D8EAF5DA754074 serial "SLPM-86061" )
-)
-game (
-	name "Poitters' Point (Japan)"
-	region "Japan"
-	serial "SLPM-86034"
-	rom ( name "Poitters' Point (Japan).bin" size 291767952 crc D6BD1C3A md5 13EB6F04E1F515CC104AB8DB75EFB190 sha1 D0A3BE4910EAC11E5008CC7B6E59761E6FDE6D79 serial "SLPM-86034" )
 )
 game (
 	name "PokeTan (Japan)"
@@ -56170,10 +56404,10 @@ game (
 	rom ( name "Pro Mahjong Tsuwamono 3 (Japan) (Track 01).bin" size 10739232 crc 7A510A82 md5 17822AE8458900B32AF7332DE4226E2B sha1 37A6C7DFA53C0400368034093457DA2F677367FC serial "SLPS-03464" )
 )
 game (
-	name "Pro Mahjong Tsuwamono Series - Joryuu Janshi ni Chousen - Watashi-tachi ni Chousen Shite ne! (Japan)"
+	name "Pro Mahjong Tsuwamono Series - Joryuu Janshi ni Chousen - Watashitachi ni Chousen Shite ne! (Japan)"
 	region "Japan"
 	serial "SLPS-03218"
-	rom ( name "Pro Mahjong Tsuwamono Series - Joryuu Janshi ni Chousen - Watashi-tachi ni Chousen Shite ne! (Japan) (Track 01).bin" size 9859584 crc 69691CA3 md5 A5E1DA06750E293D94A01C1A2FBEBEB8 sha1 FE5EA903B91FAC3B816CE7331AB076C0240319DB serial "SLPS-03218" )
+	rom ( name "Pro Mahjong Tsuwamono Series - Joryuu Janshi ni Chousen - Watashitachi ni Chousen Shite ne! (Japan) (Track 01).bin" size 9859584 crc 69691CA3 md5 A5E1DA06750E293D94A01C1A2FBEBEB8 sha1 FE5EA903B91FAC3B816CE7331AB076C0240319DB serial "SLPS-03218" )
 )
 game (
 	name "Pro Mahjong, The - Menkyo Kaiden (Japan)"
@@ -58035,6 +58269,12 @@ game (
 	rom ( name "Rebus (Japan).bin" size 533294832 crc 98BE0DC8 md5 6E748915B032D95906378979D639B36C sha1 A833CAB3B66BBC9B3E7EBDFDB595206CEEF7BFBE serial "SLPS-91121" )
 )
 game (
+	name "Recipro Heat 5000 (Japan) (Taikenban)"
+	region "Japan"
+	serial "SLPM-80125"
+	rom ( name "Recipro Heat 5000 (Japan) (Taikenban) (Track 1).bin" size 31839024 crc BB970B91 md5 6272C75CD1464D14812F50CCEAADFC32 sha1 EAAD9FE4EF6F12A276601A1C6FC02026F1C54598 serial "SLPM-80125" )
+)
+game (
 	name "Recipro Heat 5000 (Japan, Asia)"
 	region "Japan"
 	serial "SCPS-45089"
@@ -58239,24 +58479,6 @@ game (
 	region "USA"
 	serial "SLUS-01507"
 	rom ( name "Rescue Copter (USA) (Track 01).bin" size 3579744 crc 8A5F312E md5 CF9710F5BD9059ACA522AC6B59B43267 sha1 9A0A07344C4E3424B63314B17393F983C5DCAB8F serial "SLUS-01507" )
-)
-game (
-	name "Rescue Heroes - Helden in Gefahr (Germany)"
-	region "Germany"
-	serial "SLES-03726"
-	rom ( name "Rescue Heroes - Helden in Gefahr (Germany) (Track 01).bin" size 231309792 crc 909787C7 md5 83AB989D0CE22D5E0189D0F27E190B2E sha1 47899B341347C9C4C8E9F184816D81CE47918EE6 serial "SLES-03726" )
-)
-game (
-	name "Rescue Heroes - Molten Menace (Europe)"
-	region "Europe"
-	serial "SLES-03724"
-	rom ( name "Rescue Heroes - Molten Menace (Europe) (Track 01).bin" size 227603040 crc B948BC9B md5 679FDC7D42FB03FF8C3449DDD3CCD4BB sha1 BB7ACA56F9F9E02BD8A687F429013244FFC1FA67 serial "SLES-03724" )
-)
-game (
-	name "Rescue Heroes - Molten Menace (USA)"
-	region "USA"
-	serial "SLUS-01373"
-	rom ( name "Rescue Heroes - Molten Menace (USA) (Track 01).bin" size 125893152 crc 193B57C3 md5 01FE417695533BCB091A527F83D3C59A sha1 43E5B52E82040018030E93A208B93A5EAC7B2EAD serial "SLUS-01373" )
 )
 game (
 	name "Rescue Shot (Europe) (En,Fr,De,Es,It)"
@@ -61033,40 +61255,40 @@ game (
 	rom ( name "Sanyo Pachinko Paradise 5 - Uki Uki Tairyoubata (Japan).bin" size 199134432 crc 986ED3B5 md5 6CEBA2832DAE7828ED1B62F44E96D66C sha1 09C10A1DF75BD2A8A7606228596CF2202D60DF90 serial "SLPS-03190" )
 )
 game (
-	name "Saraba Uchuu Senkan Yamato - Ai no Senshi-tachi (Japan) (Disc 1)"
+	name "Saraba Uchuu Senkan Yamato - Ai no Senshitachi (Japan) (Disc 1)"
 	region "Japan"
 	serial "SLPS-02761"
-	rom ( name "Saraba Uchuu Senkan Yamato - Ai no Senshi-tachi (Japan) (Disc 1).bin" size 566991936 crc 06913B9C md5 D9EE508D7F2679FEF38F3FD39783757B sha1 E7852330F45228D9539345D7B0265274B44A5F88 serial "SLPS-02761" )
+	rom ( name "Saraba Uchuu Senkan Yamato - Ai no Senshitachi (Japan) (Disc 1).bin" size 566991936 crc 06913B9C md5 D9EE508D7F2679FEF38F3FD39783757B sha1 E7852330F45228D9539345D7B0265274B44A5F88 serial "SLPS-02761" )
 )
 game (
-	name "Saraba Uchuu Senkan Yamato - Ai no Senshi-tachi (Japan) (Disc 1)"
+	name "Saraba Uchuu Senkan Yamato - Ai no Senshitachi (Japan) (Disc 1)"
 	region "Japan"
 	serial "SLPS-02761-0"
-	rom ( name "Saraba Uchuu Senkan Yamato - Ai no Senshi-tachi (Japan) (Disc 1).bin" size 566991936 crc 06913B9C md5 D9EE508D7F2679FEF38F3FD39783757B sha1 E7852330F45228D9539345D7B0265274B44A5F88 serial "SLPS-02761-0" )
+	rom ( name "Saraba Uchuu Senkan Yamato - Ai no Senshitachi (Japan) (Disc 1).bin" size 566991936 crc 06913B9C md5 D9EE508D7F2679FEF38F3FD39783757B sha1 E7852330F45228D9539345D7B0265274B44A5F88 serial "SLPS-02761-0" )
 )
 game (
-	name "Saraba Uchuu Senkan Yamato - Ai no Senshi-tachi (Japan) (Disc 2)"
+	name "Saraba Uchuu Senkan Yamato - Ai no Senshitachi (Japan) (Disc 2)"
 	region "Japan"
 	serial "SLPS-02762"
-	rom ( name "Saraba Uchuu Senkan Yamato - Ai no Senshi-tachi (Japan) (Disc 2).bin" size 673424640 crc 9488096E md5 60F65C590C45024D3C5EEEC1B1E15F27 sha1 608046C4FD473177E6B507A9D81D848239FAB835 serial "SLPS-02762" )
+	rom ( name "Saraba Uchuu Senkan Yamato - Ai no Senshitachi (Japan) (Disc 2).bin" size 673424640 crc 9488096E md5 60F65C590C45024D3C5EEEC1B1E15F27 sha1 608046C4FD473177E6B507A9D81D848239FAB835 serial "SLPS-02762" )
 )
 game (
-	name "Saraba Uchuu Senkan Yamato - Ai no Senshi-tachi (Japan) (Disc 2)"
+	name "Saraba Uchuu Senkan Yamato - Ai no Senshitachi (Japan) (Disc 2)"
 	region "Japan"
 	serial "SLPS-02762-1"
-	rom ( name "Saraba Uchuu Senkan Yamato - Ai no Senshi-tachi (Japan) (Disc 2).bin" size 673424640 crc 9488096E md5 60F65C590C45024D3C5EEEC1B1E15F27 sha1 608046C4FD473177E6B507A9D81D848239FAB835 serial "SLPS-02762-1" )
+	rom ( name "Saraba Uchuu Senkan Yamato - Ai no Senshitachi (Japan) (Disc 2).bin" size 673424640 crc 9488096E md5 60F65C590C45024D3C5EEEC1B1E15F27 sha1 608046C4FD473177E6B507A9D81D848239FAB835 serial "SLPS-02762-1" )
 )
 game (
-	name "Saraba Uchuu Senkan Yamato - Ai no Senshi-tachi (Japan) (Disc 3)"
+	name "Saraba Uchuu Senkan Yamato - Ai no Senshitachi (Japan) (Disc 3)"
 	region "Japan"
 	serial "SLPS-02763"
-	rom ( name "Saraba Uchuu Senkan Yamato - Ai no Senshi-tachi (Japan) (Disc 3).bin" size 581992992 crc E7282712 md5 2FCB5036E25939621F8ECB962AF7145C sha1 97711E99D92BBD1466AC54D4556684B9CD84234A serial "SLPS-02763" )
+	rom ( name "Saraba Uchuu Senkan Yamato - Ai no Senshitachi (Japan) (Disc 3).bin" size 581992992 crc E7282712 md5 2FCB5036E25939621F8ECB962AF7145C sha1 97711E99D92BBD1466AC54D4556684B9CD84234A serial "SLPS-02763" )
 )
 game (
-	name "Saraba Uchuu Senkan Yamato - Ai no Senshi-tachi (Japan) (Disc 3)"
+	name "Saraba Uchuu Senkan Yamato - Ai no Senshitachi (Japan) (Disc 3)"
 	region "Japan"
 	serial "SLPS-02763-2"
-	rom ( name "Saraba Uchuu Senkan Yamato - Ai no Senshi-tachi (Japan) (Disc 3).bin" size 581992992 crc E7282712 md5 2FCB5036E25939621F8ECB962AF7145C sha1 97711E99D92BBD1466AC54D4556684B9CD84234A serial "SLPS-02763-2" )
+	rom ( name "Saraba Uchuu Senkan Yamato - Ai no Senshitachi (Japan) (Disc 3).bin" size 581992992 crc E7282712 md5 2FCB5036E25939621F8ECB962AF7145C sha1 97711E99D92BBD1466AC54D4556684B9CD84234A serial "SLPS-02763-2" )
 )
 game (
 	name "Saru! Get You! (Japan)"
@@ -62138,10 +62360,10 @@ game (
 	rom ( name "Shin DX Okuman Chouja Game - Tsukutte! Utte! Oomouke! (Japan) (Track 1).bin" size 510812064 crc A922C044 md5 528DD83D400D2F7AA4BC9C25DCAB9711 sha1 8814FDE4219F79E0ED3DB674F7A2E564CCA7F112 serial "SLPM-87251" )
 )
 game (
-	name "Shin Fortune Quest - Shokutaku no Kishi-tachi (Japan)"
+	name "Shin Fortune Quest - Shokutaku no Kishitachi (Japan)"
 	region "Japan"
 	serial "SLPS-00381"
-	rom ( name "Shin Fortune Quest - Shokutaku no Kishi-tachi (Japan) (Track 1).bin" size 128193408 crc 0FBDED02 md5 CA8FC3FE37E2F94A20D3A0DEDEB4BC78 sha1 6F9A2475BE5E3C628C1A7C28777D60B990D1C2F1 serial "SLPS-00381" )
+	rom ( name "Shin Fortune Quest - Shokutaku no Kishitachi (Japan) (Track 1).bin" size 128193408 crc 0FBDED02 md5 CA8FC3FE37E2F94A20D3A0DEDEB4BC78 sha1 6F9A2475BE5E3C628C1A7C28777D60B990D1C2F1 serial "SLPS-00381" )
 )
 game (
 	name "Shin Jidaigeki Action - Rasetsu no Ken (Japan)"
@@ -62246,10 +62468,10 @@ game (
 	rom ( name "Shin Sedai Robot Senki - Brave Saga - Yuusha Gentei Koushiki Data Disc - Yuusha no Akashi (Japan) (Track 01).bin" size 13686288 crc 83125475 md5 240F02F9AE20C6F9C4A0B98A425C00BC sha1 1FBA5B3846B7DA60F1594EC1BB4930989BB17204 serial "SLPM-80275" )
 )
 game (
-	name "Shin Seiki Evangelion - Eva to Yukai na Nakama-tachi (Japan)"
+	name "Shin Seiki Evangelion - Eva to Yukai na Nakamatachi (Japan)"
 	region "Japan"
 	serial "SLPS-01485"
-	rom ( name "Shin Seiki Evangelion - Eva to Yukai na Nakama-tachi (Japan).bin" size 241352832 crc 17BD4DFD md5 2359F0D26EFF8A503D17EFB682EF0B17 sha1 B124519DD547CC2007D5B788B12D83EB3566FD4A serial "SLPS-01485" )
+	rom ( name "Shin Seiki Evangelion - Eva to Yukai na Nakamatachi (Japan).bin" size 241352832 crc 17BD4DFD md5 2359F0D26EFF8A503D17EFB682EF0B17 sha1 B124519DD547CC2007D5B788B12D83EB3566FD4A serial "SLPS-01485" )
 )
 game (
 	name "Shin Seiki Evangelion - Koutetsu no Girlfriend (Japan) (Disc 1)"
@@ -63008,16 +63230,16 @@ game (
 	rom ( name "Simple 1500 Jitsuyou Series Vol. 14 - Kurashi no Manner - Kankon Sousai-hen (Japan).bin" size 282973824 crc DCE0A470 md5 55A47197E578CE4C1CCEEB26F674B469 sha1 5C56F73B01301512D7C18DE5AB8A727A2F9341F1 serial "SLPM-87022" )
 )
 game (
-	name "Simple 1500 Jitsuyou Series Vol. 15 - Inu no Kai-kata - Sekai no Inu Catalog (Japan)"
+	name "Simple 1500 Jitsuyou Series Vol. 15 - Inu no Kaikata - Sekai no Inu Catalog (Japan)"
 	region "Japan"
 	serial "SLPM-87051"
-	rom ( name "Simple 1500 Jitsuyou Series Vol. 15 - Inu no Kai-kata - Sekai no Inu Catalog (Japan).bin" size 705000240 crc 6328E557 md5 675C26F6FE72ABDFE5DED01030905721 sha1 17F5616750AD48093A19A86DDB6966ACF3408F74 serial "SLPM-87051" )
+	rom ( name "Simple 1500 Jitsuyou Series Vol. 15 - Inu no Kaikata - Sekai no Inu Catalog (Japan).bin" size 705000240 crc 6328E557 md5 675C26F6FE72ABDFE5DED01030905721 sha1 17F5616750AD48093A19A86DDB6966ACF3408F74 serial "SLPM-87051" )
 )
 game (
-	name "Simple 1500 Jitsuyou Series Vol. 16 - Neko no Kai-kata - Sekai no Neko Catalog (Japan)"
+	name "Simple 1500 Jitsuyou Series Vol. 16 - Neko no Kaikata - Sekai no Neko Catalog (Japan)"
 	region "Japan"
 	serial "SLPM-87052"
-	rom ( name "Simple 1500 Jitsuyou Series Vol. 16 - Neko no Kai-kata - Sekai no Neko Catalog (Japan).bin" size 603022224 crc 625AC1DB md5 9F986DF141EDF8161CB1A4E715712787 sha1 DE6E44C858FC5E9C7671FA5DB51971E093BAC040 serial "SLPM-87052" )
+	rom ( name "Simple 1500 Jitsuyou Series Vol. 16 - Neko no Kaikata - Sekai no Neko Catalog (Japan).bin" size 603022224 crc 625AC1DB md5 9F986DF141EDF8161CB1A4E715712787 sha1 DE6E44C858FC5E9C7671FA5DB51971E093BAC040 serial "SLPM-87052" )
 )
 game (
 	name "Simple 1500 Jitsuyou Series Vol. 17 - Planetarium (Japan)"
@@ -63602,10 +63824,10 @@ game (
 	rom ( name "Simple 1500 Series Vol. 7 - The Card (Japan) (Culture Publishers) (Track 1).bin" size 5303760 crc 9E68C33F md5 42C296770B3A54187C60D0CDADD5574E sha1 AAAB777037627A5B3122B0BF53BD150247FF8CEE serial "SLPS-01685" )
 )
 game (
-	name "Simple 1500 Series Vol. 70 - The War Simulation - Hito no Tsukurishi Mono-tachi (Japan)"
+	name "Simple 1500 Series Vol. 70 - The War Simulation - Hito no Tsukurishi Monotachi (Japan)"
 	region "Japan"
 	serial "SLPM-86869"
-	rom ( name "Simple 1500 Series Vol. 70 - The War Simulation - Hito no Tsukurishi Mono-tachi (Japan).bin" size 472269840 crc F7F05327 md5 6E74F9AA8F3878B1B5C9C24907C2F3EA sha1 DCEA69A0310AFAF2AB9BD49E9DB1BD16747FACDB serial "SLPM-86869" )
+	rom ( name "Simple 1500 Series Vol. 70 - The War Simulation - Hito no Tsukurishi Monotachi (Japan).bin" size 472269840 crc F7F05327 md5 6E74F9AA8F3878B1B5C9C24907C2F3EA sha1 DCEA69A0310AFAF2AB9BD49E9DB1BD16747FACDB serial "SLPM-86869" )
 )
 game (
 	name "Simple 1500 Series Vol. 71 - The Ren'ai Simulation 2 - Fureai (Japan)"
@@ -66933,10 +67155,10 @@ game (
 	rom ( name "Station 4 (Europe) (Track 1).bin" size 360316992 crc F94F6B1D md5 86C0EA2F5EF4933795245FBBF203DA6B sha1 C3BB075082B3AB71C9EE707DFCE1262E94CABC19 serial "SLED-01731" )
 )
 game (
-	name "Station 5 (Europe)"
+	name "Station 5 (Europe, Australia)"
 	region "Europe"
 	serial "SLED-01782"
-	rom ( name "Station 5 (Europe) (Track 1).bin" size 132064800 crc 063E8C12 md5 ABAC0777F5EE98F3F613E1F5E52D70CE sha1 954907682DFCE5C77BBF54AFE6C7999378DB2F73 serial "SLED-01782" )
+	rom ( name "Station 5 (Europe, Australia) (Track 1).bin" size 132064800 crc 063E8C12 md5 ABAC0777F5EE98F3F613E1F5E52D70CE sha1 954907682DFCE5C77BBF54AFE6C7999378DB2F73 serial "SLED-01782" )
 )
 game (
 	name "Station 6 (Europe)"
@@ -68751,10 +68973,10 @@ game (
 	rom ( name "SuperLite 1500 Series - Mahjong Senjutsu - Andou Mitsuru Pro no Akuukan Sappou (Japan) (Track 01).bin" size 11235504 crc 88856A51 md5 E90113B4E33B0942189B68B546C782B9 sha1 88D9BEA828466DEAFAE1EB54AE3E3D4E68740857 serial "SLPM-86856" )
 )
 game (
-	name "SuperLite 1500 Series - Mahjong Uranai Fortuna - Tsuki no Megami-tachi (Japan)"
+	name "SuperLite 1500 Series - Mahjong Uranai Fortuna - Tsuki no Megamitachi (Japan)"
 	region "Japan"
 	serial "SLPM-87143"
-	rom ( name "SuperLite 1500 Series - Mahjong Uranai Fortuna - Tsuki no Megami-tachi (Japan) (Track 1).bin" size 477044400 crc 62BF459C md5 658E45DF8E0ACA5171B793BE99D9B831 sha1 90646C10BF3783E0823CB0D06A068838ECC1B2C9 serial "SLPM-87143" )
+	rom ( name "SuperLite 1500 Series - Mahjong Uranai Fortuna - Tsuki no Megamitachi (Japan) (Track 1).bin" size 477044400 crc 62BF459C md5 658E45DF8E0ACA5171B793BE99D9B831 sha1 90646C10BF3783E0823CB0D06A068838ECC1B2C9 serial "SLPM-87143" )
 )
 game (
 	name "SuperLite 1500 Series - Makikou (Japan)"
@@ -70879,6 +71101,12 @@ game (
 	rom ( name "Tekken (USA) (Track 01).bin" size 144309312 crc 0166B8F2 md5 9D5AE22B2D8ADD64C878CF2DC7355B42 sha1 E588178F5CD167B1F8F8E9B440FB2512D2340EC2 serial "SLUS-00006" )
 )
 game (
+	name "Tekken 2 & Fade to Black & F1 & V-CD (Europe, Australia)"
+	region "Europe"
+	serial "SCED-00494"
+	rom ( name "Tekken 2 & Fade to Black & F1 & V-CD (Europe, Australia) (Track 1).bin" size 155490720 crc 5AF38900 md5 AD2BDB75B708EA5F23D65CEF0E30A1CC sha1 82D0E69E9E948D7287BFFF14B3ED6DE32208BFB4 serial "SCED-00494" )
+)
+game (
 	name "Tekken 2 (Europe)"
 	region "Europe"
 	serial "SCES-00255"
@@ -70919,12 +71147,6 @@ game (
 	region "USA"
 	serial "SLUS-00213"
 	rom ( name "Tekken 2 (USA) (Rev 1) (Track 1).bin" size 717922128 crc 670A8546 md5 14C6B7308E1BF796FB36E523ADDE34D7 sha1 699BD5831FBE3B662C59906EBF0ACD3D1C3393F3 serial "SLUS-00213" )
-)
-game (
-	name "Tekken 2 + Fade to Black + F1 + V-CD (Europe, Australia)"
-	region "Europe"
-	serial "SCED-00494"
-	rom ( name "Tekken 2 + Fade to Black + F1 + V-CD (Europe, Australia) (Track 1).bin" size 155490720 crc 5AF38900 md5 AD2BDB75B708EA5F23D65CEF0E30A1CC sha1 82D0E69E9E948D7287BFFF14B3ED6DE32208BFB4 serial "SCED-00494" )
 )
 game (
 	name "Tekken 2 + Fade to Black + V-CD (France)"

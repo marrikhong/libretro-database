@@ -1,7 +1,7 @@
 clrmamepro (
 	name "The 3DO Company - 3DO"
 	description "The 3DO Company - 3DO"
-	version "2026.03.30"
+	version "2026.05.02"
 	homepage "http://github.com/robloach/libretro-dats"
 )
 
@@ -177,10 +177,10 @@ game (
 	rom ( name "BFS - Blue Forest Story (Japan) (Alt).bin" size 398099520 crc 046A313F md5 A3BED64CAD2081ABA917CCC789F5491F sha1 6CB82621362F2CA4E74832FCA4D42C244B1E50DA serial "FZ-SJ4101" )
 )
 game (
-	name "Bakushou!! All Yoshimoto Quiz-ou Kettei-sen (Japan)"
+	name "Bakushou!! All Yoshimoto Quiz-ou Ketteisen (Japan)"
 	region "Japan"
 	serial "FZ-SJ5451"
-	rom ( name "Bakushou!! All Yoshimoto Quiz-ou Kettei-sen (Japan).bin" size 753345600 crc CEF4B1D7 md5 9B3D127C077D412F59A6D7AA9F286B6B sha1 064B96FEB81556ED7E16CCCBEE4074B4707E792F serial "FZ-SJ5451" )
+	rom ( name "Bakushou!! All Yoshimoto Quiz-ou Ketteisen (Japan).bin" size 753345600 crc CEF4B1D7 md5 9B3D127C077D412F59A6D7AA9F286B6B sha1 064B96FEB81556ED7E16CCCBEE4074B4707E792F serial "FZ-SJ5451" )
 )
 game (
 	name "Ballz - The Director's Cut (World) (En,Ja)"
@@ -2021,6 +2021,11 @@ game (
 	rom ( name "Moon Cradle - Igyou no Hanayome (Japan).bin" size 734934144 crc 6FA510BC md5 486B66D0B2EB2D3C3D751BA9290DDEFC sha1 8150BA547FE4FF080DA527FD70E1AAA52A13DCD1 serial "FZ-SJ0405" )
 )
 game (
+	name "Mortal Kombat II (USA)"
+	region "USA"
+	rom ( name "Mortal Kombat II (USA) (Unl).bin" size 144257568 crc 9F24CD07 md5 D6789E7A4A537A241DDA220AAFE74751 sha1 2950936BB7A978191F9AA283CDCDDC1DE5785E0A )
+)
+game (
 	name "Multimedia Shinsho - Driving School - Futsuu Menkyo Gakka-hen (Japan)"
 	region "Japan"
 	serial "JM-DD001"
@@ -2164,28 +2169,28 @@ game (
 	rom ( name "Night Trap (USA, Europe) (Disc 2).bin" size 631723680 crc 01E1DAAC md5 97D9EFF74133DF1F38A69F95168BA378 sha1 1843C6997542F7E6E4CE69202EF3DEFA55A3CF6F )
 )
 game (
-	name "Nishimura Kyoutarou Travel Mystery - Akugyaku no Kisetsu - Tokyo Nanki Shirahama Renzoku Satsujin Jiken (Japan) (Disc 1)"
+	name "Nishimura Kyoutarou Travel Mystery - Akugyaku no Kisetsu - Tokyo ~ Nanki-Shirahama Renzoku Satsujin Jiken (Japan) (Disc 1)"
 	region "Japan"
 	serial "FZ-SJ0403-A"
-	rom ( name "Nishimura Kyoutarou Travel Mystery - Akugyaku no Kisetsu - Tokyo Nanki Shirahama Renzoku Satsujin Jiken (Japan) (Disc 1).bin" size 554300544 crc 668AF741 md5 EFF76BD80664B5E4ADC588BF73C06A0D sha1 29E092DE21E576FD4DF16FBEC9F3B9DE68C558A6 serial "FZ-SJ0403-A" )
+	rom ( name "Nishimura Kyoutarou Travel Mystery - Akugyaku no Kisetsu - Tokyo ~ Nanki-Shirahama Renzoku Satsujin Jiken (Japan) (Disc 1).bin" size 554300544 crc 668AF741 md5 EFF76BD80664B5E4ADC588BF73C06A0D sha1 29E092DE21E576FD4DF16FBEC9F3B9DE68C558A6 serial "FZ-SJ0403-A" )
 )
 game (
-	name "Nishimura Kyoutarou Travel Mystery - Akugyaku no Kisetsu - Tokyo Nanki Shirahama Renzoku Satsujin Jiken (Japan) (Disc 1)"
+	name "Nishimura Kyoutarou Travel Mystery - Akugyaku no Kisetsu - Tokyo ~ Nanki-Shirahama Renzoku Satsujin Jiken (Japan) (Disc 1)"
 	region "Japan"
 	serial "FZ-SJ0403-A-0"
-	rom ( name "Nishimura Kyoutarou Travel Mystery - Akugyaku no Kisetsu - Tokyo Nanki Shirahama Renzoku Satsujin Jiken (Japan) (Disc 1).bin" size 554300544 crc 668AF741 md5 EFF76BD80664B5E4ADC588BF73C06A0D sha1 29E092DE21E576FD4DF16FBEC9F3B9DE68C558A6 serial "FZ-SJ0403-A-0" )
+	rom ( name "Nishimura Kyoutarou Travel Mystery - Akugyaku no Kisetsu - Tokyo ~ Nanki-Shirahama Renzoku Satsujin Jiken (Japan) (Disc 1).bin" size 554300544 crc 668AF741 md5 EFF76BD80664B5E4ADC588BF73C06A0D sha1 29E092DE21E576FD4DF16FBEC9F3B9DE68C558A6 serial "FZ-SJ0403-A-0" )
 )
 game (
-	name "Nishimura Kyoutarou Travel Mystery - Akugyaku no Kisetsu - Tokyo Nanki Shirahama Renzoku Satsujin Jiken (Japan) (Disc 2)"
+	name "Nishimura Kyoutarou Travel Mystery - Akugyaku no Kisetsu - Tokyo ~ Nanki-Shirahama Renzoku Satsujin Jiken (Japan) (Disc 2)"
 	region "Japan"
 	serial "FZ-SJ0403-B"
-	rom ( name "Nishimura Kyoutarou Travel Mystery - Akugyaku no Kisetsu - Tokyo Nanki Shirahama Renzoku Satsujin Jiken (Japan) (Disc 2).bin" size 746976384 crc 628FFCC8 md5 7F0BD9967C6AAC79AECA751904402C08 sha1 E678E5EE1BBF2AA39A7B6309EFF6DA0D32633A0F serial "FZ-SJ0403-B" )
+	rom ( name "Nishimura Kyoutarou Travel Mystery - Akugyaku no Kisetsu - Tokyo ~ Nanki-Shirahama Renzoku Satsujin Jiken (Japan) (Disc 2).bin" size 746976384 crc 628FFCC8 md5 7F0BD9967C6AAC79AECA751904402C08 sha1 E678E5EE1BBF2AA39A7B6309EFF6DA0D32633A0F serial "FZ-SJ0403-B" )
 )
 game (
-	name "Nishimura Kyoutarou Travel Mystery - Akugyaku no Kisetsu - Tokyo Nanki Shirahama Renzoku Satsujin Jiken (Japan) (Disc 2)"
+	name "Nishimura Kyoutarou Travel Mystery - Akugyaku no Kisetsu - Tokyo ~ Nanki-Shirahama Renzoku Satsujin Jiken (Japan) (Disc 2)"
 	region "Japan"
 	serial "FZ-SJ0403-B-1"
-	rom ( name "Nishimura Kyoutarou Travel Mystery - Akugyaku no Kisetsu - Tokyo Nanki Shirahama Renzoku Satsujin Jiken (Japan) (Disc 2).bin" size 746976384 crc 628FFCC8 md5 7F0BD9967C6AAC79AECA751904402C08 sha1 E678E5EE1BBF2AA39A7B6309EFF6DA0D32633A0F serial "FZ-SJ0403-B-1" )
+	rom ( name "Nishimura Kyoutarou Travel Mystery - Akugyaku no Kisetsu - Tokyo ~ Nanki-Shirahama Renzoku Satsujin Jiken (Japan) (Disc 2).bin" size 746976384 crc 628FFCC8 md5 7F0BD9967C6AAC79AECA751904402C08 sha1 E678E5EE1BBF2AA39A7B6309EFF6DA0D32633A0F serial "FZ-SJ0403-B-1" )
 )
 game (
 	name "Nobunaga no Yabou - Haouden (Japan)"
@@ -2274,16 +2279,16 @@ game (
 	rom ( name "OnSide Soccer (USA) (Unl).bin" size 83446608 crc AF94B0B1 md5 1B52CE7D111D928E721A5919EFF93DAC sha1 40D81B8CC5FFC166F969BA3FF32A080ACAD7119D )
 )
 game (
-	name "Onee-san to Issho! Janken Paradise (Japan)"
+	name "Oneesan to Issho! Janken Paradise (Japan)"
 	region "Japan"
 	serial "FZ-SJ5251"
-	rom ( name "Onee-san to Issho! Janken Paradise (Japan).bin" size 602817600 crc 6D50A358 md5 006E66EA4BD3F5650A008A3EBC61BE01 sha1 DCCF8F65730074160BEA5BB8C1D13F9ED3E2FA52 serial "FZ-SJ5251" )
+	rom ( name "Oneesan to Issho! Janken Paradise (Japan).bin" size 602817600 crc 6D50A358 md5 006E66EA4BD3F5650A008A3EBC61BE01 sha1 DCCF8F65730074160BEA5BB8C1D13F9ED3E2FA52 serial "FZ-SJ5251" )
 )
 game (
-	name "Onee-san to Issho! Kisekae Paradise (Japan)"
+	name "Oneesan to Issho! Kisekae Paradise (Japan)"
 	region "Japan"
 	serial "FZ-SJ5252"
-	rom ( name "Onee-san to Issho! Kisekae Paradise (Japan).bin" size 709645440 crc AF83316A md5 A11E43A7AC3E27FEEF0BEE5792F7A08B sha1 0354CB2FAC5A5B40F6C866A2C0B2936481320C3B serial "FZ-SJ5252" )
+	rom ( name "Oneesan to Issho! Kisekae Paradise (Japan).bin" size 709645440 crc AF83316A md5 A11E43A7AC3E27FEEF0BEE5792F7A08B sha1 0354CB2FAC5A5B40F6C866A2C0B2936481320C3B serial "FZ-SJ5252" )
 )
 game (
 	name "Orbatak (USA) (Arcade CD-ROM)"

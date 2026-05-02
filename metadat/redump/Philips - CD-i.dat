@@ -1,7 +1,7 @@
 clrmamepro (
 	name "Philips - CD-i"
 	description "Philips - CD-i"
-	version "2026.03.30"
+	version "2026.05.02"
 	homepage "http://github.com/robloach/libretro-dats"
 )
 
@@ -29,6 +29,11 @@ game (
 	name "1996 Awards - International CD-i Association (USA)"
 	region "USA"
 	rom ( name "1996 Awards - International CD-i Association (USA).bin" size 746496576 crc 1F26B06B md5 AF58AFE2084F3DA36C6C3BB7D9C5EE05 sha1 EAA0E961AF748876137C3D31DD4AD2DC4735E4D2 )
+)
+game (
+	name "1996 ICDIA Summit - CD-i; A Bridge to the Future - Philips CD-i Strategy (Europe) (Proto)"
+	region "Europe"
+	rom ( name "1996 ICDIA Summit - CD-i; A Bridge to the Future - Philips CD-i Strategy (Europe) (Proto).bin" size 106030512 crc 0E7D31EF md5 1A595DDD2C7AF03DFE5D0B3D15456D58 sha1 3BF10294387627E741246E5EB357324A0B50873B )
 )
 game (
 	name "2 Unlimited - Beyond Limits (Europe)"
@@ -956,6 +961,12 @@ game (
 	rom ( name "Aventures de Sandy au Cirque, Les (France).bin" size 490081536 crc 008C8EBE md5 840C19D31AA84C66D97520FF66FACF5C sha1 8529FBE39F3FB551FD27D6A9124DE64CDCD8315D serial "812-0027" )
 )
 game (
+	name "Avventure di Sandy al Circo, Le (Italy)"
+	region "Italy"
+	serial "815-0023"
+	rom ( name "Avventure di Sandy al Circo, Le (Italy).bin" size 490321440 crc 6287C418 md5 1ADB55C03ECFA40EECE3C82EA06973D5 sha1 78CE870310DDC238534E9E398F283D25ED946B4F serial "815-0023" )
+)
+game (
 	name "Axel Springer Verlag AG - Bild am Sonntag (Germany)"
 	region "Germany"
 	rom ( name "Axel Springer Verlag AG - Bild am Sonntag (Germany).bin" size 329696304 crc 66543209 md5 D44E8C3679F43C4384C86513E571A748 sha1 EBE377B2417D9ADA9BCE0D02A0282CDF2BE16810 )
@@ -1784,6 +1795,12 @@ game (
 	region "USA"
 	serial "813-0007"
 	rom ( name "Backgammon (USA, Europe).bin" size 265282080 crc 98E2F907 md5 506047283B8A77E4AD303F2658FAFA7B sha1 C804AD106332C6FB72EBC137B74979846E972791 serial "813-0007" )
+)
+game (
+	name "Backgammon (USA, Europe)"
+	region "USA"
+	serial "815-0001"
+	rom ( name "Backgammon (USA, Europe).bin" size 265282080 crc 98E2F907 md5 506047283B8A77E4AD303F2658FAFA7B sha1 C804AD106332C6FB72EBC137B74979846E972791 serial "815-0001" )
 )
 game (
 	name "Bande Annonce, La - Automne-Hiver 95-96 (France)"
@@ -2711,6 +2728,11 @@ game (
 	name "CD-i 700 - English Version - Schindler (Europe)"
 	region "Europe"
 	rom ( name "CD-i 700 - English Version - Schindler (Europe).bin" size 718481904 crc 55845A92 md5 EC2852872C6D5295D3BE9198DEC4695F sha1 2891C8B5EEE3DDD5B7FCDCF3C1046E9728DA3D3F )
+)
+game (
+	name "CD-i Authoring Overview Presentation (Europe) (Proto)"
+	region "Europe"
+	rom ( name "CD-i Authoring Overview Presentation (Europe) (Proto).bin" size 154531104 crc 38CDAF34 md5 9992307C381AD722626EF869703F332C sha1 E71DA94BAA9D7D7475F2A784377749607BE2783D )
 )
 game (
 	name "CD-i Clickshow (Netherlands)"
@@ -4173,15 +4195,6 @@ game (
 	rom ( name "Caricature (Europe).bin" size 384034560 crc 89518B8B md5 558182A9FB2AA797A9B537DFAFBF4FF6 sha1 5008B3EF3B940E7FA9DDEDFA1A9DA23A1AE51097 serial "814-0049" )
 )
 game (
-	name "Caricature (Europe) (Beta)"
-	releaseyear "1992"
-	releasemonth "09"
-	releaseday "28"
-	region "Europe"
-	serial "811-0001"
-	rom ( name "Caricature (Europe) (Beta) (1992-09-28).bin" size 384034560 crc 094473B1 md5 E565D40F73FFC451D4068AE96E8B4D4D sha1 99D4E143F078721B73EF9A1417F2B791B4EF0DB5 serial "811-0001" )
-)
-game (
 	name "Caricature (UK)"
 	serial "811-0001"
 	rom ( name "Caricature (UK).bin" size 384375600 crc D84FC809 md5 3AB3E37410E516702E32B3BE2965D2DF sha1 05CA3785F2DCA93E04B672F76AA1235EE95C3A42 serial "811-0001" )
@@ -4190,6 +4203,14 @@ game (
 	name "Caricature (UK) (Alt)"
 	serial "811-0001"
 	rom ( name "Caricature (UK) (Alt).bin" size 384034560 crc EA75A0B0 md5 D5D07A7608DAB8869A8130E67E68371E sha1 B472F3785F6F853E579F09B336075B8EA8DD1E2E serial "811-0001" )
+)
+game (
+	name "Caricature (UK) (Beta)"
+	releaseyear "1992"
+	releasemonth "09"
+	releaseday "28"
+	serial "811-0001"
+	rom ( name "Caricature (UK) (Beta) (1992-09-28).bin" size 384034560 crc 094473B1 md5 E565D40F73FFC451D4068AE96E8B4D4D sha1 99D4E143F078721B73EF9A1417F2B791B4EF0DB5 serial "811-0001" )
 )
 game (
 	name "Cartoon Jukebox (Europe) (Alt)"
@@ -4948,6 +4969,11 @@ game (
 	rom ( name "DB Citibank - VISA Bahncard - September 1995 (Germany).bin" size 650038704 crc 22A73FBD md5 F1965D223AE7249D8BD035A26A373F50 sha1 3119968F67D2E728CAD348D02A395E57678BAC03 )
 )
 game (
+	name "Da Atene ad Atlanta - Storia Multimediale delle Olimpiadi (Italy)"
+	region "Italy"
+	rom ( name "Da Atene ad Atlanta - Storia Multimediale delle Olimpiadi (Italy).bin" size 733475904 crc 8C2DFDF3 md5 8709F0170666BD0690BA0B6A09C748EE sha1 F6D17B10A2EC6BD278454FDC943E1CA5D62112BA )
+)
+game (
 	name "Daens (Netherlands) (Disc 1)"
 	region "Netherlands"
 	serial "814-1002"
@@ -5006,6 +5032,12 @@ game (
 	region "USA"
 	serial "813-0005"
 	rom ( name "Dark Castle (USA, Europe).bin" size 142178400 crc 7ADF9390 md5 A477AA7D5652349BABCD742C40953843 sha1 608F5ADA0E1714A8639BD52D3E6E15DA82A0EDB9 serial "813-0005" )
+)
+game (
+	name "Dark Castle (USA, Europe)"
+	region "USA"
+	serial "815-0007"
+	rom ( name "Dark Castle (USA, Europe).bin" size 142178400 crc 7ADF9390 md5 A477AA7D5652349BABCD742C40953843 sha1 608F5ADA0E1714A8639BD52D3E6E15DA82A0EDB9 serial "815-0007" )
 )
 game (
 	name "Dark Fables of Aesop, The (Europe)"
@@ -5756,6 +5788,11 @@ game (
 	rom ( name "Enciclopedia Elettronica Multimediale Grolier - Edizione 2001 (Italy).bin" size 633986304 crc 617D3321 md5 86559C1F54ED053ADFB05758D238B11F sha1 44D9F7CBAF68EB7FDBEEA08694AA59BF6F617E9B )
 )
 game (
+	name "Enciclopedia Elettronica Multimediale Grolier - Edizione 2002 (Italy)"
+	region "Italy"
+	rom ( name "Enciclopedia Elettronica Multimediale Grolier - Edizione 2002 (Italy).bin" size 634691904 crc 6948900B md5 F6CEBEBAC5702E9F4425C8B36D8746FB sha1 73E0D6C7602A0F2F6FAC5CC584E62B64E9470BCD )
+)
+game (
 	name "Engels (Netherlands)"
 	region "Netherlands"
 	serial "350002"
@@ -6420,24 +6457,6 @@ game (
 	rom ( name "Fischer Tennis - Collection 94-95 (Austria).bin" size 532020048 crc 24AD4360 md5 7E6E8BE3FE4DABA57E742EA9011F60BD sha1 0A401521277F2F8B3F40E9F92DA958917664E5B2 )
 )
 game (
-	name "Flashback (Europe)"
-	region "Europe"
-	serial "810-0202"
-	rom ( name "Flashback (Europe).bin" size 259484400 crc D5C68797 md5 D2871941B140EAD3D2086C674956D138 sha1 DEF4E2A40DDD82BEA3F6B6882E1F2BFCE4AAB02B serial "810-0202" )
-)
-game (
-	name "Flashback (Europe)"
-	region "Europe"
-	serial "810-0258"
-	rom ( name "Flashback (Europe).bin" size 259484400 crc D5C68797 md5 D2871941B140EAD3D2086C674956D138 sha1 DEF4E2A40DDD82BEA3F6B6882E1F2BFCE4AAB02B serial "810-0258" )
-)
-game (
-	name "Flashback (Europe)"
-	region "Europe"
-	serial "810-0259"
-	rom ( name "Flashback (Europe).bin" size 259484400 crc D5C68797 md5 D2871941B140EAD3D2086C674956D138 sha1 DEF4E2A40DDD82BEA3F6B6882E1F2BFCE4AAB02B serial "810-0259" )
-)
-game (
 	name "Flashback (Europe) (Beta)"
 	releaseyear "1994"
 	releasemonth "12"
@@ -6445,6 +6464,24 @@ game (
 	region "Europe"
 	serial "810-0202"
 	rom ( name "Flashback (Europe) (Beta) (1994-12-21).bin" size 411717600 crc 5D8E906E md5 7DCF73C654DCFCDC64BE9677D981508E sha1 DB2DF7965DF0E9295A0E57D077BA74CD0DDB3566 serial "810-0202" )
+)
+game (
+	name "Flashback (Europe) (En,Ja,Fr,De,Es,It,Nl)"
+	region "Europe"
+	serial "810-0202"
+	rom ( name "Flashback (Europe) (En,Ja,Fr,De,Es,It,Nl).bin" size 259484400 crc D5C68797 md5 D2871941B140EAD3D2086C674956D138 sha1 DEF4E2A40DDD82BEA3F6B6882E1F2BFCE4AAB02B serial "810-0202" )
+)
+game (
+	name "Flashback (Europe) (En,Ja,Fr,De,Es,It,Nl)"
+	region "Europe"
+	serial "810-0258"
+	rom ( name "Flashback (Europe) (En,Ja,Fr,De,Es,It,Nl).bin" size 259484400 crc D5C68797 md5 D2871941B140EAD3D2086C674956D138 sha1 DEF4E2A40DDD82BEA3F6B6882E1F2BFCE4AAB02B serial "810-0258" )
+)
+game (
+	name "Flashback (Europe) (En,Ja,Fr,De,Es,It,Nl)"
+	region "Europe"
+	serial "810-0259"
+	rom ( name "Flashback (Europe) (En,Ja,Fr,De,Es,It,Nl).bin" size 259484400 crc D5C68797 md5 D2871941B140EAD3D2086C674956D138 sha1 DEF4E2A40DDD82BEA3F6B6882E1F2BFCE4AAB02B serial "810-0259" )
 )
 game (
 	name "Flashback (USA)"
@@ -6878,6 +6915,12 @@ game (
 	region "Europe"
 	serial "813-0018"
 	rom ( name "Golden Oldies Jukebox (Europe).bin" size 625984800 crc 41787623 md5 F554117E674E96B882A7A85F0A05C390 sha1 3E90CC6BD22BAE961FC2EAEB43F35B431F53C479 serial "813-0018" )
+)
+game (
+	name "Golden Oldies Jukebox (Europe)"
+	region "Europe"
+	serial "815-0011"
+	rom ( name "Golden Oldies Jukebox (Europe).bin" size 625984800 crc 41787623 md5 F554117E674E96B882A7A85F0A05C390 sha1 3E90CC6BD22BAE961FC2EAEB43F35B431F53C479 serial "815-0011" )
 )
 game (
 	name "Golden Oldies Jukebox (USA)"
@@ -7653,7 +7696,12 @@ game (
 game (
 	name "Humanum Corpus (Europe) (En,Fr,De,Es,It)"
 	region "Europe"
-	rom ( name "Humanum Corpus (Europe) (En,Fr,De,Es,It).bin" size 530964000 crc 4682A754 md5 C52B2F7F7E14B7E422A48BF09C4DD518 sha1 70FC417F199BFD4FD981E35059F6E8D6DDE91B5A )
+	rom ( name "Humanum Corpus (Europe) (En,Fr,De,Es,It).bin" size 530611200 crc 188CDF65 md5 20F445342D1E9973216F4374A347EEC5 sha1 4A827A97F6BB6EE977D5CDA1A594011AD59DC0D1 )
+)
+game (
+	name "Humanum Corpus (Europe) (En,Fr,De,Es,It) (Rev 1)"
+	region "Europe"
+	rom ( name "Humanum Corpus (Europe) (En,Fr,De,Es,It) (Rev 1).bin" size 530964000 crc 4682A754 md5 C52B2F7F7E14B7E422A48BF09C4DD518 sha1 70FC417F199BFD4FD981E35059F6E8D6DDE91B5A )
 )
 game (
 	name "Hunt for Red October, The (Europe) (Disc 1)"
@@ -8771,6 +8819,12 @@ game (
 	region "France"
 	serial "812-0028"
 	rom ( name "J'Invente Mes Histoires - Histoires Magiques (France).bin" size 204036000 crc 25540887 md5 E6DFB885088D3D76D350243C9B9B2BFC sha1 26C2AC4238F6A6F10767BCA3FD4A2016A774F399 serial "812-0028" )
+)
+game (
+	name "J'invente mes histoires - Reves d'etoiles (France)"
+	region "France"
+	serial "812-0029"
+	rom ( name "J'invente mes histoires - Reves d'etoiles (France).bin" size 208363680 crc 13E3A540 md5 EBCB830B1602572A90D1E3E8766BE724 sha1 3F61F3F11AD8C89E485C85CAE97BB9264E838F68 serial "812-0029" )
 )
 game (
 	name "Jack Sprite vs. the Crimson Ghost (USA)"
@@ -10380,6 +10434,12 @@ game (
 	rom ( name "Louis Armstrong - An American Songbook (USA) (Track 01).bin" size 257990880 crc 893D0E58 md5 9D51048C5BC724FB1579A606521DED8C sha1 2E3CF5CDB4097780652264DE35A619FA79C230BB serial "310690031-2" )
 )
 game (
+	name "Louis Armstrong - An American Songbook (USA)"
+	region "USA"
+	serial "422-843-615-2"
+	rom ( name "Louis Armstrong - An American Songbook (USA) (Track 01).bin" size 257990880 crc 893D0E58 md5 9D51048C5BC724FB1579A606521DED8C sha1 2E3CF5CDB4097780652264DE35A619FA79C230BB serial "422-843-615-2" )
+)
+game (
 	name "Louis Armstrong - An American Songbook (USA) (Beta)"
 	region "USA"
 	rom ( name "Louis Armstrong - An American Songbook (USA) (Beta) (Track 01).bin" size 257983824 crc F10E41D5 md5 86608650C99F9B00FDEA0531E51D91F5 sha1 6711B1473E2A3F641932FF6C8FDBD3F3D3C57AC6 )
@@ -11340,6 +11400,12 @@ game (
 	region "Europe"
 	serial "810-0179"
 	rom ( name "Mutant Rampage - Bodyslam (Europe).bin" size 660888480 crc 294E1D5E md5 D97D9B4A672708CF9A6E18BE7F1E3349 sha1 8B537699B450FD683CCABE27FF29395860BF9AA3 serial "810-0179" )
+)
+game (
+	name "Mutant Rampage - Bodyslam (Europe)"
+	region "Europe"
+	serial "810-0208"
+	rom ( name "Mutant Rampage - Bodyslam (Europe).bin" size 660888480 crc 294E1D5E md5 D97D9B4A672708CF9A6E18BE7F1E3349 sha1 8B537699B450FD683CCABE27FF29395860BF9AA3 serial "810-0208" )
 )
 game (
 	name "Mutant Rampage - Bodyslam (USA)"
@@ -13407,10 +13473,10 @@ game (
 	rom ( name "Richard Scarry's Best Neighborhood Disc Ever! (USA) (Rev 1).bin" size 245725200 crc 87F26BB4 md5 F20E4696ED75E4D8951B1289C0D49A9A sha1 4CB2CA515BA1C76EDF1E3A1BAB44DD0611EC99F7 serial "310690037-2" )
 )
 game (
-	name "Richard Scarry's Best Neighbourhood Disc Ever - Richard Scarry no Saikou ni Tanoshii Nakama-tachi (Japan)"
+	name "Richard Scarry's Best Neighbourhood Disc Ever - Richard Scarry no Saikou ni Tanoshii Nakamatachi (Japan)"
 	region "Japan"
 	serial "PCIM-00021"
-	rom ( name "Richard Scarry's Best Neighbourhood Disc Ever - Richard Scarry no Saikou ni Tanoshii Nakama-tachi (Japan).bin" size 249429600 crc 697D3B26 md5 E42EF3337EC4434C4DBFE3E41D3AE9BB sha1 EC643657F387DE612868DA01CF7E866C0CE9BF21 serial "PCIM-00021" )
+	rom ( name "Richard Scarry's Best Neighbourhood Disc Ever - Richard Scarry no Saikou ni Tanoshii Nakamatachi (Japan).bin" size 249429600 crc 697D3B26 md5 E42EF3337EC4434C4DBFE3E41D3AE9BB sha1 EC643657F387DE612868DA01CF7E866C0CE9BF21 serial "PCIM-00021" )
 )
 game (
 	name "Richard Scarry's Busiest Neighborhood Disc Ever! (USA)"
@@ -13446,10 +13512,10 @@ game (
 	rom ( name "Richard Scarry's Busiest Neighborhood Disc Ever! (World).bin" size 276066000 crc 889224AB md5 B053F5B6CD4707555EB9AFB7305AA7C6 sha1 D710261ACCF89BA46AFAA58BCC568920DCE32810 serial "PCIM-00010" )
 )
 game (
-	name "Richard Scarry's Busiest Neighbourhood Disc Ever - Richard Scarry no Isogashii Nakama-tachi (Japan)"
+	name "Richard Scarry's Busiest Neighbourhood Disc Ever - Richard Scarry no Isogashii Nakamatachi (Japan)"
 	region "Japan"
 	serial "PCIM-00020"
-	rom ( name "Richard Scarry's Busiest Neighbourhood Disc Ever - Richard Scarry no Isogashii Nakama-tachi (Japan).bin" size 281275680 crc EDEAD5AF md5 D7214958DF056902699A6F02A2164C6A sha1 0483BA38E575A23572835084C1F20BEEAB70A8AA serial "PCIM-00020" )
+	rom ( name "Richard Scarry's Busiest Neighbourhood Disc Ever - Richard Scarry no Isogashii Nakamatachi (Japan).bin" size 281275680 crc EDEAD5AF md5 D7214958DF056902699A6F02A2164C6A sha1 0483BA38E575A23572835084C1F20BEEAB70A8AA serial "PCIM-00020" )
 )
 game (
 	name "Richard Scarry's wunderbarste Geschichten aus Schaffenau (Germany)"
@@ -13681,6 +13747,12 @@ game (
 	region "Europe"
 	serial "814-0042"
 	rom ( name "Sargon Chess (Europe).bin" size 396170880 crc 1B60A603 md5 6735CD5EC37AC322F60587316B1F5D1F sha1 C1320AB7F7A976F08773753868C3BF6FB42A49DF serial "814-0042" )
+)
+game (
+	name "Sargon Chess (Europe)"
+	region "Europe"
+	serial "815-0018"
+	rom ( name "Sargon Chess (Europe).bin" size 396170880 crc 1B60A603 md5 6735CD5EC37AC322F60587316B1F5D1F sha1 C1320AB7F7A976F08773753868C3BF6FB42A49DF serial "815-0018" )
 )
 game (
 	name "Sargon Chess (USA)"
@@ -15332,28 +15404,34 @@ game (
 	rom ( name "Tom - Il Dizionario Magico (Italy) (En,Fr,It).bin" size 188571600 crc 6CCC10E5 md5 08A6EFEE6AF694D45E9B0EE0C5BAA5B2 sha1 9A77F43289C1C8C8030B2F997C7C7962887F7B5A serial "815-0043" )
 )
 game (
-	name "Tom - Magic Picture Show (Europe)"
+	name "Tom - Magic Picture Show (Europe) (En,Fr,Es)"
 	region "Europe"
 	serial "810-0015"
-	rom ( name "Tom - Magic Picture Show (Europe).bin" size 189100800 crc 9E96B168 md5 3072E43FA2F54047ACAF9116F881AD0B sha1 827FEE1FC84041A641310B271554C84AC3523EDB serial "810-0015" )
+	rom ( name "Tom - Magic Picture Show (Europe) (En,Fr,Es).bin" size 189277200 crc AED2F62E md5 298DB6EB4B0C8D6FDE9FDB254FEE3E81 sha1 5676B9F9427B22295A14C3043FF7F9E48E29D345 serial "810-0015" )
 )
 game (
-	name "Tom's Magic Picture Show (Europe)"
-	region "Europe"
-	serial "810-0015"
-	rom ( name "Tom's Magic Picture Show (Europe).bin" size 189277200 crc AED2F62E md5 298DB6EB4B0C8D6FDE9FDB254FEE3E81 sha1 5676B9F9427B22295A14C3043FF7F9E48E29D345 serial "810-0015" )
-)
-game (
-	name "Tom's Magic Picture Show (Europe)"
+	name "Tom - Magic Picture Show (Europe) (En,Fr,Es)"
 	region "Europe"
 	serial "811-0009"
-	rom ( name "Tom's Magic Picture Show (Europe).bin" size 189277200 crc AED2F62E md5 298DB6EB4B0C8D6FDE9FDB254FEE3E81 sha1 5676B9F9427B22295A14C3043FF7F9E48E29D345 serial "811-0009" )
+	rom ( name "Tom - Magic Picture Show (Europe) (En,Fr,Es).bin" size 189277200 crc AED2F62E md5 298DB6EB4B0C8D6FDE9FDB254FEE3E81 sha1 5676B9F9427B22295A14C3043FF7F9E48E29D345 serial "811-0009" )
 )
 game (
-	name "Tom's Magic Picture Show (Europe)"
+	name "Tom - Magic Picture Show (Europe) (En,Fr,Es)"
 	region "Europe"
 	serial "812-0021"
-	rom ( name "Tom's Magic Picture Show (Europe).bin" size 189277200 crc AED2F62E md5 298DB6EB4B0C8D6FDE9FDB254FEE3E81 sha1 5676B9F9427B22295A14C3043FF7F9E48E29D345 serial "812-0021" )
+	rom ( name "Tom - Magic Picture Show (Europe) (En,Fr,Es).bin" size 189277200 crc AED2F62E md5 298DB6EB4B0C8D6FDE9FDB254FEE3E81 sha1 5676B9F9427B22295A14C3043FF7F9E48E29D345 serial "812-0021" )
+)
+game (
+	name "Tom - Magic Picture Show (Europe) (En,Fr,Es) (v2.03)"
+	region "Europe"
+	serial "810-0015"
+	rom ( name "Tom - Magic Picture Show (Europe) (En,Fr,Es) (v2.03).bin" size 189100800 crc 9E96B168 md5 3072E43FA2F54047ACAF9116F881AD0B sha1 827FEE1FC84041A641310B271554C84AC3523EDB serial "810-0015" )
+)
+game (
+	name "Tom - Magic Picture Show (Europe) (En,Fr,Es) (v2.03)"
+	region "Europe"
+	serial "8120021"
+	rom ( name "Tom - Magic Picture Show (Europe) (En,Fr,Es) (v2.03).bin" size 189100800 crc 9E96B168 md5 3072E43FA2F54047ACAF9116F881AD0B sha1 827FEE1FC84041A641310B271554C84AC3523EDB serial "8120021" )
 )
 game (
 	name "Top Gun (France) (Disc 1)"
@@ -15666,6 +15744,12 @@ game (
 	region "Italy"
 	serial "NAI-10.6"
 	rom ( name "Universal CD-ROM - New Age Interactive 10.6 (Italy) (En,It).bin" size 550019904 crc A374C3A5 md5 894DBE5107099106B64840A46392BEFF sha1 A7AFE836071B5C1B14ABC1686BEF9E6609F3F1ED serial "NAI-10.6" )
+)
+game (
+	name "Universal CD-ROM - New Age Interactive 11.7 (Italy) (En,It)"
+	region "Italy"
+	serial "NAI-11.7"
+	rom ( name "Universal CD-ROM - New Age Interactive 11.7 (Italy) (En,It).bin" size 608937504 crc 6D440956 md5 FC4D8895E094923E39DC97B541AC624B sha1 9604504A6E71A508262197C3EFBCBE9BD9D57AC7 serial "NAI-11.7" )
 )
 game (
 	name "Universal CD-ROM - New Age Interactive 12.8 (Italy) (En,It)"

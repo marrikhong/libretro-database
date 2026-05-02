@@ -1,7 +1,7 @@
 clrmamepro (
 	name "Nintendo - Nintendo DS"
 	description "Nintendo - Nintendo DS"
-	version "2026.03.30"
+	version "2026.05.02"
 	homepage "http://github.com/robloach/libretro-dats"
 )
 
@@ -1140,6 +1140,11 @@ game (
 	region "USA"
 	serial "AEKE"
 	rom ( name "Age of Empires - The Age of Kings (USA).nds" size 67108864 crc F49A566E md5 5D25798EA86F42FF345C812A0955E656 sha1 E92B412DD09B826F3D0978BD9C4058E4FC310EEE serial "AEKE" )
+)
+game (
+	name "Agent Hugo - Fly Guyz! (Europe) (Proto)"
+	region "Europe"
+	rom ( name "Agent Hugo - Fly Guyz! (Europe) (Proto).nds" size 8388608 crc AC01411B md5 D8635661B6DA8C6C19DE7E581305755E sha1 3E4F5EB5750089F85941C18271BC599C8EF2CF35 )
 )
 game (
 	name "Aibou DS (Japan)"
@@ -3437,7 +3442,7 @@ game (
 	name "Beetle Junior DS (Europe) (En,Fr,De)"
 	region "Europe"
 	serial "YBJP"
-	rom ( name "Beetle Junior DS (Europe) (En,Fr,De).nds" size 8388608 crc DA8280BC md5 53579DEE2493367C1E3D4BC530F9FDC3 sha1 DB675C47AEE5A1494CD7BA21747BFAA75B50E538 serial "YBJP" )
+	rom ( name "Beetle Junior DS (Europe) (En,Fr,De).nds" size 8388608 crc A81BBC55 md5 E925BC829867226AF545FB9E348B021A sha1 224220D7DD8A5B39EC8B542EF5BE8122A0D71537 serial "YBJP" )
 )
 game (
 	name "Beetle King (Europe)"
@@ -4326,6 +4331,12 @@ game (
 	region "Japan"
 	serial "CB9J"
 	rom ( name "Bokujou Monogatari - Youkoso! Kaze no Bazaar e (Japan).nds" size 134217728 crc 90C10BD9 md5 1C7BDE5C345C4CD11D7E80B77B9B8CC5 sha1 93B159BBC3B4297A83F1A0BF078D9A2B301E557D serial "CB9J" )
+)
+game (
+	name "Bokujou Monogatari - Youkoso! Kaze no Bazaar e (Japan) (Rev 1)"
+	region "Japan"
+	serial "CB9J"
+	rom ( name "Bokujou Monogatari - Youkoso! Kaze no Bazaar e (Japan) (Rev 1).nds" size 134217728 crc EAEAC3F0 md5 992CAB2931A8396F5FC3D21DC708A4A1 sha1 0E99C50DD4DB0D1114BBA8FF29B17A858480309F serial "CB9J" )
 )
 game (
 	name "Bokujou Monogatari - Youkoso! Kaze no Bazaar e (Japan) (Rev 2)"
@@ -9239,6 +9250,11 @@ game (
 	rom ( name "Disney Frozen - Olaf's Quest (USA).nds" size 16777216 crc ABBD52CB md5 BF5996ACDBA1AB3AEE633C3021B12D69 sha1 03B7A20ADAECA61476CD739F95F1779234867854 serial "TFBE" )
 )
 game (
+	name "Disney Magic Connection (USA) (Proto)"
+	region "USA"
+	rom ( name "Disney Magic Connection (USA) (Proto).nds" size 16777216 crc B28C5C9A md5 AAEF4F92B3DB295F46CFB624CC7DB5CF sha1 C951F7393F134BF68BBE47C6417400BA73D8D6D9 )
+)
+game (
 	name "Disney Planes (Europe) (En,Es)"
 	region "Europe"
 	serial "TPDP"
@@ -9557,6 +9573,14 @@ game (
 	region "Europe"
 	serial "YDXP"
 	rom ( name "Donkey Xote (Europe) (En,Fr,De,Es,It).nds" size 67108864 crc 6C8C03A6 md5 CFD1521BDB2788B4E03D665805917343 sha1 70153AF4EEB8A7F4DD058CAE9515261AD5537D98 serial "YDXP" )
+)
+game (
+	name "Donsol (World)"
+	rom ( name "Donsol (World) (Aftermarket) (Unl).nds" size 205824 crc 36B3F466 md5 02D8B10517B2F2869F48A121E4E96AC5 sha1 8EACF9B8D6437341AC76C61825CA9A364E4C249A )
+)
+game (
+	name "Donsol (World)"
+	rom ( name "Donsol (World) (Aftermarket) (Unl).nds" size 205824 crc 36B3F466 md5 02D8B10517B2F2869F48A121E4E96AC5 sha1 8EACF9B8D6437341AC76C61825CA9A364E4C249A )
 )
 game (
 	name "Doodle Hex (Europe) (En,Fr,De,Es,It)"
@@ -10909,7 +10933,7 @@ game (
 	name "Eiken-ou - 2-kyuu Hen (Japan)"
 	region "Japan"
 	serial "YEZJ"
-	rom ( name "Eiken-ou - 2-kyuu Hen (Japan).nds" size 67108864 crc 875EF10B md5 A2A2744E0D8FB890BF3C6E3F099FD583 sha1 D51844356FE275E81547ADE92F38A0829A910571 serial "YEZJ" )
+	rom ( name "Eiken-ou - 2-kyuu Hen (Japan).nds" size 67108864 crc 1615C559 md5 8CBAE165CD7E8B15C7B00EDB62EFFBA1 sha1 FEBED22138448B4F6D6F6B8153C864CE9DFFEA56 serial "YEZJ" )
 )
 game (
 	name "Eiken-ou - 3-kyuu Hen (Japan)"
@@ -12582,10 +12606,10 @@ game (
 	rom ( name "Franzis Gedaechtnis Trainer (Germany).nds" size 8388608 crc EB0017BE md5 F1B839ED0E0ADB5A36984BA9ECF20FFD sha1 98664D6603E4C2AF7F6E8AA021CCE17848C625DB serial "CGZP" )
 )
 game (
-	name "Franzoesisch Buddy (Europe) (De)"
+	name "Franzoesisch Buddy (Europe) (Fr,De,Es,It)"
 	region "Europe"
 	serial "CBJP"
-	rom ( name "Franzoesisch Buddy (Europe) (De).nds" size 134217728 crc 375D3A2C md5 1B14587D11BF1AEF38A27C283F6AE9B0 sha1 1FC745424193330868258B505E3A9E1E6D055EBB serial "CBJP" )
+	rom ( name "Franzoesisch Buddy (Europe) (Fr,De,Es,It).nds" size 134217728 crc 375D3A2C md5 1B14587D11BF1AEF38A27C283F6AE9B0 sha1 1FC745424193330868258B505E3A9E1E6D055EBB serial "CBJP" )
 )
 game (
 	name "Freddi Fish - ABC under the Sea (Europe) (En,Fr,De,Es,It,Nl)"
@@ -13412,6 +13436,11 @@ game (
 	region "Japan"
 	serial "YG4J"
 	rom ( name "Gensou Suikoden - Tierkreis (Japan).nds" size 268435456 crc C18565FE md5 CAE963138F2C7DCB62312C7409C42EEC sha1 1FB1806B17AEC90344AE7746DAFDE646CD7AE873 serial "YG4J" )
+)
+game (
+	name "GeoTrip (Europe) (Auto Demo)"
+	region "Europe"
+	rom ( name "GeoTrip (Europe) (Auto Demo).nds" size 8388608 crc 7498BF9B md5 BB135AFCE8F4A689D7B8F2571E181F67 sha1 A575A2B83914D3CF0845137DA790279CE95565A3 )
 )
 game (
 	name "Geojisui Yunmugok (Korea)"
@@ -16269,10 +16298,10 @@ game (
 	rom ( name "I Spy - Fun House (Europe) (En,Fr,De,It,Nl).nds" size 33554432 crc 81D00CED md5 273D864FA11DC0E25A7F600724F7E4A2 sha1 6ABFF751C658C2B41E5F9AA218C219BCBB942841 serial "YP5X" )
 )
 game (
-	name "I Spy - Fun House (Europe) (En,Ru) (Beta)"
+	name "I Spy - Fun House (Europe) (En,Ru) (Proto)"
 	region "Europe"
 	serial "YP5X"
-	rom ( name "I Spy - Fun House (Europe) (En,Ru) (Beta).nds" size 67108864 crc C046E007 md5 CA5F89627022055F167482EFA16AC84C sha1 72D0C12A7022FE9F036939CA5721B74CA76234B2 serial "YP5X" )
+	rom ( name "I Spy - Fun House (Europe) (En,Ru) (Proto).nds" size 67108864 crc C046E007 md5 CA5F89627022055F167482EFA16AC84C sha1 72D0C12A7022FE9F036939CA5721B74CA76234B2 serial "YP5X" )
 )
 game (
 	name "I Spy - Fun House (USA)"
@@ -20565,10 +20594,19 @@ game (
 	rom ( name "LEGO Harry Potter - Years 1-4 (Europe) (En,Fr,De,Es,It,Da).nds" size 134217728 crc C2622E34 md5 0ACB799E11436683EA82BC41987759C1 sha1 16DC12AD62DBABB360CA56412A0C9D91C4D34CE2 serial "BLHP" )
 )
 game (
-	name "LEGO Harry Potter - Years 1-4 (Europe) (En,Fr,De,Es,It,Da) (Beta)"
+	name "LEGO Harry Potter - Years 1-4 (Europe) (En,Fr,De,Es,It,Da) (Beta 1)"
+	releaseyear "2010"
+	releasemonth "07"
+	releaseday "31"
 	region "Europe"
 	serial "BLHP"
-	rom ( name "LEGO Harry Potter - Years 1-4 (Europe) (En,Fr,De,Es,It,Da) (Beta).nds" size 134217728 crc CE95285E md5 0C44DE7CB900BB461CA74B3A438FEB42 sha1 3FD2C114E72FDBD81011F0E05D4AC599FC4EC8AD serial "BLHP" )
+	rom ( name "LEGO Harry Potter - Years 1-4 (Europe) (En,Fr,De,Es,It,Da) (Beta 1) (2010-07-31).nds" size 134217728 crc 441679A4 md5 6010639439E94CBE843D563DF0CE87E4 sha1 B4841BD49359C2008FA5A210A13A85C2A6DA6F5D serial "BLHP" )
+)
+game (
+	name "LEGO Harry Potter - Years 1-4 (Europe) (En,Fr,De,Es,It,Da) (Beta 2)"
+	region "Europe"
+	serial "BLHP"
+	rom ( name "LEGO Harry Potter - Years 1-4 (Europe) (En,Fr,De,Es,It,Da) (Beta 2).nds" size 134217728 crc CE95285E md5 0C44DE7CB900BB461CA74B3A438FEB42 sha1 3FD2C114E72FDBD81011F0E05D4AC599FC4EC8AD serial "BLHP" )
 )
 game (
 	name "LEGO Harry Potter - Years 1-4 (USA) (En,Fr,Es)"
@@ -22961,18 +22999,6 @@ game (
 	rom ( name "Mahjong - Eine Reise um die Welt (Europe) (En,Fr,De,Es,It).nds" size 16777216 crc B2EE7DCB md5 AE35FE57EC25C87C1DACD8F58C03CE15 sha1 F5158977023C247FE8DA625CBB14BF380D962122 serial "CMJP" )
 )
 game (
-	name "Mahjong Fight Club DS - Wi-Fi Taiou (Japan)"
-	region "Japan"
-	serial "AC5J"
-	rom ( name "Mahjong Fight Club DS - Wi-Fi Taiou (Japan).nds" size 33554432 crc 4F3EA785 md5 EC1EF88FFF25EE59FDDB253507439497 sha1 10972BF532F0CF39D9FBD44AAC858021F9F7190E serial "AC5J" )
-)
-game (
-	name "Mahjong Fight Club DS - Wi-Fi Taiou (Japan) (Rev 1)"
-	region "Japan"
-	serial "AC5J"
-	rom ( name "Mahjong Fight Club DS - Wi-Fi Taiou (Japan) (Rev 1).nds" size 33554432 crc BA6BBC4C md5 9168D3DF09CBAA165DABD5EB4E268842 sha1 C036FD4AD24AF48727C80B4B273B8598C57FE22D serial "AC5J" )
-)
-game (
 	name "Mahjong Haou DS - Dan-Kyuu Battle (Japan)"
 	region "Japan"
 	serial "YHOJ"
@@ -24198,10 +24224,10 @@ game (
 	rom ( name "May's Mystery - Forbidden Memories (USA).nds" size 67108864 crc F97274C6 md5 01F5115F04448E099AB36BA00CD2273B sha1 D7B8BDDFF89285C0CA8F54F970AF6C6751DF9EFB serial "B8HE" )
 )
 game (
-	name "Maya (Europe) (Es,It)"
+	name "Maya (Europe) (Fr,Es)"
 	region "Europe"
 	serial "TMJY"
-	rom ( name "Maya (Europe) (Es,It).nds" size 33554432 crc 305E142D md5 847B767A7ED517EBCAAF763FDFE29F0A sha1 20D04B25DA8BEAE9508839D226BBCA32C352382C serial "TMJY" )
+	rom ( name "Maya (Europe) (Fr,Es).nds" size 33554432 crc 305E142D md5 847B767A7ED517EBCAAF763FDFE29F0A sha1 20D04B25DA8BEAE9508839D226BBCA32C352382C serial "TMJY" )
 )
 game (
 	name "Mazes of Fate DS (Europe) (En,Fr,De,Es,It)"
@@ -26046,7 +26072,7 @@ game (
 	name "Moorhuhn - Jewel of Darkness (Europe) (En,Fr,De)"
 	region "Europe"
 	serial "YJWP"
-	rom ( name "Moorhuhn - Jewel of Darkness (Europe) (En,Fr,De).nds" size 8388608 crc DFAE3C2C md5 732B0B44F7A936D5350FD04913993F51 sha1 D0B58F2C4E48ADD2A4C6E2A9ABDA0BC2F79D1BDE serial "YJWP" )
+	rom ( name "Moorhuhn - Jewel of Darkness (Europe) (En,Fr,De).nds" size 8388608 crc 0830565E md5 DB03901E951C8FC87A9DC48C4C1246DB sha1 95DEEDF13E397DC2D15F12D540FC48CB942858A8 serial "YJWP" )
 )
 game (
 	name "Moorhuhn - Star Karts (Europe) (En,Fr,De,Es,It)"
@@ -28576,6 +28602,12 @@ game (
 	region "Japan"
 	serial "UBRJ"
 	rom ( name "Nintendo DS Browser (Japan).nds" size 8388608 crc AF000EB8 md5 832FB52D76F0C0ED8A5321C93238113B sha1 237E560326F9F0CFA4EC0C7937D9379EFD4143E1 serial "UBRJ" )
+)
+game (
+	name "Nintendo DS Browser (Japan) (Rev 1)"
+	region "Japan"
+	serial "UBRJ"
+	rom ( name "Nintendo DS Browser (Japan) (Rev 1).nds" size 8388608 crc 1BF036BC md5 4BD0E922CF96DCCEB71436F1022A6DF5 sha1 AF3BC8CCF0FE9AE28D1BF8EB19FB13B59C8555F2 serial "UBRJ" )
 )
 game (
 	name "Nintendo DS Browser (USA, Europe) (En,Fr,De,Es,It)"
@@ -31876,6 +31908,12 @@ game (
 	rom ( name "Pokemon Fushigi no Dungeon - Sora no Tankentai (Japan).nds" size 134217728 crc 8F9ED0D9 md5 87F62906D8367F6E51A9BC928B0E3612 sha1 7785138DD343B6F2D0F2C9CADC26B4AA927161D7 serial "C2SJ" )
 )
 game (
+	name "Pokemon Fushigi no Dungeon - Sora no Tankentai (Japan) (Rev 2)"
+	region "Japan"
+	serial "C2SJ"
+	rom ( name "Pokemon Fushigi no Dungeon - Sora no Tankentai (Japan) (Rev 2).nds" size 134217728 crc 69F9CE34 md5 41CFE1FBB9282961E8C694191BAFEC77 sha1 764764D3202123FA3F037C224D7A85FB9CB8684C serial "C2SJ" )
+)
+game (
 	name "Pokemon Fushigi no Dungeon - Sora no Tankentai (Japan) (Rev 2) (Wii U Virtual Console)"
 	region "Japan"
 	serial "WUP-N-DA4J"
@@ -32299,7 +32337,7 @@ game (
 	name "Postman Pat (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)"
 	region "Europe"
 	serial "YP6P"
-	rom ( name "Postman Pat (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi).nds" size 16777216 crc 1A00C050 md5 7476639C5C721B6FA2E6BEF545BEDDB5 sha1 9E795D9113204795C543D3A124485C305B73288C serial "YP6P" )
+	rom ( name "Postman Pat (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi).nds" size 16777216 crc AA3AE7CD md5 9F1EC6239FEB3C9DFB9E1CE9C0F1F43E sha1 AD525EDB01735330E15DE522FC72D04FC65B796F serial "YP6P" )
 )
 game (
 	name "Postman Pat - Special Delivery Service (Europe)"
@@ -33949,6 +33987,12 @@ game (
 	rom ( name "Ratatouille - Food Frenzy (USA).nds" size 33554432 crc 586D919B md5 A6713E4F1ECE17F33C97FD8E61D19784 sha1 00541BF37E42A6268E36FCFDAAD897C6817F029C serial "YRLE" )
 )
 game (
+	name "Raw Numbers (United Kingdom) (Proto) (Wi-Fi Kiosk)"
+	region "United Kingdom"
+	serial "NTRJ"
+	rom ( name "Raw Numbers (United Kingdom) (Proto) (Wi-Fi Kiosk).nds" size 8388608 crc 27923AB9 md5 5A7063484C6C960E3479F009CF79376A sha1 37886F08D1FEE24D752184A681B897EAE9395528 serial "NTRJ" )
+)
+game (
 	name "Rayman - Raving Rabbids (Europe) (En,Fr,De,Es,It,Nl)"
 	region "Europe"
 	serial "AR5P"
@@ -34421,6 +34465,15 @@ game (
 	region "Europe"
 	serial "VRIV"
 	rom ( name "Rio (Europe) (En,Fr,De,Es,It,Nl) (NDSi Enhanced).nds" size 33554432 crc 55BAFF67 md5 AB06522404DACC27CAD17374854F4C2C sha1 5BAFAA532E13590107952C2CBF678E529D712F63 serial "VRIV" )
+)
+game (
+	name "Rio (USA) (Beta)"
+	releaseyear "2010"
+	releasemonth "07"
+	releaseday "09"
+	region "USA"
+	serial "NTRJ"
+	rom ( name "Rio (USA) (Beta) (2010-07-09).nds" size 3625984 crc 34545EED md5 2BD987C27AF06F3D812CDA0A314CAE7A sha1 2AE12DA883EAF9E370A0692A90458C6261EA92A4 serial "NTRJ" )
 )
 game (
 	name "Rio (USA) (En,Fr,De,Es,It,Nl) (NDSi Enhanced)"
@@ -35060,7 +35113,7 @@ game (
 	name "Sakasete! Chibi-Robo! (Japan)"
 	region "Japan"
 	serial "AJBJ"
-	rom ( name "Sakasete! Chibi-Robo! (Japan).nds" size 67108864 crc AB233B8C md5 85FB1C6490DAEA485CAD5FA04D3BCC81 sha1 0FBF5AFA80AF4605F70DBCF41ED56F5740187DDC serial "AJBJ" )
+	rom ( name "Sakasete! Chibi-Robo! (Japan).nds" size 67108864 crc B77D7EA5 md5 855BFA33D378BD5B42A2299F8F952BB6 sha1 B67DFDEA892BB8F149EBE051D3BE242A41F0AC54 serial "AJBJ" )
 )
 game (
 	name "Sakashou DS (Japan)"
@@ -39829,7 +39882,10 @@ game (
 	rom ( name "Tale of Despereaux, The (USA) (En,Fr).nds" size 67108864 crc A5885631 md5 423AFDC31C17FA1D7F4D00D166C6A562 sha1 76BEAB4CEDA8CC8CE51D384EC50FCF7777135DFA serial "CUXE" )
 )
 game (
-	name "Tales of Dagur (World) (2025-03-25) (BlocksDS)"
+	name "Tales of Dagur (World) (BlocksDS)"
+	releaseyear "2025"
+	releasemonth "03"
+	releaseday "25"
 	rom ( name "Tales of Dagur (World) (2025-03-25) (BlocksDS) (Unl).nds" size 3334144 crc FF7ED993 md5 CE43ABED57CE388C02D2E85B7337F594 sha1 DF4D38F9FAF11B739018568A1096F6E5151F9FA6 )
 )
 game (
@@ -40389,6 +40445,14 @@ game (
 	rom ( name "Tentsunagi (Japan) (Rev 1) (Nintendo Game Seminar 2009).bin" size 1277460 crc 1788E922 md5 C74503C5356E2303862C5E736B3739C9 sha1 5FB66D5FDD26806A1082AB68A43FB6FEDA28D634 )
 )
 game (
+	name "Terri-Fried (World)"
+	rom ( name "Terri-Fried (World) (Aftermarket) (Unl).nds" size 633856 crc ADBF4951 md5 F446092832EDC6539ED39DC193121C17 sha1 A425A3994E043BA33672C5D5C12B509FE9B1A3AC )
+)
+game (
+	name "Terri-Fried (World)"
+	rom ( name "Terri-Fried (World) (Aftermarket) (Unl).nds" size 633856 crc ADBF4951 md5 F446092832EDC6539ED39DC193121C17 sha1 A425A3994E043BA33672C5D5C12B509FE9B1A3AC )
+)
+game (
 	name "Tetris & Touch (World) (Datel Games n' Music)"
 	rom ( name "Tetris & Touch (World) (Datel Games n' Music) (Unl).nds" size 1373193 crc C1253A92 md5 FE5E12316E1A33F487B0A332638E72E9 sha1 D0BBE5AF246D8661EA1DF8438699BB49715954C2 )
 )
@@ -40507,7 +40571,7 @@ game (
 	name "That's QT (Japan)"
 	region "Japan"
 	serial "CQTJ"
-	rom ( name "That's QT (Japan).nds" size 67108864 crc 67D017C2 md5 06CE5DCF124B61A5F855ECBD7C59BB99 sha1 E83216076AA9DE237359EFD80BB373D500A173C5 serial "CQTJ" )
+	rom ( name "That's QT (Japan).nds" size 67108864 crc F03C3F36 md5 DB007AAAA9231609AEE751E06725FA8D sha1 43F41DF692BE01FB70C0177C7EC1590641D7261F serial "CQTJ" )
 )
 game (
 	name "That's QT (Japan) (Rev 1)"
@@ -43363,7 +43427,7 @@ game (
 game (
 	name "Virtual Piano (USA) (Proto 1)"
 	region "USA"
-	rom ( name "Virtual Piano (USA) (Proto 1).nds" size 8388608 crc D2D78BBF md5 6F8C292F5BDAA208F1428A1C51C7B577 sha1 1DF5F1DB631BC7F03DF9F6CF5D78394F15105A0B )
+	rom ( name "Virtual Piano (USA) (Proto 1).nds" size 4194304 crc DB3E1A96 md5 4E6524A74861C2C1D7BB6C3F72C0B88B sha1 4E9DE4F8E80D9231C53AE2BDD42CD47A8B52EB86 )
 )
 game (
 	name "Virtual Piano (USA) (Proto 2)"
@@ -43897,6 +43961,18 @@ game (
 	region "Japan"
 	serial "AWYJ"
 	rom ( name "Wi-Fi Taiou - Gensen Table Game DS (Japan).nds" size 33554432 crc EABBD5F0 md5 9787E25218D6E693595975E106DF04D5 sha1 323AD6913F6B6BD30714340DE07DE4907588A17A serial "AWYJ" )
+)
+game (
+	name "Wi-Fi Taiou - Mahjong Fight Club DS (Japan)"
+	region "Japan"
+	serial "AC5J"
+	rom ( name "Wi-Fi Taiou - Mahjong Fight Club DS (Japan).nds" size 33554432 crc 4F3EA785 md5 EC1EF88FFF25EE59FDDB253507439497 sha1 10972BF532F0CF39D9FBD44AAC858021F9F7190E serial "AC5J" )
+)
+game (
+	name "Wi-Fi Taiou - Mahjong Fight Club DS (Japan) (Rev 1)"
+	region "Japan"
+	serial "AC5J"
+	rom ( name "Wi-Fi Taiou - Mahjong Fight Club DS (Japan) (Rev 1).nds" size 33554432 crc BA6BBC4C md5 9168D3DF09CBAA165DABD5EB4E268842 sha1 C036FD4AD24AF48727C80B4B273B8598C57FE22D serial "AC5J" )
 )
 game (
 	name "Wi-Fi Taiou - Morita Shougi DS (Japan)"
@@ -46022,12 +46098,6 @@ game (
 	name "iTouch DS (World)"
 	serial "AMFE"
 	rom ( name "iTouch DS (World) (Unl).nds" size 262144 crc B79BA60E md5 C6656E54D53D407592B7375C2104780E sha1 1AD76674DE1BDAD48A99BD035C6B1A61B579A3D7 serial "AMFE" )
-)
-game (
-	name "raw numbers game (United Kingdom) (Wi-Fi Kiosk, Dev Cart)"
-	region "United Kingdom"
-	serial "NTRJ"
-	rom ( name "raw numbers game (United Kingdom) (Wi-Fi Kiosk, Dev Cart).nds" size 8388608 crc 27923AB9 md5 5A7063484C6C960E3479F009CF79376A sha1 37886F08D1FEE24D752184A681B897EAE9395528 serial "NTRJ" )
 )
 game (
 	name "th!nk - Logic Trainer (USA)"

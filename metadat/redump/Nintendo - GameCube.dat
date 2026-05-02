@@ -1,7 +1,7 @@
 clrmamepro (
 	name "Nintendo - GameCube"
 	description "Nintendo - GameCube"
-	version "2026.03.30"
+	version "2026.05.02"
 	homepage "http://github.com/robloach/libretro-dats"
 )
 
@@ -1253,10 +1253,10 @@ game (
 	rom ( name "Biohazard Zero (Japan) (Disc 2).iso" size 1459978240 crc FB5B204A md5 CCD0978D8E5B3B4D4C69B5460B1E410A sha1 5D1D5FBC8DE48403764CBF812C9BF6D5392919EB serial "DL-DOL-GBZJ-1-JPN-1" )
 )
 game (
-	name "Biohazard Zero - Trial Edition (Japan)"
+	name "Biohazard Zero - Trial Edition (Japan) (Jitsuen-you Sample)"
 	region "Japan"
 	serial "DL-DOL-DBZJ-DIS"
-	rom ( name "Biohazard Zero - Trial Edition (Japan).iso" size 1459978240 crc C089501E md5 C899FF60D41EAA5ACC3E79D95264AE19 sha1 4BDEEF939026E8EEF36802703C29B5F77281A18C serial "DL-DOL-DBZJ-DIS" )
+	rom ( name "Biohazard Zero - Trial Edition (Japan) (Jitsuen-you Sample).iso" size 1459978240 crc C089501E md5 C899FF60D41EAA5ACC3E79D95264AE19 sha1 4BDEEF939026E8EEF36802703C29B5F77281A18C serial "DL-DOL-DBZJ-DIS" )
 )
 game (
 	name "Bionicle (Europe) (En,Fr,De,Es,It,Da)"
@@ -2216,10 +2216,10 @@ game (
 	rom ( name "Dakar 2 (Europe) (En,Fr,De,Es,It).iso" size 1459978240 crc 010D1982 md5 DC71D75741CF8761BFB95160E07E52D5 sha1 6C02418BE937CF90856C5E67913BFE13E5BCBB2A serial "DL-DOL-GPDP-EUR" )
 )
 game (
-	name "Dakar 2 - The World's Ultimate Rally (USA) (En,Fr,De,Es,It)"
+	name "Dakar 2 (USA) (En,Fr,De,Es,It)"
 	region "USA"
 	serial "DL-DOL-GPDE-USA"
-	rom ( name "Dakar 2 - The World's Ultimate Rally (USA) (En,Fr,De,Es,It).iso" size 1459978240 crc FD421F87 md5 B603F891B9601B1E09E359919595A679 sha1 D87EDCB7E85EB7C2E068F3FCA99FCAFD1486288C serial "DL-DOL-GPDE-USA" )
+	rom ( name "Dakar 2 (USA) (En,Fr,De,Es,It).iso" size 1459978240 crc FD421F87 md5 B603F891B9601B1E09E359919595A679 sha1 D87EDCB7E85EB7C2E068F3FCA99FCAFD1486288C serial "DL-DOL-GPDE-USA" )
 )
 game (
 	name "Dance Dance Revolution - Mario Mix (USA) (Rev 1)"
@@ -2336,10 +2336,10 @@ game (
 	rom ( name "Defender - For All Mankind (Europe) (En,Fr,De,Es,It).iso" size 1459978240 crc EB7EE458 md5 AAF205C648D9F4FF6B946E1CE9DA126B sha1 B440611C014727B68AAA47A0192D225949DBBD3C serial "DL-DOL-GDFP-EUR" )
 )
 game (
-	name "Densetsu no Quiz-ou Kettei-sen (Japan)"
+	name "Densetsu no Quiz-ou Ketteisen (Japan)"
 	region "Japan"
 	serial "DL-DOL-GQZJ-JPN"
-	rom ( name "Densetsu no Quiz-ou Kettei-sen (Japan).iso" size 1459978240 crc D62F1303 md5 CCEF64C67D79C189524A13643E7C1143 sha1 366BC922814DA5271A42493EB16E0E096551EC17 serial "DL-DOL-GQZJ-JPN" )
+	rom ( name "Densetsu no Quiz-ou Ketteisen (Japan).iso" size 1459978240 crc D62F1303 md5 CCEF64C67D79C189524A13643E7C1143 sha1 366BC922814DA5271A42493EB16E0E096551EC17 serial "DL-DOL-GQZJ-JPN" )
 )
 game (
 	name "Desastreuses Aventures des Orphelins Baudelaire, Les - D'Apres Lemony Snicket (France)"
@@ -3187,16 +3187,16 @@ game (
 	rom ( name "DreamWorks Shrek - SuperSlam (Europe).iso" size 1459978240 crc A5B27EE8 md5 0B82F430BCF48B84819E2E4B676444D3 sha1 387CE067F0DCBC8BDE76D1A0C4A9F60B39FD2D69 serial "DL-DOL-G3YP-UKV" )
 )
 game (
+	name "DreamWorks Shrek - SuperSlam (Europe) (De,Nl)"
+	region "Europe"
+	serial "DL-DOL-G3YY-EUU"
+	rom ( name "DreamWorks Shrek - SuperSlam (Europe) (De,Nl).iso" size 1459978240 crc BA48943A md5 8ED80AA6E2410B595CA2E8884B32DB3B sha1 0B0954030C54195A061D84194229FED2F2932603 serial "DL-DOL-G3YY-EUU" )
+)
+game (
 	name "DreamWorks Shrek - SuperSlam (Europe) (En,Fr,Es,It)"
 	region "Europe"
 	serial "DL-DOL-G3YX-EUR"
 	rom ( name "DreamWorks Shrek - SuperSlam (Europe) (En,Fr,Es,It).iso" size 1459978240 crc 2BD507C3 md5 EBBA8AEBDA5B68C144C14800ECC3343B sha1 8BDD081CA2C49254B45EB615EEEFE0EABB19A281 serial "DL-DOL-G3YX-EUR" )
-)
-game (
-	name "DreamWorks Shrek - SuperSlam (Germany)"
-	region "Germany"
-	serial "DL-DOL-G3YY-EUU"
-	rom ( name "DreamWorks Shrek - SuperSlam (Germany).iso" size 1459978240 crc BA48943A md5 8ED80AA6E2410B595CA2E8884B32DB3B sha1 0B0954030C54195A061D84194229FED2F2932603 serial "DL-DOL-G3YY-EUU" )
 )
 game (
 	name "DreamWorks Shrek - SuperSlam (USA)"
@@ -4124,8 +4124,11 @@ game (
 )
 game (
 	name "Galleon (USA) (Proto)"
+	releaseyear "2002"
+	releasemonth "06"
+	releaseday "19"
 	region "USA"
-	rom ( name "Galleon (USA) (Proto).iso" size 1459978240 crc 5DC67D47 md5 92C4519D2EB10FDD2ECCF81E49F28EF3 sha1 872A81CD803C6B3B23AB47247BFC2840296C5AA1 )
+	rom ( name "Galleon (USA) (Proto) (2002-06-19).iso" size 1459978240 crc 5DC67D47 md5 92C4519D2EB10FDD2ECCF81E49F28EF3 sha1 872A81CD803C6B3B23AB47247BFC2840296C5AA1 )
 )
 game (
 	name "Game Boy Player (Korea) (Rev 1)"
@@ -4266,10 +4269,10 @@ game (
 	rom ( name "Gekkan Nintendo Tentou Demo 2002.7.1 (Japan).iso" size 1459978240 crc 86DACAB6 md5 84936411BF7768BCDAC3BE8F401AD8EB sha1 4D7D77F67288902BA17BF6F42D19679E45CBCB54 serial "DL-DOL-D33J-DIS" )
 )
 game (
-	name "Gekkan Nintendo Tentou Demo 2002.7.10 Zoukan-gou (Japan)"
+	name "Gekkan Nintendo Tentou Demo 2002.7.10 Zoukangou (Japan)"
 	region "Japan"
 	serial "DL-DOL-D34J-DIS"
-	rom ( name "Gekkan Nintendo Tentou Demo 2002.7.10 Zoukan-gou (Japan).iso" size 1459978240 crc 878C6DEA md5 F185E3C31A81519EE0C0B2539EBCD442 sha1 8B863D521CE96C85C9DE60A9D95CCF10E6D8EDB6 serial "DL-DOL-D34J-DIS" )
+	rom ( name "Gekkan Nintendo Tentou Demo 2002.7.10 Zoukangou (Japan).iso" size 1459978240 crc 878C6DEA md5 F185E3C31A81519EE0C0B2539EBCD442 sha1 8B863D521CE96C85C9DE60A9D95CCF10E6D8EDB6 serial "DL-DOL-D34J-DIS" )
 )
 game (
 	name "Gekkan Nintendo Tentou Demo 2002.8.1 (Japan)"
@@ -4380,10 +4383,10 @@ game (
 	rom ( name "Gekkan Nintendo Tentou Demo 2003.9.1 (Japan).iso" size 1459978240 crc 1DB920C9 md5 5E577D351BF367FE5254FC3937DC05C6 sha1 FE65A31B19BB37CBECFD736FC21D01517465EA39 serial "DL-DOL-D63J-DIS" )
 )
 game (
-	name "Gekkan Nintendo Tentou Demo 2004-2005 Nenmatsunenshi-gou (Japan)"
+	name "Gekkan Nintendo Tentou Demo 2004-2005 Nenmatsunenshigou (Japan)"
 	region "Japan"
 	serial "DL-DOL-D92J-DIS"
-	rom ( name "Gekkan Nintendo Tentou Demo 2004-2005 Nenmatsunenshi-gou (Japan).iso" size 1459978240 crc F5F31D5D md5 B52DB38EDB94DE28E9FB95760911F1FB sha1 4476260FD236434AC3DAE9EA55A7389929895230 serial "DL-DOL-D92J-DIS" )
+	rom ( name "Gekkan Nintendo Tentou Demo 2004-2005 Nenmatsunenshigou (Japan).iso" size 1459978240 crc F5F31D5D md5 B52DB38EDB94DE28E9FB95760911F1FB sha1 4476260FD236434AC3DAE9EA55A7389929895230 serial "DL-DOL-D92J-DIS" )
 )
 game (
 	name "Gekkan Nintendo Tentou Demo 2004.1.1 (Japan)"
@@ -4654,6 +4657,12 @@ game (
 	region "Japan"
 	serial "DL-DOL-GZDJ-JPN"
 	rom ( name "Godzilla - Kaijuu Dairantou (Japan).iso" size 1459978240 crc 8C5EFD4D md5 0C6915AA951C86448F886667271CA888 sha1 6884B97138B61025ED3B9B9B435E811ADB1AC52E serial "DL-DOL-GZDJ-JPN" )
+)
+game (
+	name "Godzilla - Kaijuu Dairantou (Japan)"
+	region "Japan"
+	serial "DL-DOL-GZDJ-JPN-01"
+	rom ( name "Godzilla - Kaijuu Dairantou (Japan).iso" size 1459978240 crc 8C5EFD4D md5 0C6915AA951C86448F886667271CA888 sha1 6884B97138B61025ED3B9B9B435E811ADB1AC52E serial "DL-DOL-GZDJ-JPN-01" )
 )
 game (
 	name "GoldenEye - Agente Corrupto (Spain) (Disc 1)"
@@ -5267,8 +5276,8 @@ game (
 game (
 	name "Hudson Selection Vol. 1 - Cubic Lode Runner (Japan)"
 	region "Japan"
-	serial "DL-DOL-GQRJ-JPN"
-	rom ( name "Hudson Selection Vol. 1 - Cubic Lode Runner (Japan).iso" size 1459978240 crc E887EF9B md5 78D6ED41213BAA582BE1F925BF9A8966 sha1 E8324E9717833E77732C1F8B158997DB16DD5CBD serial "DL-DOL-GQRJ-JPN" )
+	serial "DL-DOL-GQRJ-JPN-01"
+	rom ( name "Hudson Selection Vol. 1 - Cubic Lode Runner (Japan).iso" size 1459978240 crc E887EF9B md5 78D6ED41213BAA582BE1F925BF9A8966 sha1 E8324E9717833E77732C1F8B158997DB16DD5CBD serial "DL-DOL-GQRJ-JPN-01" )
 )
 game (
 	name "Hudson Selection Vol. 2 - Star Soldier (Japan)"
@@ -5981,22 +5990,22 @@ game (
 	rom ( name "Kidou Senshi Gundam - Gundam vs. Z Gundam (Japan).iso" size 1459978240 crc AD128A51 md5 A32538FEEA555161A9D616BC8FF9C6B1 sha1 B1535A65E7DD6484A9F997AD93F989230819924E serial "DL-DOL-G2GJ-JPN" )
 )
 game (
-	name "Kidou Senshi Gundam - Senshi-tachi no Kiseki (Japan)"
+	name "Kidou Senshi Gundam - Senshitachi no Kiseki (Japan)"
 	region "Japan"
 	serial "DL-DOL-GGAJ-JPN"
-	rom ( name "Kidou Senshi Gundam - Senshi-tachi no Kiseki (Japan).iso" size 1459978240 crc 53ED327B md5 67E92B0F150D1747F70EABB070A9E2CA sha1 6DBFA755390C3FDF396923AA194CB8EDC8F617DE serial "DL-DOL-GGAJ-JPN" )
+	rom ( name "Kidou Senshi Gundam - Senshitachi no Kiseki (Japan).iso" size 1459978240 crc 53ED327B md5 67E92B0F150D1747F70EABB070A9E2CA sha1 6DBFA755390C3FDF396923AA194CB8EDC8F617DE serial "DL-DOL-GGAJ-JPN" )
 )
 game (
-	name "Kidou Senshi Gundam - Senshi-tachi no Kiseki (Japan) (Special Disc)"
+	name "Kidou Senshi Gundam - Senshitachi no Kiseki (Japan) (Special Disc)"
 	region "Japan"
 	serial "DL-DOL-DGAJ-DIS"
-	rom ( name "Kidou Senshi Gundam - Senshi-tachi no Kiseki (Japan) (Special Disc).iso" size 1459978240 crc 05458FAD md5 1BBB309C44BFA67B0B4246233DF9F93C sha1 2EE37D857AE5671D88F1440B21105DECD15EE7DE serial "DL-DOL-DGAJ-DIS" )
+	rom ( name "Kidou Senshi Gundam - Senshitachi no Kiseki (Japan) (Special Disc).iso" size 1459978240 crc 05458FAD md5 1BBB309C44BFA67B0B4246233DF9F93C sha1 2EE37D857AE5671D88F1440B21105DECD15EE7DE serial "DL-DOL-DGAJ-DIS" )
 )
 game (
-	name "Kidou Senshi Gundam - Senshi-tachi no Kiseki - Kadokawa Shoten Rengou Kikaku Tokubetsu-hen (Japan)"
+	name "Kidou Senshi Gundam - Senshitachi no Kiseki - Kadokawa Shoten Rengou Kikaku Tokubetsu-hen (Japan)"
 	region "Japan"
 	serial "DL-DOL-GKCJ-JPN"
-	rom ( name "Kidou Senshi Gundam - Senshi-tachi no Kiseki - Kadokawa Shoten Rengou Kikaku Tokubetsu-hen (Japan).iso" size 1459978240 crc FE5B5A53 md5 F7F6990E2EA9BA2D9C84358BA31257D8 sha1 22E5E6F159E6058DA45A5673CFA849B92A084B5F serial "DL-DOL-GKCJ-JPN" )
+	rom ( name "Kidou Senshi Gundam - Senshitachi no Kiseki - Kadokawa Shoten Rengou Kikaku Tokubetsu-hen (Japan).iso" size 1459978240 crc FE5B5A53 md5 F7F6990E2EA9BA2D9C84358BA31257D8 sha1 22E5E6F159E6058DA45A5673CFA849B92A084B5F serial "DL-DOL-GKCJ-JPN" )
 )
 game (
 	name "Killer7 (Europe) (En,Fr,De) (Disc 1)"
@@ -10503,10 +10512,10 @@ game (
 	rom ( name "Shrek Super Party (USA).iso" size 1459978240 crc 2C34401A md5 C2E91E244CD30BD717A4D203DECE1976 sha1 E45B67F1039202F108800D48F0CF1C64C566502F serial "DL-DOL-GSYE-USA" )
 )
 game (
-	name "Signore degli Anelli, Il - Il ritorno del Re (Italy)"
+	name "Signore degli Anelli, Il - Il Ritorno del Re (Italy)"
 	region "Italy"
 	serial "DL-DOL-GKLI-ITA"
-	rom ( name "Signore degli Anelli, Il - Il ritorno del Re (Italy).iso" size 1459978240 crc DAEBBD65 md5 24659B841122E95A9BA28DD06862FB79 sha1 3B63A8C44FDF1AE1E8AC45674FCCC9A290B833D6 serial "DL-DOL-GKLI-ITA" )
+	rom ( name "Signore degli Anelli, Il - Il Ritorno del Re (Italy).iso" size 1459978240 crc DAEBBD65 md5 24659B841122E95A9BA28DD06862FB79 sha1 3B63A8C44FDF1AE1E8AC45674FCCC9A290B833D6 serial "DL-DOL-GKLI-ITA" )
 )
 game (
 	name "Signore degli Anelli, Il - Le Due Torri (Italy)"
@@ -11203,6 +11212,12 @@ game (
 	region "Europe"
 	serial "DL-DOL-GLRP-EUR"
 	rom ( name "Star Wars - Rogue Squadron III - Rebel Strike (Europe) (En,Fr,De,Es,It).iso" size 1459978240 crc 54CA6364 md5 4E2E2806303314BDA2CD989A86358653 sha1 F3134C1238FE86F343D2E8AC992D4E2F8AC09294 serial "DL-DOL-GLRP-EUR" )
+)
+game (
+	name "Star Wars - Rogue Squadron III - Rebel Strike (Europe) (En,Fr,De,Es,It) (Limited Edition Preview Disc)"
+	region "Europe"
+	serial "DL-DOL-DLSP-EUR"
+	rom ( name "Star Wars - Rogue Squadron III - Rebel Strike (Europe) (En,Fr,De,Es,It) (Limited Edition Preview Disc).iso" size 1459978240 crc 3657BA07 md5 7AE2720A0984E16489E2F049C224FE71 sha1 B47BC2A3BBCAA56B680D9EFC2E2B32812AE42E04 serial "DL-DOL-DLSP-EUR" )
 )
 game (
 	name "Star Wars - Rogue Squadron III - Rebel Strike (France) (En,Fr)"
@@ -12846,12 +12861,6 @@ game (
 	region "Europe"
 	serial "DL-DOL-GVJP-NOE"
 	rom ( name "Viewtiful Joe (Europe) (En,Fr,De,Es,It).iso" size 1459978240 crc 205A62CF md5 A1A4DD42B98207B744215E9E1140DE11 sha1 DD5739A45974F70F4CE1CE0E309D2341CDE5EAC9 serial "DL-DOL-GVJP-NOE" )
-)
-game (
-	name "Viewtiful Joe (Europe) (Promo)"
-	region "Europe"
-	serial "DL-DOL-DVJP-EUR"
-	rom ( name "Viewtiful Joe (Europe) (Promo).iso" size 1459978240 crc AFF83635 md5 D77B3DBB6555A82FEFF166A40401DC7A sha1 924667A79D97D813D1CF1CB53E8D653AF2378D13 serial "DL-DOL-DVJP-EUR" )
 )
 game (
 	name "Viewtiful Joe (Japan)"

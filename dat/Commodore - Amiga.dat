@@ -1,6 +1,6 @@
 clrmamepro (
 	name "Commodore - Amiga - WHDLoad"
-	date "2026-04-12"
+	date "2026-05-08"
 	author "libretro"
 	comment "Retroplay's WHDLoad Games & Beta/Unofficial, full sets"
 )
@@ -6703,42 +6703,42 @@ game (
 
 game (
 	name "Flight Simulator II & Hawaiian Odyssey Scenery Adventure (Europe)"
-	rom ( name "FlightSimulator2&HawaiianSceneryDisk_v1.0_0329.lha" size 196410 crc 6F86DC5E sha1 af9cb2ad4e7cb8fadf7afba7b26b66175ecaf64a )
+	rom ( name "FlightSimulator2&HawaiianSceneryDisk_v1.1_0329.lha" size 198075 crc 859E85ED sha1 f7178d28a12e0312aa704c0987b252f6cf86342a )
 )
 
 game (
 	name "Flight Simulator II & Scenery Disk 7 (Europe)"
-	rom ( name "FlightSimulator2&SceneryDisk07_v1.0_0329.lha" size 228193 crc B6ABDB3B sha1 4565d36eb7ec4402cf8c6e3209068643935c0ec3 )
+	rom ( name "FlightSimulator2&SceneryDisk07_v1.1_0329.lha" size 229871 crc A437E3FB sha1 72b55d1f7467d9cacb0ec49e02f636a91de51245 )
 )
 
 game (
 	name "Flight Simulator II & Scenery Disk 9 (Europe)"
-	rom ( name "FlightSimulator2&SceneryDisk09_v1.0_0329.lha" size 315038 crc 5EACA59F sha1 02807af7cfcc2552e54c154436f8664344b13b87 )
+	rom ( name "FlightSimulator2&SceneryDisk09_v1.1_0329.lha" size 316713 crc BCDE5A18 sha1 a462c019d0d19e56e29944e50944d047420c82fa )
 )
 
 game (
 	name "Flight Simulator II & Scenery Disk 11 (Europe)"
-	rom ( name "FlightSimulator2&SceneryDisk11_v1.0_0329.lha" size 223060 crc CCDF7096 sha1 f4fa2dc29d256747a8319278f6694d38efbb3775 )
+	rom ( name "FlightSimulator2&SceneryDisk11_v1.1_0329.lha" size 224742 crc FE9A99B7 sha1 6a3bc8afaea915226e98e41a2bb9465a6d03325f )
 )
 
 game (
 	name "Flight Simulator II & Scenery Disk 12 (Europe)"
-	rom ( name "FlightSimulator2&SceneryDisk12_v1.0_0329.lha" size 283491 crc CEB1BC01 sha1 50fb8a796aad30416308e4cb021cfea20176cb55 )
+	rom ( name "FlightSimulator2&SceneryDisk12_v1.1_0329.lha" size 285171 crc 2971E2D0 sha1 46482260409e97054d6be374ab0b3533f0c2aa83 )
 )
 
 game (
 	name "Flight Simulator II & Japan Scenery Disk (Europe)"
-	rom ( name "FlightSimulator2&SceneryDisk13_v1.0_0329.lha" size 142935 crc 86468C18 sha1 91e5c1b2b0fb98e35304f26fc4c847d5164e247b )
+	rom ( name "FlightSimulator2&SceneryDisk13_v1.1_0329.lha" size 144613 crc E16F1F75 sha1 2f2d70a089f54c27df206954da3bb4d9c4d000bd )
 )
 
 game (
 	name "Flight Simulator II & Western European Tour Scenery Disk (Europe)"
-	rom ( name "FlightSimulator2&SceneryDisk14_v1.0_0329.lha" size 215031 crc 66568E74 sha1 489c50458a39a17865bec162efcb7738a0df755c )
+	rom ( name "FlightSimulator2&SceneryDisk14_v1.1_0329.lha" size 216712 crc C998CC4F sha1 a8c9641c30b250827a9e38163129bd3d88e3d92f )
 )
 
 game (
 	name "Flight Simulator II (Europe)"
-	rom ( name "FlightSimulator2_v1.0_0329.lha" size 196863 crc F659406C sha1 e8c6fc82f4f870d9c684f7603c81eab5efb95f51 )
+	rom ( name "FlightSimulator2_v1.1_0329.lha" size 198525 crc 7E2665DE sha1 9452b09eb9c4538fd9e5b8fe1672030fd4d0beba )
 )
 
 game (
@@ -8758,7 +8758,7 @@ game (
 )
 
 game (
-	name "I Play 3D Soccer (Europe) (En,Fr,De,It)"
+	name "I Play - 3-D Soccer (Europe) (En,Fr,De,It)"
 	rom ( name "IPlay3DSoccer_v1.01_2104.lha" size 410891 crc A2A6886F sha1 59943c46904d04d42742f37d2413da789e372011 )
 )
 
@@ -20015,6 +20015,11 @@ game (
 )
 
 game (
+	name "Double Dragon (Europe) (AGA)"
+	rom ( name "DoubleDragon_Alpha2_AGA.lha" size 3417459 crc 6F733EC1 sha1 3fc99647c48171f5d7afe6736975798c7bebe273 )
+)
+
+game (
 	name "Elevator Action 500 (Europe) (AGA) (PD/Freeware)"
 	rom ( name "ElevatorAction_v1.02_AGA.lha" size 212308 crc 6AB90F29 sha1 1727e74397902583958725de3baf5a4df7034d17 )
 )
@@ -20142,6 +20147,11 @@ game (
 game (
 	name "International Karate (Europe) (Atari ST)"
 	rom ( name "InternationalKarate_v1.0_AtariST.lha" size 295744 crc 68F01ED7 sha1 093441a58d65eee0e7a5a94e53c279177eb99648 )
+)
+
+game (
+	name "JailBreak (Europe) (AGA)"
+	rom ( name "JailBreak_v1.0_AGA.lha" size 444030 crc DA349EE0 sha1 4011ddd9e1bb75b7a9101694b1c371a92bd4719c )
 )
 
 game (
